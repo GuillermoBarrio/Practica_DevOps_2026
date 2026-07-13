@@ -28,7 +28,7 @@ jobs:
     - name: Set up Cloud SDK
       uses: google-github-actions/setup-gcloud@v2
       with:
-        project_id: ${{ secrets.GCP_PROJECT_ID }}
+        project_id: "practica-devops-26"
 
     - name: Deploy to Cloud Run
       run: |
@@ -37,5 +37,5 @@ jobs:
           --region europe-west4 \
           --allow-unauthenticated \
           --memory 512Mi \
-          --set-secrets="DEEPSEEK_API_KEY=DEEPSEEK_API_KEY:latest,LANGCHAIN_API_KEY=LANGSMITH_API_KEY:latest"
+          --set-secrets="DEEPSEEK_API_KEY=DEEPSEEK_API_KEY:latest,LANGCHAIN_API_KEY=LANGSMITH_API_KEY:latest"\
           --project="practica-devops-26"
