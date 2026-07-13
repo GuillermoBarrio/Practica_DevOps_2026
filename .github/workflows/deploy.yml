@@ -38,3 +38,4 @@ jobs:
           --allow-unauthenticated \
           --memory 512Mi \
           --set-secrets="DEEPSEEK_API_KEY=DEEPSEEK_API_KEY:latest,LANGCHAIN_API_KEY=LANGSMITH_API_KEY:latest"
+          --project="practica-devops-26"
