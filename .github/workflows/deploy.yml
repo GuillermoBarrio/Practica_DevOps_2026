@@ -1,0 +1,40 @@
+name: Deploy to Cloud Run via GitHub Actions
+
+on:
+  push:
+    branches:
+      - main  # Se ejecutará cada vez que subas cambios a la rama main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    # Permisos necesarios para interactuar con la autenticación de Google Cloud
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Authenticate to Google Cloud
+      id: auth
+      uses: google-github-actions/auth@v2
+      with:
+        workload_identity_provider: ${{ secrets::GCP_WORKLOAD_PROVIDER }}
+        service_account: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+
+    - name: Set up Cloud SDK
+      uses: google-github-actions/setup-gcloud@v2
+      with:
+        project_id: ${{ secrets::GCP_PROJECT_ID }}
+
+    - name: Deploy to Cloud Run
+      run: |
+        gcloud run deploy autobloomberg \
+          --source . \
+          --region europe-west4 \
+          --allow-unauthenticated \
+          --memory 512Mi \
+          --set-secrets="DEEPSEEK_API_KEY=DEEPSEEK_API_KEY:latest,LANGCHAIN_API_KEY=LANGSMITH_API_KEY:latest"
