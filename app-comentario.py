@@ -13,7 +13,7 @@ from openai import OpenAI
 import warnings
 import tempfile
 import os
-from openai._base_client import DefaultHttpxClient
+import httpx
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -830,8 +830,12 @@ def main():
                     client = OpenAI(
                         api_key=api_key, 
                         base_url="https://api.deepseek.com/v1",
-                        http_client=DefaultHttpxClient(proxy=None)  # <-- Esto desactiva proxies de red internos de GCP
+                        # http_client=DefaultHttpxClient(proxy=None)  # <-- Esto desactiva proxies de red internos de GCP
+                        http_client=httpx.Client(trust_env=False)  # <-- Esto desactiva proxies de entorno de forma nativa en httpx
                         )
+
+
+
 
                     # Cargar datos
                     excel_bytes_io = io.BytesIO(excel_file.getvalue())
