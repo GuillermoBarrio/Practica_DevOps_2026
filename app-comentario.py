@@ -835,8 +835,6 @@ def main():
                         )
 
 
-
-
                     # Cargar datos
                     excel_bytes_io = io.BytesIO(excel_file.getvalue())
                     excel_data = ExcelDataLoader.load_from_excel(excel_bytes_io)
