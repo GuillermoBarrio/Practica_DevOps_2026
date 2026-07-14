@@ -204,7 +204,9 @@ Resumen (150 palabras máximo):"""
             )
             summary = response.choices[0].message.content.strip()
             return f"**{title}**: {summary}"
-        except Exception:
+        except Exception as e:
+
+            print(f"❌ ERROR REAL EN FED SPEECH: {str(e)}") # Esto saldrá en tus logs de Google Cloud Run
             return None
 
     def fetch_and_summarize_new_speeches(self, log_callback=None) -> List[str]:
@@ -745,6 +747,8 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
     except Exception as e:
         if log_callback:
             log_callback(f"❌ Error: {e}")
+
+        print(f"❌ ERROR REAL EN GENERATE: {str(e)}") # Esto saldrá en tus logs de Google Cloud Run
         return None
 
 
