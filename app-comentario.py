@@ -13,7 +13,7 @@ from openai import OpenAI
 import warnings
 import tempfile
 import os
-from openai import DefaultHttpxClient
+from openai._base_client import DefaultHttpxClient
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
