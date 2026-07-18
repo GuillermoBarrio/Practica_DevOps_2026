@@ -13,6 +13,7 @@ from google import genai
 import warnings
 import tempfile
 import os
+from google.genai.types import HttpOptions, GenerateContentConfig
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -825,8 +826,7 @@ def main():
                 try:
                     add_log("🚀 Iniciando proceso...")
                     add_log("📊 Cargando datos del Excel...")
-                    client = genai.Client(api_key=api_key,
-		    http_options={'api_version': 'v1'})
+                    client = genai.Client(api_key=api_key, http_options=HttpOptions(api_version="v1beta") )
 
 
                     # Cargar datos
