@@ -5,6 +5,7 @@ feedparser
 beautifulsoup4
 requests
 openai==1.12.0
+google-genai
 httpx==0.26.0
 
 
