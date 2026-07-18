@@ -196,7 +196,7 @@ Discurso:
 Resumen (150 palabras máximo):"""
         try:
             response = self.client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-1.5-flash",
                 contents=prompt,
                 config=genai.types.GenerateContentConfig(
                     max_output_tokens=350,
@@ -680,7 +680,7 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-1.5-flash",
             contents=validation_prompt,
             config=genai.types.GenerateContentConfig(
                 temperature=0.0,
@@ -704,16 +704,16 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
 
 
 def generate_commentary(client, before_bell, five_things, market_data, examples, fed_summaries, log_callback=None):
-    """Genera el comentario usando Gemini 2.5 Pro"""
+    """Genera el comentario usando Gemini 1.5 Pro"""
     is_monday = datetime.now().weekday() == 0
     prompt = build_prompt(before_bell, five_things, market_data, is_monday, examples, fed_summaries)
 
     if log_callback:
-        log_callback("🤖 Generando comentario con Gemini 2.5 Pro...")
+        log_callback("🤖 Generando comentario con Gemini 1.5 Pro...")
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-pro",
+            model="gemini-1.5-pro",
             contents=prompt,
             config=genai.types.GenerateContentConfig(
                 system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado en castellano, con estilo profesional, conciso y datos precisos.",
