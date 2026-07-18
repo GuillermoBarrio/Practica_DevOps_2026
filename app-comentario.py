@@ -9,11 +9,10 @@ from typing import Dict, List, Optional, Tuple
 import io
 import re
 import time
-from openai import OpenAI
+from google import genai
 import warnings
 import tempfile
 import os
-import httpx
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -83,8 +82,8 @@ st.markdown("""
 class FEDSpeechProcessor:
     """Procesa discursos de la Reserva Federal desde su feed RSS oficial."""
 
-    def __init__(self, openai_client, state_file=None):
-        self.client = openai_client
+    def __init__(self, genai_client, state_file=None):
+        self.client = genai_client
         self.feed_url = "https://www.federalreserve.gov/feeds/speeches.xml"
         
         # Usar el directorio temporal del sistema operativo (/tmp en Cloud Run)
@@ -196,14 +195,15 @@ Discurso:
 
 Resumen (150 palabras máximo):"""
         try:
-            response = self.client.chat.completions.create(
-                model="deepseek-v4-flash",
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=350,
-                temperature=0.3,
-                extra_body={"thinking": {"type": "disabled"}}
+            response = self.client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=genai.types.GenerateContentConfig(
+                    max_output_tokens=350,
+                    temperature=0.3,
+                )
             )
-            summary = response.choices[0].message.content.strip()
+            summary = response.text.strip()
             return f"**{title}**: {summary}"
         except Exception as e:
 
@@ -638,11 +638,11 @@ Genera el comentario de mercados a continuación:"""
 
 
 # =====================================================
-# 6. VALIDACIÓN NUMÉRICA (CON DEEPSEEK V4-FLASH)
+# 6. VALIDACIÓN NUMÉRICA (CON GEMINI 2.5 FLASH)
 # =====================================================
 
 def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) -> Dict:
-    """Usa DeepSeek V4-Flash para verificar que los números clave son correctos."""
+    """Usa Gemini 2.5 Flash para verificar que los números clave son correctos."""
 
     # Seleccionar los datos más críticos para la validación
     critical_data = {
@@ -679,15 +679,16 @@ RESPONDE ÚNICAMENTE CON UN JSON EN ESTE FORMATO:
 Donde "errors" es una lista de strings describiendo cada error encontrado."""
 
     try:
-        response = client.chat.completions.create(
-            model="deepseek-v4-flash",
-            messages=[{"role": "user", "content": validation_prompt}],
-            temperature=0.0,
-            max_tokens=500,
-            response_format={"type": "json_object"},
-            extra_body={"thinking": {"type": "disabled"}}
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=validation_prompt,
+            config=genai.types.GenerateContentConfig(
+                temperature=0.0,
+                max_output_tokens=500,
+                response_mime_type="application/json",
+            )
         )
-        result = json.loads(response.choices[0].message.content)
+        result = json.loads(response.text)
         return result
     except Exception as e:
         print(f"   - Error en el validador de números: {e}")
@@ -698,30 +699,29 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
 
 
 # =====================================================
-# 7. GENERACIÓN DEL COMENTARIO (CON DEEPSEEK V4-PRO)
+# 7. GENERACIÓN DEL COMENTARIO (CON GEMINI 2.5 PRO)
 # =====================================================
 
 
 def generate_commentary(client, before_bell, five_things, market_data, examples, fed_summaries, log_callback=None):
-    """Genera el comentario usando DeepSeek V4-Pro"""
+    """Genera el comentario usando Gemini 2.5 Pro"""
     is_monday = datetime.now().weekday() == 0
     prompt = build_prompt(before_bell, five_things, market_data, is_monday, examples, fed_summaries)
 
     if log_callback:
-        log_callback("🤖 Generando comentario con DeepSeek V4-Pro...")
+        log_callback("🤖 Generando comentario con Gemini 2.5 Pro...")
 
     try:
-        response = client.chat.completions.create(
-            model="deepseek-v4-pro",
-            messages=[
-                {"role": "system", "content": "Eres un analista financiero senior. Redactas comentarios de mercado en castellano, con estilo profesional, conciso y datos precisos."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.7,
-            max_tokens=2500,
-            extra_body={"thinking": {"type": "disabled"}}
+        response = client.models.generate_content(
+            model="gemini-2.5-pro",
+            contents=prompt,
+            config=genai.types.GenerateContentConfig(
+                system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado en castellano, con estilo profesional, conciso y datos precisos.",
+                temperature=0.7,
+                max_output_tokens=2500,
+            )
         )
-        generated_text = response.choices[0].message.content
+        generated_text = response.text
 
         validation = validate_numbers_with_llm(client, generated_text, market_data)
 
@@ -772,11 +772,11 @@ def main():
 
     # Header
     # st.markdown('<div class="main-header">📈 Comentario de Mercados</div>', unsafe_allow_html=True)
-    # st.markdown('<div class="sub-header">Generación automática con IA (DeepSeek V4-Pro)</div>', unsafe_allow_html=True)
+    # st.markdown('<div class="sub-header">Generación automática con IA (Gemini 2.5 Pro)</div>', unsafe_allow_html=True)
 
 
     st.markdown('<div class="main-header">📈 Comentario de Mercados</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header">Generación automática con IA (DeepSeek V4-Pro)</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header">Generación automática con IA (Gemini 2.5 Pro)</div>', unsafe_allow_html=True)
 
 
 
@@ -786,10 +786,10 @@ def main():
         st.markdown("---")
         st.header("⚙️ Configuración")
 
-        # api_key = st.text_input("DeepSeek API Key", type="password",
-           #                     help="Introduce tu API key de DeepSeek")
+        # api_key = st.text_input("Gemini API Key", type="password",
+        #                     help="Introduce tu API key de Google AI Studio")
         
-        api_key = os.environ.get("DEEPSEEK_API_KEY", st.text_input("DeepSeek API Key", type="password", help="Introduce tu API key de DeepSeek"))
+        api_key = os.environ.get("GEMINI_API_KEY", st.text_input("Gemini API Key", type="password", help="Introduce tu API key de Google AI Studio"))
 
         st.markdown("---")
         st.header("📁 Archivos")
@@ -810,7 +810,7 @@ def main():
         st.subheader("📋 Progreso")
 
         if generate_btn and not api_key:
-            st.error("❌ Por favor, introduce tu API key de DeepSeek")
+            st.error("❌ Por favor, introduce tu API key de Gemini")
         elif generate_btn:
             if not all([excel_file, before_bell_file, five_things_file, examples_file]):
                 st.error("❌ Por favor, sube todos los archivos necesarios")
@@ -825,14 +825,7 @@ def main():
                 try:
                     add_log("🚀 Iniciando proceso...")
                     add_log("📊 Cargando datos del Excel...")
-                    # client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com/v1")
-
-                    client = OpenAI(
-                        api_key=api_key, 
-                        base_url="https://api.deepseek.com/v1",
-                        # http_client=DefaultHttpxClient(proxy=None)  # <-- Esto desactiva proxies de red internos de GCP
-                        http_client=httpx.Client(trust_env=False)  # <-- Esto desactiva proxies de entorno de forma nativa en httpx
-                        )
+                    client = genai.Client(api_key=api_key)
 
 
                     # Cargar datos
