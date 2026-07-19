@@ -625,12 +625,13 @@ def build_prompt(before_bell_content: str, five_things_content: str,
 
 ## INSTRUCCIONES FINALES:
 1. Hoy es {datetime.now().strftime('%d/%m/%Y')}.
-2. Usa los DATOS NUMÉRICOS EXACTOS que se te han dado. NO los inventes.
-3. Genera los párrafos temáticos en orden de importancia: primero los que consideres más relevantes.
-4. La información de "Before the Bell" y "Five Things" es la base para el análisis cualitativo, las perspectivas y las noticias corporativas.
-5. Si se incluyen discursos de la FED, son la fuente principal para hablar de política monetaria.
-6. Si hoy es lunes, los ratios PE, los crecimientos de EPS y las tendencias se tienen que integrar en el análisis de renta variable.
-7. No añadas texto introductorio como "Claro, aquí tienes...". Empieza directamente con el análisis.
+2. Es imperativo que el análisis sea extenso y desarrolle todos los puntos, con una longitud cercana a las 550 palabras. No dejes el texto inacabado.
+3. Usa los DATOS NUMÉRICOS EXACTOS que se te han dado. NO los inventes.
+4. Genera los párrafos temáticos en orden de importancia: primero los que consideres más relevantes.
+5. La información de "Before the Bell" y "Five Things" es la base para el análisis cualitativo, las perspectivas y las noticias corporativas.
+6. Si se incluyen discursos de la FED, son la fuente principal para hablar de política monetaria.
+7. Si hoy es lunes, los ratios PE, los crecimientos de EPS y las tendencias se tienen que integrar en el análisis de renta variable.
+8. No añadas texto introductorio como "Claro, aquí tienes...". Empieza directamente con el análisis.
 
 Genera el comentario de mercados a continuación:"""
 
@@ -700,24 +701,24 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
 
 
 # =====================================================
-# 7. GENERACIÓN DEL COMENTARIO (CON GEMINI 2.5 PRO)
+# 7. GENERACIÓN DEL COMENTARIO (CON GEMINI 3.5 FLASH)
 # =====================================================
 
 
 def generate_commentary(client, before_bell, five_things, market_data, examples, fed_summaries, log_callback=None):
-    """Genera el comentario usando Gemini 1.5 Pro"""
+    """Genera el comentario usando Gemini 3.5 Flash"""
     is_monday = datetime.now().weekday() == 0
     prompt = build_prompt(before_bell, five_things, market_data, is_monday, examples, fed_summaries)
 
     if log_callback:
-        log_callback("🤖 Generando comentario con Gemini 1.5 Pro...")
+        log_callback("🤖 Generando comentario con Gemini 3.5 Flash...")
 
     try:
         response = client.models.generate_content(
             model="gemini-3.5-flash",
             contents=prompt,
             config=genai.types.GenerateContentConfig(
-                system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado en castellano, con estilo profesional, conciso y datos precisos.",
+                system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado detallados y completos en castellano, desarrollando en profundidad los datos proporcionados.",
                 temperature=0.7,
                 max_output_tokens=2500,
             )
