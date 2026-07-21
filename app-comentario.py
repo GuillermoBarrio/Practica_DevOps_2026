@@ -663,13 +663,20 @@ def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) ->
         "stoxx_eps_growth": market_data.get("stoxx_eps_growth", 0)
     }
 
+
+    # Escapamos/limpiamos el texto para no romper el prompt del  JSON
+    clean_generated_text = generated_text.replace('"', "'")
+
+
+
     validation_prompt = f"""Eres un verificador de datos. Compara el texto generado con los datos originales.
 
 DATOS ORIGINALES CORRECTOS:
 {json.dumps(critical_data, indent=2, ensure_ascii=False)}
 
 TEXTO GENERADO:
-{generated_text}
+
+"{clean_generated_text}"
 
 Reglas:
 - Tolerancia: ±0.05 para precios, ±0.1% para porcentajes.
@@ -690,7 +697,8 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
                 response_mime_type="application/json",
             )
         )
-        result = json.loads(response.text)
+        raw_text = response.text.strip().replace("```json", "").replace("```", "")
+        result = json.loads(raw_text)
         return result
     except Exception as e:
         print(f"   - Error en el validador de números: {e}")
@@ -719,13 +727,13 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             contents=prompt,
             config=genai.types.GenerateContentConfig(
                 system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado detallados y completos en castellano, desarrollando en profundidad los datos proporcionados.",
-                temperature=0.7,
-                max_output_tokens=2500,
+                temperature=0.5,
+                max_output_tokens=3000,
             )
         )
         generated_text = response.text
 
-        validation = validate_numbers_with_llm(client, generated_text, market_data)
+        # validation = validate_numbers_with_llm(client, generated_text, market_data)
 
         if log_callback:
             log_callback(f"✅ Comentario generado ({len(generated_text)} caracteres)")
