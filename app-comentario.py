@@ -666,6 +666,7 @@ def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) ->
 
     # Escapamos/limpiamos el texto para no romper el prompt del  JSON
     clean_generated_text = generated_text.replace('"', "'")
+    safe_text_json = json.dumps(generated_text, ensure_ascii=False)
 
 
 
@@ -676,7 +677,7 @@ DATOS ORIGINALES CORRECTOS:
 
 TEXTO GENERADO:
 
-"{clean_generated_text}"
+"{safe_text_json}"
 
 Reglas:
 - Tolerancia: ±0.05 para precios, ±0.1% para porcentajes.
@@ -722,15 +723,35 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
         log_callback("🤖 Generando comentario con Gemini 3.5 Flash...")
 
     try:
+
+	# Configuración de seguridad para evitar cortes por noticias geopolíticas/bélicas
+        safety_settings = [
+            {"category": HarmCategory.HARM_CATEGORY_HARASSMENT, "threshold": HarmBlockThreshold.BLOCK_NONE},
+            {"category": HarmCategory.HARM_CATEGORY_HATE_SPEECH, "threshold": HarmBlockThreshold.BLOCK_NONE},
+            {"category": HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT, "threshold": HarmBlockThreshold.BLOCK_NONE},
+            {"category": HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT, "threshold": HarmBlockThreshold.BLOCK_NONE},
+        ]
+
+
         response = client.models.generate_content(
             model="gemini-3.5-flash",
             contents=prompt,
             config=genai.types.GenerateContentConfig(
                 system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado detallados y completos en castellano, desarrollando en profundidad los datos proporcionados.",
-                temperature=0.5,
-                max_output_tokens=3000,
+                temperature=0.6,
+                max_output_tokens=3500,
+		safety_settings=safety_settings,
             )
         )
+
+
+	# Inspección del motivo de finalización
+        if response.candidates and response.candidates[0].finish_reason:
+            finish_reason = response.candidates[0].finish_reason
+            if log_callback:
+                log_callback(f"ℹ️ Motivo de finalización del LLM: {finish_reason}")
+            print(f"DEBUG Finish Reason: {finish_reason}")
+
         generated_text = response.text
 
         # validation = validate_numbers_with_llm(client, generated_text, market_data)
