@@ -733,18 +733,26 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
         ]
 
 
-	# Definimos el diccionario de configuración explícito
-        config_dict = {
-            "system_instruction": "Eres un analista financiero senior. Redactas comentarios de mercado detallados, fluidos y completos en castellano. Desarrolla ampliamente cada sección hasta completar unas 550 palabras.",
-            "temperature": 0.7,
-            "max_output_tokens": 3500,
-            "safety_settings": safety_settings,
-        }
+	config_setup = types.GenerateContentConfig(
+    		system_instruction=(
+        	"Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
+        	"IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
+        	"estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
+   		 ),
+    		temperature=1.0, 
+    		# 1. REMOVE or DRAMATICALLY INCREASE the token cap
+    		max_output_tokens=8192, 
+    		# 2. SEPARATE thinking tokens from your final visible text budget
+    		thinking_config=types.ThinkingConfig(thinking_budget=2048),
+    		safety_settings=safety_settings,
+	)
+
+
 
         response = client.models.generate_content(
             model="gemini-3.5-flash",
             contents=prompt,
-            config=config_dict,  # <-- Pasamos el diccionario directo
+            config=config_setup,  # <-- Pasamos el diccionario directo
         )
 
 
