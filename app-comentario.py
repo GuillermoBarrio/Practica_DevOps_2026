@@ -14,7 +14,6 @@ from google.genai import types
 import warnings
 import tempfile
 import os
-from google.genai.types import GenerateContentConfig
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -755,6 +754,19 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             contents=prompt,
             config=config_setup,  # <-- Pasamos el diccionario directo
         )
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 	# Inspección del motivo de finalización
