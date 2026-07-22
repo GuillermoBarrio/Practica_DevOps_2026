@@ -723,8 +723,7 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
         log_callback("🤖 Generando comentario con Gemini 3.5 Flash...")
 
     try:
-
-	# Configuración de seguridad para evitar cortes por noticias geopolíticas/bélicas
+        # Configuración de seguridad para evitar cortes por noticias geopolíticas/bélicas
         safety_settings = [
             {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
             {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
@@ -732,44 +731,25 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
         ]
 
-
-	config_setup = types.GenerateContentConfig(
-    	system_instruction=(
-	        "Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
-        	"IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
-        	"estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
-   		 ),
-    	temperature=1.0, 
-    	# 1. REMOVE or DRAMATICALLY INCREASE the token cap
-    	max_output_tokens=8192, 
-    	# 2. SEPARATE thinking tokens from your final visible text budget
-    	thinking_config=types.ThinkingConfig(thinking_budget=2048),
-    	safety_settings=safety_settings,
-	)
-
-
+        config_setup = types.GenerateContentConfig(
+            system_instruction=(
+                "Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
+                "IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
+                "estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
+            ),
+            temperature=1.0, 
+            max_output_tokens=8192, 
+            thinking_config=types.ThinkingConfig(thinking_budget=2048),
+            safety_settings=safety_settings,
+        )
 
         response = client.models.generate_content(
             model="gemini-3.5-flash",
             contents=prompt,
-            config=config_setup,  # <-- Pasamos el diccionario directo
+            config=config_setup,
         )
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	# Inspección del motivo de finalización
+        # Inspección del motivo de finalización
         if response.candidates and response.candidates[0].finish_reason:
             finish_reason = response.candidates[0].finish_reason
             if log_callback:
@@ -778,33 +758,24 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
 
         generated_text = response.text
 
-        # validation = validate_numbers_with_llm(client, generated_text, market_data)
-
         if log_callback:
             log_callback(f"✅ Comentario generado ({len(generated_text)} caracteres)")
 
-        # validation = validate_numbers_with_llm(client, generated_text, market_data)
-
         if log_callback:
-          log_callback(f"✅ Validación en marcha!")
+            log_callback(f"✅ Validación en marcha!")
 
         validation = validate_numbers_with_llm(client, generated_text, market_data)
-
 
         return {
             "comentario": generated_text,
             "validation": validation
         }
 
-
-        # return generated_text
-
-
     except Exception as e:
         if log_callback:
             log_callback(f"❌ Error: {e}")
 
-        print(f"❌ ERROR REAL EN GENERATE: {str(e)}") # Esto saldrá en tus logs de Google Cloud Run
+        print(f"❌ ERROR REAL EN GENERATE: {str(e)}")
         return None
 
 
