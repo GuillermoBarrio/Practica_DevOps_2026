@@ -640,11 +640,11 @@ Genera el comentario de mercados a continuación:"""
 
 
 # =====================================================
-# 6. VALIDACIÓN NUMÉRICA (CON GEMINI 2.5 FLASH)
+# 6. VALIDACIÓN NUMÉRICA (CON GEMINI 3.5 FLASH)
 # =====================================================
 
 def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) -> Dict:
-    """Usa Gemini 2.5 Flash para verificar que los números clave son correctos."""
+    """Usa Gemini 3.5 Flash para verificar que los números clave son correctos."""
 
     # Seleccionar los datos más críticos para la validación
     critical_data = {
@@ -732,6 +732,7 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
         ]
 
+'''
         response = client.models.generate_content(
             model="gemini-3.5-flash",
             contents=prompt,
@@ -741,6 +742,22 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
                 max_output_tokens=3500,
 		safety_settings=safety_settings,
             )
+        )
+
+'''
+
+	# Definimos el diccionario de configuración explícito
+        config_dict = {
+            "system_instruction": "Eres un analista financiero senior. Redactas comentarios de mercado detallados, fluidos y completos en castellano. Desarrolla ampliamente cada sección hasta completar unas 550 palabras.",
+            "temperature": 0.7,
+            "max_output_tokens": 3000,
+            "safety_settings": safety_settings,
+        }
+
+        response = client.models.generate_content(
+            model="gemini-3.5-flash",
+            contents=prompt,
+            config=config_dict,  # <-- Pasamos el diccionario directo
         )
 
 
