@@ -732,25 +732,12 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
         ]
 
-'''
-        response = client.models.generate_content(
-            model="gemini-3.5-flash",
-            contents=prompt,
-            config=genai.types.GenerateContentConfig(
-                system_instruction="Eres un analista financiero senior. Redactas comentarios de mercado detallados y completos en castellano, desarrollando en profundidad los datos proporcionados.",
-                temperature=0.6,
-                max_output_tokens=3500,
-		safety_settings=safety_settings,
-            )
-        )
-
-'''
 
 	# Definimos el diccionario de configuración explícito
         config_dict = {
             "system_instruction": "Eres un analista financiero senior. Redactas comentarios de mercado detallados, fluidos y completos en castellano. Desarrolla ampliamente cada sección hasta completar unas 550 palabras.",
             "temperature": 0.7,
-            "max_output_tokens": 3000,
+            "max_output_tokens": 3500,
             "safety_settings": safety_settings,
         }
 
