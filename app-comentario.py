@@ -735,17 +735,17 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
 
 
 	config_setup = types.GenerateContentConfig(
-    		system_instruction=(
-	        	"Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
-        		"IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
-        		"estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
+    	system_instruction=(
+	        "Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
+        	"IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
+        	"estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
    		 ),
-    		temperature=1.0, 
-    		# 1. REMOVE or DRAMATICALLY INCREASE the token cap
-    		max_output_tokens=8192, 
-    		# 2. SEPARATE thinking tokens from your final visible text budget
-    		thinking_config=types.ThinkingConfig(thinking_budget=2048),
-    		safety_settings=safety_settings,
+    	temperature=1.0, 
+    	# 1. REMOVE or DRAMATICALLY INCREASE the token cap
+    	max_output_tokens=8192, 
+    	# 2. SEPARATE thinking tokens from your final visible text budget
+    	thinking_config=types.ThinkingConfig(thinking_budget=2048),
+    	safety_settings=safety_settings,
 	)
 
 
