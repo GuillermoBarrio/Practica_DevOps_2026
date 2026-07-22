@@ -10,6 +10,7 @@ import io
 import re
 import time
 from google import genai
+from google.genai import types
 import warnings
 import tempfile
 import os
@@ -735,9 +736,9 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
 
 	config_setup = types.GenerateContentConfig(
     		system_instruction=(
-        	"Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
-        	"IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
-        	"estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
+	        	"Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
+        		"IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
+        		"estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
    		 ),
     		temperature=1.0, 
     		# 1. REMOVE or DRAMATICALLY INCREASE the token cap
