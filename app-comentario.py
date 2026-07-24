@@ -739,7 +739,7 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             ),
             temperature=1.0, 
             max_output_tokens=8192,
-            thinking_budget=2048,  # Parametro directo sin instanciar ThinkingConfig
+         #   thinking_budget=2048,  Parametro directo sin instanciar ThinkingConfig
             safety_settings=safety_settings,
         )
 
