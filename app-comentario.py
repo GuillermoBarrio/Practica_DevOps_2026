@@ -14,6 +14,7 @@ from google.genai import types
 import warnings
 import tempfile
 import os
+from langsmith import traceable
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -714,6 +715,12 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
 # =====================================================
 
 
+# Simplemente añadimos el decorador encima de tu función existente
+@traceable(
+    name="Generar Comentario Mercado",
+    run_type="llm",
+    metadata={"model": "gemini-3.5-flash"}
+)
 def generate_commentary(client, before_bell, five_things, market_data, examples, fed_summaries, log_callback=None):
     """Genera el comentario usando Gemini 3.5 Flash"""
     is_monday = datetime.now().weekday() == 0
