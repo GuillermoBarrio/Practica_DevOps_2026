@@ -37,6 +37,6 @@ jobs:
           --region europe-west4 \
           --allow-unauthenticated \
           --memory 512Mi \
-          --set-secrets="DEEPSEEK_API_KEY=DEEPSEEK_API_KEY:latest"\
-          --set-secrets="GEMINI_API_KEY=GEMINI_API_KEY:latest"\
+          --set-secrets="DEEPSEEK_API_KEY=DEEPSEEK_API_KEY:latest","GEMINI_API_KEY=GEMINI_API_KEY:latest","LANGCHAIN_API_KEY=LANGSMITH_API_KEY:latest"\
+          --set-env-vars="LANGCHAIN_TRACING_V2=true,LANGCHAIN_ENDPOINT=https://api.smith.langchain.com,LANGCHAIN_PROJECT=comentario-mercados" \
           --project="practica-devops-26"
