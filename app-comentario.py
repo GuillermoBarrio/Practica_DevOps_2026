@@ -6,6 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Tuple
+from pydantic import BaseModel, Field
 import io
 import re
 import time
@@ -75,6 +76,19 @@ st.markdown("""
 # INICIALIZACIÓN DE SESIÓN
 # =====================================================
 
+
+
+# =====================================================
+# MODELOS PYDANTIC RESPONSE SCHEMA
+# =====================================================
+
+class MarketCommentaryResponse(BaseModel):
+    comentario: str
+
+
+class ValidationResult(BaseModel):
+    is_valid: bool
+    errors: List[str] = Field(default_factory=list)
 
 
 # =====================================================
@@ -709,11 +723,11 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
                 temperature=0.0,
                 max_output_tokens=500,
                 response_mime_type="application/json",
+                response_schema=ValidationResult,
             )
         )
-        raw_text = response.text.strip().replace("```json", "").replace("```", "")
-        result = json.loads(raw_text)
-        return result
+        result: ValidationResult = response.parsed
+        return result.model_dump()
     except Exception as e:
         print(f"   - Error en el validador de números: {e}")
         return {"is_valid": True, "errors": []}
@@ -758,8 +772,9 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             ),
             temperature=1.0, 
             max_output_tokens=8192,
-         #   thinking_budget=2048,  Parametro directo sin instanciar ThinkingConfig
             safety_settings=safety_settings,
+            response_mime_type="application/json",
+            response_schema=MarketCommentaryResponse,
         )
 
         response = client.models.generate_content(
@@ -775,7 +790,7 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
                 log_callback(f"ℹ️ Motivo de finalización del LLM: {finish_reason}")
             print(f"DEBUG Finish Reason: {finish_reason}")
 
-        generated_text = response.text
+        generated_text = response.parsed.comentario
 
         if log_callback:
             log_callback(f"✅ Comentario generado ({len(generated_text)} caracteres)")
