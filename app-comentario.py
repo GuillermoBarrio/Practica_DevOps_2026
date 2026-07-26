@@ -16,6 +16,7 @@ import warnings
 import tempfile
 import os
 from langsmith import traceable
+import asyncio
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -670,7 +671,7 @@ Genera el comentario de mercados a continuación:"""
     run_type="llm",
     metadata={"task": "eval_commentary"}
 )
-def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) -> Dict:
+async def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) -> Dict:
     """Usa Gemini 3.5 Flash para verificar que los números clave son correctos."""
 
     # Seleccionar los datos más críticos para la validación
@@ -716,7 +717,7 @@ RESPONDE ÚNICAMENTE CON UN JSON EN ESTE FORMATO:
 Donde "errors" es una lista de strings describiendo cada error encontrado."""
 
     try:
-        response = client.models.generate_content(
+        response = await client.aio.models.generate_content(
             model="gemini-3.5-flash",
             contents=validation_prompt,
             config=genai.types.GenerateContentConfig(
@@ -747,7 +748,7 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
     run_type="llm",
     metadata={"model": "gemini-3.5-flash"}
 )
-def generate_commentary(client, before_bell, five_things, market_data, examples, fed_summaries, log_callback=None):
+async def generate_commentary(client, before_bell, five_things, market_data, examples, fed_summaries, log_callback=None):
     """Genera el comentario usando Gemini 3.5 Flash"""
     is_monday = datetime.now().weekday() == 0
     prompt = build_prompt(before_bell, five_things, market_data, is_monday, examples, fed_summaries)
@@ -777,7 +778,7 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
             response_schema=MarketCommentaryResponse,
         )
 
-        response = client.models.generate_content(
+        response = await client.aio.models.generate_content(
             model="gemini-3.5-flash",
             contents=prompt,
             config=config_setup,
@@ -798,7 +799,7 @@ def generate_commentary(client, before_bell, five_things, market_data, examples,
         if log_callback:
             log_callback(f"✅ Validación en marcha!")
 
-        validation = validate_numbers_with_llm(client, generated_text, market_data)
+        validation = await validate_numbers_with_llm(client, generated_text, market_data)
 
         return {
             "comentario": generated_text,
@@ -920,10 +921,10 @@ def main():
                     five_things_content = five_things_file.getvalue().decode('utf-8')
 
                     add_log("🤖 Generando comentario...")
-                    commentary = generate_commentary(
+                    commentary = asyncio.run(generate_commentary(
                         client, before_bell_content, five_things_content,
                         market_data, examples, fed_summaries, log_callback=add_log
-                    )
+                    ))
 
                     if commentary:
                         st.session_state.generated_commentary = commentary['comentario']
