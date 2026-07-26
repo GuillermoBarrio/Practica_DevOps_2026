@@ -176,6 +176,12 @@ class FEDSpeechProcessor:
         except Exception:
             return None
 
+
+    @traceable(
+        name="Resumen Discurso Fed",
+        run_type="llm",
+        metadata={"task": "speech_summary", "source": "FED"}
+    )
     def _summarize_speech(self, title: str, content: str) -> Optional[str]:
         max_chars = 6000
         truncated_content = content[:max_chars]
@@ -201,8 +207,8 @@ Resumen (150 palabras máximo):"""
                 model="gemini-3.5-flash",
                 contents=prompt,
                 config=genai.types.GenerateContentConfig(
-                    max_output_tokens=350,
-                    temperature=0.3,
+                    max_output_tokens=1000,
+                    temperature=1.0,
                 )
             )
             summary = response.text.strip()
@@ -644,6 +650,12 @@ Genera el comentario de mercados a continuación:"""
 # 6. VALIDACIÓN NUMÉRICA (CON GEMINI 3.5 FLASH)
 # =====================================================
 
+
+@traceable(
+    name="Evaluación de Comentario",
+    run_type="llm",
+    metadata={"task": "eval_commentary"}
+)
 def validate_numbers_with_llm(client, generated_text: str, market_data: Dict) -> Dict:
     """Usa Gemini 3.5 Flash para verificar que los números clave son correctos."""
 
