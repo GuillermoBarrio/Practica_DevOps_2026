@@ -17,6 +17,8 @@ import tempfile
 import os
 from langsmith import traceable
 import asyncio
+from mcp import ClientSession, StdioServerParameters
+from mcp.client.stdio import stdio_client
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -149,6 +151,8 @@ class FEDSpeechProcessor:
         else:
             return today - timedelta(days=1)
 
+    """
+
     def _extract_speech_content(self, url: str) -> Optional[str]:
         try:
             response = requests.get(url, timeout=15)
@@ -190,6 +194,91 @@ class FEDSpeechProcessor:
             return None
         except Exception:
             return None
+
+            """
+
+
+    _FETCH_TIMEOUT = 30.0        # timeout global de todo el flujo MCP
+    _SESSION_TIMEOUT = 10.0      # timeout de initialize() y call_tool()
+    _MIN_CONTENT_LENGTH = 400
+    _MAX_FETCH_LENGTH = 8000
+
+
+    async def _extract_speech_content_mcp(self, url: str) -> Optional[str]:
+        """Versión con MCP Fetch: sustituye requests + BeautifulSoup."""
+        try:
+            content = await asyncio.wait_for(
+                self._run_mcp_fetch(url),
+                timeout=self._FETCH_TIMEOUT
+            )
+            if content and len(content) > self._MIN_CONTENT_LENGTH:
+                return content
+            print(f"Contenido insuficiente o vacío para {url}")
+            return None
+        except asyncio.TimeoutError:
+            print(f"⏰ Timeout ({self._FETCH_TIMEOUT}s) en MCP Fetch para {url}")
+            return None
+        except (FileNotFoundError, OSError) as e:
+            print(f"⚠️ No se pudo iniciar el servidor MCP (¿está mcp-server-fetch instalado?): {e}")
+            return None
+        except Exception as e:
+            print(f"❌ Error en MCP Fetch para {url}: {e}")
+            return None
+
+
+    async def _run_mcp_fetch(self, url: str) -> Optional[str]:
+        """Ejecuta la llamada MCP con timeouts internos en cada paso."""
+        server_params = StdioServerParameters(
+            command="python",
+            args=["-m", "mcp_server_fetch"]
+        )
+        async with stdio_client(server_params) as (read, write):
+            async with ClientSession(read, write) as session:
+                await asyncio.wait_for(
+                    session.initialize(),
+                    timeout=self._SESSION_TIMEOUT
+                )
+                result = await asyncio.wait_for(
+                    session.call_tool(
+                        "fetch",
+                        arguments={
+                            "url": url,
+                            "max_length": self._MAX_FETCH_LENGTH,
+                            "raw": False
+                        }
+                    ),
+                    timeout=self._SESSION_TIMEOUT
+                )
+                return self._extract_text_from_result(result)
+
+
+    def _extract_text_from_result(self, result) -> str:
+        """Extrae el texto de forma defensiva (sin asumir result.content[0])."""
+        if getattr(result, "isError", False) or not getattr(result, "content", None):
+            print("MCP Fetch devolvió un resultado vacío o con error")
+            return ""
+        texts = [
+            getattr(item, "text", "")
+            for item in result.content
+            if getattr(item, "type", None) == "text"
+        ]
+        return self._clean_fetched_content(" ".join(texts))
+
+
+    def _clean_fetched_content(self, content: str) -> str:
+        """Limpia el Markdown devuelto por fetch antes de pasarlo a Gemini."""
+        if not content:
+            return ""
+        text = re.sub(r'#{1,6}\s+', '', content)             # encabezados: #, ##, ###
+        text = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', text)     # imágenes ![alt](url)
+        text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text) # enlaces [texto](url) → texto
+        text = re.sub(r'[*_>`~]{1,2}', '', text)             # negrita/cursiva/código inline
+        text = re.sub(r'\s+', ' ', text).strip()             # colapsa espacios y saltos
+        return text
+
+    def _extract_speech_content(self, url: str) -> Optional[str]:
+        """Wrapper síncrono para mantener compatibilidad con el resto del código."""
+        return asyncio.run(self._extract_speech_content_mcp(url))
 
 
     @traceable(
@@ -254,7 +343,7 @@ Resumen (150 palabras máximo):"""
                     continue
                 if log_callback:
                     log_callback(f"   - Nuevo discurso: {entry.title}")
-                speech_content = self._extract_speech_content(entry.link)
+                speech_content = self._extract_speech_content(entry.link)   # OJO aquí, hay que cambiar el nombre de la función si la renombramos!!
                 if speech_content:
                     summary = self._summarize_speech(entry.title, speech_content)
                     if summary:
