@@ -619,6 +619,63 @@ def extract_trend_insights(market_data: Dict, max_items: int = 3) -> Tuple[List[
     return frases_semanas, frases_racha, frases_maxmin
 
 
+@traceable(
+    name="Agente de discursos o noticias Fed",
+    run_type="agent",
+    metadata={
+        "task": "fed_monitoring",
+        "strategy": "official_speeches_with_web_fallback",
+        "source": "federalreserve.gov / Google Search"
+    }
+)
+def ejecutar_agente_fed(client, fed_processor, add_log) -> List[str]:
+    
+    # PASO 1: Discursos oficiales vía MCP Fetch
+    add_log("🏦 Buscando discursos oficiales de la Fed...")
+    resumenes_oficiales = fed_processor.fetch_and_summarize_new_speeches(log_callback=add_log)
+
+    if resumenes_oficiales:
+        add_log(f"✅ {len(resumenes_oficiales)} discurso(s) oficial(es) encontrado(s)")
+        return resumenes_oficiales  # ya es List[str], compatible con generate_commentary
+
+    # PASO 2: Sin discursos oficiales → agente de búsqueda web
+    add_log("ℹ️ Sin discursos oficiales. Activando agente de búsqueda web...")
+
+    prompt_agente = (
+        f"No se encontraron discursos oficiales en la web de la Fed hoy. "
+        f"Busca noticias y declaraciones recientes publicadas EN LAS ÚLTIMAS 24 HORAS "
+        f"sobre la Reserva Federal en Google. "
+        f"Prioriza declaraciones o referencias a dirigentes como Jerome Powell, Kevin Warsh, "
+        f"Christopher Waller o John Williams. "
+        f"Excluye opiniones especulativas o rumores; solo hechos publicados y atribuibles a "
+        f"fuentes reconocidas (Reuters, Bloomberg, CNBC, etc.). "
+        f"Redacta el resumen EN CASTELLANO con la siguiente estructura: "
+        f"1) Lista en viñetas de las 3-5 noticias más relevantes, cada una con fecha, fuente y dato concreto. "
+        f"2) Un párrafo final de impacto en mercados (renta variable, renta fija/tipos y dólar). "
+        f"Hoy es {datetime.now().strftime('%d/%m/%Y')}."
+    )
+
+    try:
+        response = client.models.generate_content(
+            model="gemini-3.5-flash",
+            contents=prompt_agente,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
+        if not response.text:
+            add_log("⚠️ El agente web no devolvió texto; se omite la fuente FED")
+            return []
+        add_log(f"✅ Agente web completó la búsqueda ({len(response.text)} caracteres)")
+        return [response.text]   # List[str] para compatibilidad con generate_commentary
+
+    except Exception as e:
+        add_log(f"❌ Error en el agente de búsqueda ({type(e).__name__}): {e}")
+        return []
+
+
+
+
 def build_prompt(before_bell_content: str, five_things_content: str,
                  market_data: Dict, is_monday: bool,
                  examples: List[Dict], fed_summaries: List[str]) -> str:
@@ -1001,9 +1058,11 @@ def main():
                     add_log(f"   - {len(examples)} ejemplos cargados")
 
                     # Procesar FED
-                    add_log("🏦 Procesando discursos de la FED si los hubiese...")
+                    add_log("🏦 Ejecutando agente FED...")
                     fed_processor = FEDSpeechProcessor(client)
-                    fed_summaries = fed_processor.fetch_and_summarize_new_speeches(log_callback=add_log)
+                    fed_summaries = ejecutar_agente_fed(client, fed_processor, add_log)
+                    print(f'---- Fed Summaries ({len(fed_summaries)}) ----')
+
 
                     # Generar comentario
                     before_bell_content = before_bell_file.getvalue().decode('utf-8')
