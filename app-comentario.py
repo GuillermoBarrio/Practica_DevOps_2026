@@ -645,13 +645,12 @@ def ejecutar_agente_fed(client, fed_processor, add_log) -> List[str]:
         f"No se encontraron discursos oficiales en la web de la Fed hoy. "
         f"Busca noticias y declaraciones recientes publicadas EN LAS ÚLTIMAS 24 HORAS "
         f"sobre la Reserva Federal en Google. "
-        f"Prioriza declaraciones o referencias a dirigentes como Jerome Powell, Kevin Warsh, "
-        f"Christopher Waller o John Williams. "
+        f"Prioriza declaraciones o referencias a dirigentes como Jerome Powell, Kevin Warsh, Lisa Cook, Michelle Bowman, Michael Barr, "
+        f"Christopher Waller o Philip Jefferson. "
         f"Excluye opiniones especulativas o rumores; solo hechos publicados y atribuibles a "
         f"fuentes reconocidas (Reuters, Bloomberg, CNBC, etc.). "
         f"Redacta el resumen EN CASTELLANO con la siguiente estructura: "
-        f"1) Lista en viñetas de las 3-5 noticias más relevantes, cada una con fecha, fuente y dato concreto. "
-        f"2) Un párrafo final de impacto en mercados (renta variable, renta fija/tipos y dólar). "
+        f"LIMITA EL RESUMEN A UN MÁXIMO DE 200 PALABRAS DE FORMA EXTRICTA. "
         f"Hoy es {datetime.now().strftime('%d/%m/%Y')}."
     )
 
@@ -794,12 +793,13 @@ def build_prompt(before_bell_content: str, five_things_content: str,
 ## INSTRUCCIONES FINALES:
 1. Hoy es {datetime.now().strftime('%d/%m/%Y')}.
 2. Es imperativo que el análisis sea extenso y desarrolle todos los puntos, con una longitud cercana a las 550 palabras. No dejes el texto inacabado.
-3. Usa los DATOS NUMÉRICOS EXACTOS que se te han dado. NO los inventes.
-4. Genera los párrafos temáticos en orden de importancia: primero los que consideres más relevantes.
-5. La información de "Before the Bell" y "Five Things" es la base para el análisis cualitativo, las perspectivas y las noticias corporativas.
-6. Si se incluyen discursos de la FED, son la fuente principal para hablar de política monetaria.
-7. Si hoy es lunes, los ratios PE, los crecimientos de EPS y las tendencias se tienen que integrar en el análisis de renta variable.
-8. No añadas texto introductorio como "Claro, aquí tienes...". Empieza directamente con el análisis.
+3. Estructura el comentario en 3 o 4 párrafos, cada uno con un tema principal, y desarrolla los subtemas de forma coherente.
+4. Usa los DATOS NUMÉRICOS EXACTOS que se te han dado. NO los inventes.
+5. Genera los párrafos temáticos en orden de importancia: primero los que consideres más relevantes.
+6. La información de "Before the Bell" y "Five Things" es la base para el análisis cualitativo, las perspectivas y las noticias corporativas.
+7. Si se incluyen discursos de la FED, son la fuente principal para hablar de política monetaria.
+8. Si hoy es lunes, los ratios PE, los crecimientos de EPS y las tendencias se tienen que integrar en el análisis de renta variable.
+9. No añadas texto introductorio como "Claro, aquí tienes...". Empieza directamente con el análisis.
 
 Genera el comentario de mercados a continuación:"""
 
@@ -915,10 +915,10 @@ async def generate_commentary(client, before_bell, five_things, market_data, exa
             system_instruction=(
                 "Eres un analista financiero senior. Redactas comentarios de mercado detallados y fluidos en castellano. "
                 "IMPORTANTE: Sé conciso y directo en el análisis para no exceder los límites. Mantén tu respuesta "
-                "estrictamente alrededor de las 550 palabras y concluye siempre con un párrafo de cierre claro."
+                "estrictamente alrededor de las 550 palabras, estructurada en 3 o 4 párrafos y concluye siempre con un párrafo de cierre claro."
             ),
             temperature=1.0, 
-            max_output_tokens=8192,
+            max_output_tokens=16500,
             safety_settings=safety_settings,
             response_mime_type="application/json",
             response_schema=MarketCommentaryResponse,
