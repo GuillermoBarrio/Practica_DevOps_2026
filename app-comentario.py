@@ -622,7 +622,7 @@ def extract_trend_insights(market_data: Dict, max_items: int = 3) -> Tuple[List[
 
 @traceable(
     name="Agente de discursos o noticias Fed",
-    run_type="agent",
+    run_type="chain",
     metadata={
         "task": "fed_monitoring",
         "strategy": "official_speeches_with_web_fallback",
@@ -670,7 +670,6 @@ def ejecutar_agente_fed(client, fed_processor, add_log) -> List[str]:
         return [response.text]   # List[str] para compatibilidad con generate_commentary
 
     except Exception as e:
-        print(f"[LANGSMITH_DEBUG] Excepción capturada en ejecutar_agente_fed (fallback web): {type(e).__name__}: {e}")
         add_log(f"❌ Error en el agente de búsqueda ({type(e).__name__}): {e}")
         return []
 
@@ -876,9 +875,10 @@ Donde "errors" es una lista de strings describiendo cada error encontrado."""
             )
         )
         result: ValidationResult = response.parsed
+        if result is None:
+            return {"is_valid": True, "errors": []}
         return result.model_dump()
     except Exception as e:
-        print(f"[LANGSMITH_DEBUG] Excepción capturada en validate_numbers_with_llm: {type(e).__name__}: {e}")
         print(f"   - Error en el validador de números: {e}")
         return {"is_valid": True, "errors": []}
 
@@ -934,8 +934,6 @@ async def generate_commentary(client, before_bell, five_things, market_data, exa
         )
 
         rt = get_current_run_tree()
-        print(f"[LANGSMITH_DEBUG] En generate_commentary. Run tree detectado: {rt}")
-        print(f"[LANGSMITH_DEBUG] Metadata en response: {getattr(response, 'usage_metadata', 'NO_METADATA')}")
         if rt and response.usage_metadata:
             rt.set(
                 usage_metadata={
@@ -968,7 +966,6 @@ async def generate_commentary(client, before_bell, five_things, market_data, exa
         }
 
     except Exception as e:
-        print(f"[LANGSMITH_DEBUG] Excepción capturada en generate_commentary: {type(e).__name__}: {e}")
         if log_callback:
             log_callback(f"❌ Error: {e}")
 
@@ -986,10 +983,8 @@ def load_examples_from_csv(csv_bytes) -> List[Dict]:
     run_type="chain",
     metadata={"app": "autobloomberg"}
 )
-def ejecutar_pipeline(client, fed_processor, before_bell_content, 
+def ejecutar_pipeline(client, fed_processor, before_bell_content,
                       five_things_content, market_data, examples, add_log):
-    print(f"[LANGSMITH_DEBUG] Iniciando ejecutar_pipeline. Run tree en pipeline: {get_current_run_tree()}")
-
     # El agente aparecerá como hijo de este run
     fed_summaries = ejecutar_agente_fed(client, fed_processor, add_log)
     
@@ -1123,7 +1118,6 @@ def main():
                         add_log("❌ Error en la generación del comentario")
 
                 except Exception as e:
-                    print(f"[LANGSMITH_DEBUG] Excepción capturada en main(): {type(e).__name__}: {e}")
                     add_log(f"❌ Error: {str(e)}")
 
                 st.session_state.processing = False
