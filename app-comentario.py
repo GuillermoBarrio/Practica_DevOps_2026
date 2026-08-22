@@ -933,15 +933,12 @@ async def generate_commentary(client, before_bell, five_things, market_data, exa
 
         run_tree = get_current_run_tree()
         if run_tree and response.usage_metadata:
-            run_tree.end(
-                outputs={"output": response.text},
-                metadata={
-                    "usage": {
-                        "prompt_tokens": response.usage_metadata.prompt_token_count,
-                        "completion_tokens": response.usage_metadata.candidates_token_count,
-                        "total_tokens": response.usage_metadata.total_token_count,
-                    }
-                },
+            run_tree.set(
+                usage_metadata={
+                    "input_tokens": response.usage_metadata.prompt_token_count,
+                    "output_tokens": response.usage_metadata.candidates_token_count,
+                    "total_tokens": response.usage_metadata.total_token_count,
+                }
             )
 
         # Inspección del motivo de finalización
