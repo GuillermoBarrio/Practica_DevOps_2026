@@ -19,6 +19,7 @@ from langsmith import traceable
 import asyncio
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
+from langsmith import get_current_run_tree
 
 # =====================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -930,6 +931,19 @@ async def generate_commentary(client, before_bell, five_things, market_data, exa
             config=config_setup,
         )
 
+        run_tree = get_current_run_tree()
+        if run_tree and response.usage_metadata:
+            run_tree.end(
+                outputs={"output": response.text},
+                metadata={
+                    "usage": {
+                        "prompt_tokens": response.usage_metadata.prompt_token_count,
+                        "completion_tokens": response.usage_metadata.candidates_token_count,
+                        "total_tokens": response.usage_metadata.total_token_count,
+                    }
+                },
+            )
+
         # Inspección del motivo de finalización
         if response.candidates and response.candidates[0].finish_reason:
             finish_reason = response.candidates[0].finish_reason
@@ -963,6 +977,26 @@ async def generate_commentary(client, before_bell, five_things, market_data, exa
 def load_examples_from_csv(csv_bytes) -> List[Dict]:
     df = pd.read_csv(io.BytesIO(csv_bytes), sep=';', encoding='utf-8')
     return [{"fecha": row["Fecha"], "texto": row["Comentario"]} for _, row in df.iterrows()]
+
+
+@traceable(
+    name="Pipeline comentario financiero",
+    run_type="chain",
+    metadata={"app": "autobloomberg"}
+)
+def ejecutar_pipeline(client, fed_processor, before_bell_content, 
+                      five_things_content, market_data, examples, add_log):
+    
+    # El agente aparecerá como hijo de este run
+    fed_summaries = ejecutar_agente_fed(client, fed_processor, add_log)
+    
+    # La generación del comentario también quedará anclada aquí
+    commentary = asyncio.run(generate_commentary(
+        client, before_bell_content, five_things_content,
+        market_data, examples, fed_summaries, log_callback=add_log
+    ))
+    
+    return commentary
 
 
 # =====================================================
@@ -1060,8 +1094,6 @@ def main():
                     # Procesar FED
                     add_log("🏦 Ejecutando agente FED...")
                     fed_processor = FEDSpeechProcessor(client)
-                    fed_summaries = ejecutar_agente_fed(client, fed_processor, add_log)
-                    print(f'---- Fed Summaries ({len(fed_summaries)}) ----')
 
 
                     # Generar comentario
@@ -1069,10 +1101,11 @@ def main():
                     five_things_content = five_things_file.getvalue().decode('utf-8')
 
                     add_log("🤖 Generando comentario...")
-                    commentary = asyncio.run(generate_commentary(
-                        client, before_bell_content, five_things_content,
-                        market_data, examples, fed_summaries, log_callback=add_log
-                    ))
+
+                    commentary = ejecutar_pipeline(
+                        client, fed_processor, before_bell_content,
+                        five_things_content, market_data, examples, add_log
+                    )
 
                     if commentary:
                         st.session_state.generated_commentary = commentary['comentario']
