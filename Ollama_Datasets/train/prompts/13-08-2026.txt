@@ -1,0 +1,244 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.45%
+- S&P Equal Weight (SPW): 0.95%
+- 7 Magníficas (BM7T): 2.12%
+- EuroStoxx50: 1.50%
+- Stoxx600: 1.11%
+- Ibex35: 0.61%
+- Nikkei: -0.10%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Health Care (+1.38%)
+- Peor sector S&P500: Info Tech (-0.21%)
+- Mejor sector Stoxx600: Alimentación (+2.35%)
+- Peor sector Stoxx600: Química (0.67%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $97.0/barril
+- Petróleo WTI: $90.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.67%
+- Bono Alemania: 3.34%
+- Bono España: 3.78%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: AI Revival Confronts Earnings Hurdle
+Before the European Bell: AI Revival Confronts Earnings Hurdle
+By Farah Elbahrawy
+08/13/2026 01:33:45 [BFW]
+(Bloomberg) -- European stocks are set for a positive open after a strong handover from Wall Street. The artificial intelligence trade is attempting a comeback, but earnings disappointments could threaten it.
+Euro Stoxx 50 futures gained 0.5% at 7:25 a.m. CET, while FTSE 100 futures rose 0.3%. Contracts on the S&P 500 and Nasdaq 100 pointed to further gains.
+Markets at a Glance:
+ 
+Source: Bloomberg
+In Asia, a revival in the global AI trade pushed South Korean stocks toward a technical bull market, marking a dramatic turnaround from last month’s historic rout. The Kospi gained as much as 4.8%, led by memory chipmakers Samsung Electronics and SK Hynix.
+A UBS basket of European AI winners has rallied this month, rebounding from a record underperformance in July relative to stocks seen as most at risk from the technology.
+ 
+The trade will be tested on Thursday after overnight earnings from key AI plays in the US disappointed. Cerebras Systems slid in late trading after projecting slower growth than some investors anticipated. There are lingering questions about its hardware business, which was eclipsed by its cloud computing service.
+Cisco Systems fell after forecasting $7.5 billion in sales tied to the AI data center boom this fiscal year. The figures were seen as conservative, especially for the firm facing high expectations that it will profit from the worldwide build-out of data centers powering AI systems. Europe’s network-equipment companies Nokia and Ericsson could be active after the report.
+Meanwhile, harsh weather conditions are still in focus. Europe’s fifth heat wave of the summer is set to peak Thursday, the latest in a string of extreme weather events that have strained health systems and energy networks across the region. A series of high-pressure heat domes has put the UK on track for its hottest ever summer.
+Investors will be monitoring a slew of economic data due from the UK at 8 a.m. CET. Gross domestic product is expected to have climbed 0.4% in the second quarter, slightly down from 0.6% growth during the first three months of the year. Spain will release final inflation figures for July an hour later. 
+On the geopolitical front, Brent crude edged lower after six straight sessions of gains. Facing a shortfall of necessary munitions and wary of continuing an unpopular war, Trump and his top officials are returning to a familiar playbook with Iran: relying on a steady increase in economic sanctions and a naval blockade to stifle oil exports.
+The earnings season is nearly wrapped up with only a few names left to report. Earnings since the Wednesday close include:
+•	Adyen reported 1H net revenue of EU1.3b, vs. estimate EU1.29B
+•	Pandora boosted organic revenue forecast for the full year to 0% to +3%, saw -1% to +2%, estimate +1.9%
+•	Freenet reaffirmed its adjusted Ebitda forecast for the full year, still sees adjusted Ebitda EU500 million to EU530 million
+•	Stroeer reported adjusted Ebitda for the first half-year of EU273 million vs. EU266 million y/y
+•	Thyssenkrupp narrowed its adjusted Ebit forecast for the full year, sees adjusted Ebit EU600 million to EU900 million, saw EU500 million to EU900 million, estimate EU820.1 million
+•	Zealand Pharma 2Q net income DKK3.92 billion, estimate DKK3.46 billion
+•	HelloFresh maintains year forecast, still sees adjusted Ebitda EU375 million to EU425 million, estimate EU379.6 million
+•	Rank Group reported adjusted earnings per share for the full year of 10.5p vs. 9.1p y/y, estimate 10.1p
+•	DNO 2Q revenue $760.5 million, estimate $856.5 million
+•	PolyPeptide Group boosted its revenue forecast for the full year, sees revenue +25% to +30%, saw +20% to +25%
+•	Embracer reported net sales for the first quarter of SEK3.94 billion vs. SEK3.17 billion y/y
+US Markets
+The S&P 500 gained 0.3% to close near all-time highs while the tech-heavy Nasdaq 100 gained 0.7%, reversing losses from earlier in the week. 
+•	Eight of the 11 S&P 500 sectors gained, led by real estate (+1.1%), information technology (+1.1%) and utilities (+0.5%) 
+o	The three decliners were consumer discretionary (-1.4%), materials (-1.2%) and communication services (-0.9%)
+•	Here are key earnings due before the bell in the US and Canada 
+o	Tapestry
+o	Brookfield
+o	GDS Holdings
+o	JD.com
+o	Applied Industrial Tech
+o	Madison Square Garden Sports
+o	Onex
+o	Ascendis Pharma
+Asian Markets
+Asian stocks climbed as chipmakers rallied, with the AI trade getting another boost globally.
+•	The MSCI Asia Pacific Index climbs as much as 1.2% to the highest since June 26, led by SK Hynix and Samsung
+•	Major indexes in Japan, Taiwan and China also advanced
+Macro
+•	Nurses are collapsing at work as they endure extreme heat in buildings that are proving unfit for the record temperatures gripping Britain. Conditions are “inhumane,” the Royal College of Nursing said on Thursday.
+•	Estate agents are more gloomy about London house prices than at any point in almost three years, according to a survey that suggests the property market malaise gripping the UK capital is deepening.
+•	Russia’s economy resumed growth in the second quarter after its first contraction in three years, but an escalating wave of Ukrainian drone attacks deep inside the country threatens to derail the fragile recovery.
+Commodities
+•	Three of Russia’s largest grain terminals in the Black Sea port of Novorossiysk have halted operations after being damaged in a massive overnight drone attack by Ukraine.
+M&A and ECM
+•	EQT Infrastructure, which is managed by Sweden’s EQT AB, offered to buy Cleanaway Waste Management Ltd. in a deal that values the Australian listed firm at about A$6.9 billion ($4.9 billion).
+•	Citycon’s Board of Directors has approved the potential divestment of three shopping centers to Noga Finland Retail Properties.
+European Corporate News
+•	Shell Postpones Canada Refinery Work Amid High Margins: IIR
+•	US Energy Assets Now ‘Very Attractive’ to $109 Billion Novo Fund
+•	Saipem Wins Middle East Offshore Contract Worth About $1.8b
+•	Royalty Pharma in $100m Rusfertide Funding Deal With Zealand
+•	Santos Ships First Oil Cargo From Alaska Pikka Project
+•	Frankfurt Airport July Passengers +1.4% on Year (Table)
+•	Zurich Airport July Passengers 3.33M
+European Companies Expected to Report Today
+•	AP Moller - Maersk A/S (MAERSKB DC)
+•	Addiko Bank AG (ADKO AV)
+•	Adyen NV (ADYEN NA)
+•	Amaroq Ltd. (AMRQ LN)
+•	Antofagasta Plc (ANTO LN)
+•	AutoStore Holdings Ltd. (AUTO NO)
+•	Basler Kantonalbank (BSKP SW)
+•	Cewe Stiftung & Co. (CWC GR)
+•	Costain Group Plc (COST LN)
+•	D/S Norden A/S (DNORD DC)
+•	DNO ASA (DNO NO)
+•	Deutsche EuroShop SE (DEQ GR)
+•	Deutsche Pfandbriefbank AG (PBB GR)
+•	Eckert & Ziegler SE (EUZ GR)
+•	Embracer Group AB (EMBRACB SS)
+•	Energiekontor AG (EKT GR)
+•	Entain Plc (ENT LN)
+•	Evotec SE (EVT GR)
+•	Friedrich Vorwerk Group SE (VH2 GR)
+•	Grenke AG (GLJ GR)
+•	Gruvaktiebolaget Viscaria (VISC SS)
+•	Hamburger Hafen & Logistik a (HHFA GR)
+•	Hapag-Lloyd AG (HLAG GR)
+•	HelloFresh SE (HFG GR)
+•	Init Innovation in Traffic Sys (IXX GR)
+•	Jost Werke SE (JST GR)
+•	Kuros Biosciences AG (KURN SW)
+•	Lumo Kodit Oyj (LUMO FH)
+•	MBB SE (MBB GR)
+•	MLP SE (MLP GR)
+•	Mandatum Oyj (MANTA FH)
+•	Montana Aerospace AG (AERO SW)
+•	Netcompany Group A/S (NETC DC)
+•	Norbit ASA (NORBT NO)
+•	Obrascon Huarte Lain SA (OHLA SM)
+•	Oma Saastopankki Oyj (OMASP FH)
+•	Orsted AS (ORSTED DC)
+•	Ottobock SE & Co. (OBCK GR)
+•	Pexip Holding ASA (PEXIP NO)
+•	Pne AG (PNE3 GR)
+•	PolyPeptide Group AG (PPGN SW)
+•	ProCredit Holding AG (PCZ GR)
+•	RWE AG (RWE GR)
+•	Rank Group Plc (RNK LN)
+•	RaySearch Laboratories AB (RAYB SS)
+•	SJF Bank A/S (SJF DC)
+•	SMA Solar Technology AG (S92 GR)
+•	Savills Plc (SVS LN)
+•	Secunet Security Networks AG (YSN GR)
+•	Sipef NV (SIP BB)
+•	Sixt SE (SIX2 GR)
+•	SpareBank 1 Nord Norge (NONG NO)
+•	SpareBank 1 Ringerike Hadeland (RING NO)
+•	SpareBank 1 SMN (MING NO)
+•	SpareBank 1 Sor-Norge ASA (SB1NO NO)
+•	Sparebank 1 Oestlandet (SPOL NO)
+•	Sparebanken More (MORG NO)
+•	Stroeer SE & Co. (SAX GR)
+•	Swissquote Group Holding SA (SQN SW)
+•	Thurgauer Kantonalbank (TKBP SW)
+•	Thyssenkrupp AG (TKA GR)
+•	Valneva SE (VLA FP)
+•	Vincorion SE (V1NC GR)
+•	Wacker Neuson SE (WAC GR)
+•	Zealand Pharma A/S (ZEAL DC)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Alma Media raised to buy at Inderes; PT 16.50 euros
+•	Aviva raised to overweight at JPMorgan; PT 800 pence
+•	Elekta raised to buy at SB1 Markets; PT 59 kronor
+DOWNGRADES:
+•	Alcon AG cut to neutral at BNP Paribas; PT 64 Swiss francs
+•	Deutsche Post cut to neutral at Citi; PT 59 euros
+•	FCC cut to add at AlphaValue/Baader
+•	Lanxess cut to sell at Berenberg; PT 13.80 euros
+•	Legal & General cut to underweight at JPMorgan; PT 270 pence
+•	M&G cut to underweight at JPMorgan; PT 335 pence
+•	Matas cut to hold at SEB Equities; PT 95 kroner
+•	Metacon cut to reduce at Inderes; PT 0.19 kronor
+•	Salmar cut to sell at Nordea; PT 480 kroner
+•	UMG cut to reduce at HSBC; PT 12.10 euros
+INITIATIONS:
+•	ASML reinstated buy at William O’Neil
+Economic Agenda (All times CET)
+•	08:00: (UK) 2Q GDP QoQ, est. 0.4%, prior 0.6%
+•	08:00: (UK) June Industrial Production YoY, est. 0.3%, prior 1.0%
+•	08:00: (UK) June Manufacturing Production YoY, est. 1.2%, prior 2.3%
+•	08:30: (Swiss) July Producer & Import Prices MoM, prior -0.3%
+•	08:30: (Swiss) July Producer & Import Prices YoY, prior -2.1%
+•	09:00: (Spain) July CPI EU Harmonised MoM, est. -0.1%, prior -0.1%
+•	09:00: (Spain) July CPI EU Harmonised YoY, est. 3.8%, prior 3.8%
+•	09:00: (Spain) July CPI Core YoY, est. 3.0%, prior 3.0%
+•	09:00: (Spain) July CPI Core MoM, est. 0.4%, prior 0.4%
+Central Banks
+•	10:00: (Norway) Aug. Deposit Rates, est. 4.25%, prior 4.25%
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+ABDN	Aberdeen Group PLC	7.30	GBp
+AIBG	AIB Group PLC	0.195	EUR
+BAB	Babcock International Group PLC	5	GBp
+BBOX	Tritax Big Box REIT PLC	2	GBp
+BP/	BP PLC	0.0866	USD
+EQNR	Equinor ASA	0.39	USD
+FRES	Fresnillo PLC	0.434	USD
+GSK	GSK PLC	17	GBp
+HIK	Hikma Pharmaceuticals PLC	0.38	USD
+HLN	Haleon PLC	2.40	GBp
+HSBA	HSBC Holdings PLC	0.1	USD
+HSX	Hiscox Ltd	0.168	USD
+IGG	IG Group Holdings PLC	14.46	GBp
+IMI	IMI PLC	12.1	GBp
+LSEG	London Stock Exchange Group PLC	55	GBp
+MRO	Melrose Industries PLC	2.7	GBp
+NWG	NatWest Group PLC	12	GBp
+PSON	Pearson PLC	8.2	GBp
+RIO	Rio Tinto PLC	2.11	USD
+ROR	Rotork PLC	3	GBp
+RTO	Rentokil Initial PLC	0.0448	USD
+SHELL	Shell PLC	0.391	USD
+Ex-dividend dates according to Bloomberg data, see here for more
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/13/2026 01:20:09 [BFW]
+(Bloomberg) 
+•	The yen strengthened modestly and Japanese bond yields rose slightly on a report that Prime Minister Sanae Takaichi’s government is supportive of a near-term rate hike by the Bank of Japan. Fears about yen weakness at the central bank and the government’s desire to strengthen the impact of recent FX intervention are aligning them on the need to raise rates, according to people familiar with the matter.
+•	Treasury yields are down about two basis points across the curve. Short-end rates are falling in Australia after RBA comments that falling house prices may reduce the role of monetary policy, and there’s a similar move in New Zealand on a drop in inflation expectations. The US yesterday sold 10-year bonds at the highest yield since 2007 and has a 30-year sale on the slate today.
+•	Tech stocks are rallying in Asia after benign US inflation and a decline in oil prices provided a positive setup for equities. The Kospi has jumped more than 20% in 10 days as the AI rally regained steam, while equities in Taiwan and Japan are also climbing. US stock index futures are edging up.
+•	Base metals weakened, with copper slipping toward $14,000/ton and aluminum and nickel off too. Gold is holding around $4,400/oz. The Bank of Korea made its first gold-related investment for 13 years in the second quarter.
+•	Cisco’s better-than-anticipated sales and forecast failed to hit high expectations, while chipmaker and cloud computing firm Cerebras Systems’ growth projections fell short. Both fell in late trading. Anthropic is in talks to buy AI startup Decart AI for around $6 billion. The company makes software to reduce the cost of training AI models and focuses elsewhere on generative video.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

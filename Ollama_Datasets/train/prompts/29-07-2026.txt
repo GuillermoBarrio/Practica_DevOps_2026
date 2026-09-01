@@ -1,0 +1,272 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -1.08%
+- S&P Equal Weight (SPW): -0.22%
+- 7 Magníficas (BM7T): 0.79%
+- EuroStoxx50: -1.70%
+- Stoxx600: 0.86%
+- Ibex35: 0.44%
+- Nikkei: 0.81%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Health Care (+-0.08%)
+- Peor sector S&P500: Financials (-2.05%)
+- Mejor sector Stoxx600: Petróleo (+1.84%)
+- Peor sector Stoxx600: Financieros (-0.09%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $92.0/barril
+- Petróleo WTI: $86.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.63%
+- Bono Alemania: 3.16%
+- Bono España: 3.63%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,6 puntos básicos, y a marzo 2027 una subida de 31,2 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,6 puntos básicos, y a marzo 2027 una subida de 53,1 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,4 puntos básicos, y a marzo 2027 una subida de 49,3 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Big Bank Beats Offset Oil Rise
+Before the European Bell: Big Bank Beats Offset Oil Rise
+By Farah Elbahrawy and Neil Campling
+07/29/2026 01:36:38 [BFW]
+(Bloomberg) -- European stock futures are trimming early losses as strong earnings beats from banks are helping to offset pressure from higher oil prices and AI spending fears.
+Euro Stoxx 50 futures were down 0.3% at 7:25 a.m. CET, while contracts on the FTSE 100 were 0.2% lower. Brent crude surged after the US said it intercepted an Iranian attack on military bases, ending a dayslong pause in fighting.
+In Asia, SK Hynix shares tumbled as much as 20% after earmarking at least $31 billion for capital spending this year, adding to concerns that tech companies are overinvesting in AI. It sent the Kospi down as much as 13%.
+ 
+The AI trade has come under even more scrutiny this week as investors question whether massive spending across the ecosystem will pay off. In Europe, perceived AI laggards are outperforming winners by a record margin in July. The focus will turn to spending figures from Meta and Microsoft which report after the US close later.
+ 
+Over 50 companies on the Stoxx Europe 600 are reporting results Wednesday. The banks are a bright spot, as Standard Chartered announced a $1 billion share buyback as it reported second-quarter earnings that beat expectations. 
+UBS profit also surpassed estimates and it announced a new $3 billion share buyback program to run until mid-2027. Deutsche Bank’s FIC sales & trading revenue for the second quarter beat the average analyst estimate, and the German bank announced a a new share buyback of €500 million.
+Other highlights include Kering, whose ADRs surged after reporting that Gucci sales fell less than expected in the second quarter, suggesting efforts to revive the brand are starting to bear fruit. EssilorLuxottica said revenue from the Ray-Ban owner’s category-leading smartglasses nearly doubled in the second quarter. Meanwhile, Rio Tinto reported first-half underlying profit that beat the average analyst estimate, with strong copper earnings.
+HSBC strategist Duncan Toms sees reasons to be optimistic about European equities in the second half. “Top down macro expectations could prove too pessimistic, particularly if higher policy uncertainty and currently hawkish ECB rate pricing unwind,” he writes. “Bottom up, earnings expectations have been more resilient with Q2 expected to be the strongest second quarter in three years.”
+ 
+Out of the MSCI Europe companies that have reported so far this season, 47% have beaten expectations while 31% have missed. 
+The attention will turn to the Federal Reserve after the close. It’s expected to hold interest rates steady but market participants are eyeing the possibility of a surprise hike as patience with high inflation wears thin.
+ 
+Earnings since the European close on Tuesday include: 
+•	RWE reported preliminary adjusted Ebitda for the first half-year €3.01 billion
+•	Rio Tinto reported underlying profit for the first half-year $6.85 billion, +43% y/y, estimate $6.78 billion
+•	Logitech sales forecast for the second quarter $1.19 billion to $1.22 billion, estimate $1.23 billion
+•	Erste Group targets ROTE of >20% annually through 2030, according to updated medium-term management goals
+•	Verallia reported adjusted Ebitda for the second quarter €192.4 million, estimate €206.5 million
+•	M6 reported Ebita for the first half-year €54.4 million, -49% y/y, estimate €60.1 million
+•	Lagardere reported recurring Ebit for the first half-year of €233 million vs. €225 million y/y
+•	Grifols reported net income for the first half-year €227 million, +28% y/y, estimate €180.7 million
+•	INWIT reported revenue for the second quarter €267 million, -0.7% y/y, estimate €266.6 million
+•	Recordati reported adjusted net income for the first half-year €349.9 million, +6.7% y/y, estimate €346 million
+•	Kering reported second quarter comparable revenue +2%, estimate +2.58%
+•	ASM International reported second-quarter revenue €1.00 billion, +16% q/q, estimate €999.8 million, equipment revenue €794.3 million, estimate €799.1 million
+•	Alten reported revenue for the first half-year €2.11 billion, +1.2% y/y, estimate €2.1 billion
+•	EssilorLuxottica reported second-quarter revenue in constant currency +8.7%, estimate +10.1%
+•	Landis+Gyr reported 1Q FY2026 net revenue of $232.3m, down 6.8% y/y from $249.1m
+Elsewhere, so far this morning:
+•	Telefonica reported adjusted Ebitda for the second quarter €2.93 billion, estimate €2.88 billion
+•	Deutsche Bank reported FIC sales & trading revenue for the second quarter €2.6 billion, estimate €2.41 billion
+•	CaixaBank reported net income for the second quarter  €1.63 billion, estimate €1.56 billion
+•	Redcare Pharmacy NV reported adjusted Ebitda margin for the second quarter of 3.5% vs. 2.6% y/y
+•	UBS reported net income for the second quarter $2.80 billion, +17% y/y, estimate $2.47 billion
+•	Standard Chartered reported pretax profit for the second quarter $2.33 billion, +2.4% y/y, estimate $2.08 billion
+•	Krones reported Ebitda for the second quarter €143.9 million, +3.4% y/y, estimate €141.4 million
+•	Melexis reported Ebit for the second quarter €38.6 million, +8.2% y/y, estimate €37.3 million
+•	Nordex reported Ebitda for the second quarter €224 million vs. €108 million y/y, estimate €192.7 million
+•	Sopra Steria boosted its organic revenue forecast for the full year. Sees organic revenue +2% to +2.5%, saw +1% to +2%, estimate +1.8%
+•	Electrolux reported 2Q net sales SEK31.57 billion, estimate SEK31.18 billion
+Markets at a Glance
+ 
+Source: Bloomberg
+Equity Insights and Strategy
+•	European stocks seen as vulnerable to AI disruption have outperformed those viewed as beneficiaries by a record margin in July, as investors rotated out of this year’s winners.
+European Sectors in Focus
+•	Oil is rebounding after three days of declines, with brent crude futures around $87 per barrel. Watch energy stocks including BP, Shell, TotalEnergies and Equinor.
+US Markets
+US stocks were steady after European markets closed on Tuesday, with the S&P 500 ending the day up about 0.2%. The tech-heavy Nasdaq 100 slid about 1%, bringing it close to a technical correction from its June peak. The Fed’s rate decision later Wednesday will be in focus.
+•	Seven of 11 S&P 500 sectors rose, led by health care (+2.3%), consumer staples (+2%) and materials (+1.7%) 
+o	Underperforming sectors include energy (-1.4%), information technology (-1.2%) and industrials (-0.4%)
+•	The equal-weighted S&P 500 rose more than 1% to close at another record high
+•	Earnings season continues in the US, with the following companies among those due to report before the open on Wednesday: 
+o	Procter & Gamble (watch Unilever, Henkel, Reckitt Benckiser and Nestle)
+o	Boston Scientific (watch Smith & Nephew, wider health care devices and supplies sector includes Getinge, Convatec and Coloplast)
+o	Biogen (Multiple Sclerosis, 41% of revenues, reads include Roche, Novartis and Sanofi. Rare Disease, 22% of revenue, watch Recordati and Argenx)
+o	Stanley Black & Decker (watch Kingfisher, Grafton, Husqvarna, Wickes, Hornbach and James Latham)
+o	Vulcan Materials (watch Buzzi, Kingspan, Heidelberg Materials, Saint-Gobain, Sika, Titan and Holcim)
+o	Vertiv Holdings (reads to electrification, AI power companies including Siemens Energy and ABB)
+o	Johnson Controls (watch Siemens, Schneider Electric and Legrand)
+o	Smurfit Westrock (watch Stora Enso, Mondi and Metsa Board)
+o	CBRE (watch Savills)
+o	Masco (watch Geberit, Villeroy & Boch, FM Mattsson and Svedbergs)
+o	Verisk (watch Experian)
+o	Amphenol (watch Huber + Suhner)
+•	Mag 7 earnings continue after the market close, with Microsoft and Meta expected to report later
+Asian Markets
+•	Asian stocks are falling for a second day as investors rotate out of chip shares amid growing skepticism over AI spending. 
+o	The MSCI Asia Pacific Index is down as much as 2.3%, to the lowest level since mid April
+o	South Korea’s Kospi fell by as much as 13%, adding to Tuesday’s drop and putting the gauge on track for a record two-day decline
+o	Shares of SK Hynix tumbled by a record after a 557% surge in its quarterly operating profit missed lofty estimates. Those of rival Samsung Electronics also fell
+Macro
+•	Ukrainian President Zelenskyy said he discussed Patriot air defenses and the prospects for renewed diplomacy during a meeting with Trump, although there were few public signs of progress as Kyiv seeks to bolster its military capabilities against Russia.
+•	Andy Burnham is about to get an early verdict on his leadership from his very own backyard.
+•	France fears that shifting winds and rising temperatures could fan the flames of massive wildfires in the southwest, even as Spain experienced some relief from the blazes near Madrid.
+M&A and ECM
+•	Perpetual Ltd. rebuffed a third takeover offer from EQT AB and said it will engage with the Swedish private equity firm to seek an improved bid.
+•	AlgoSec, a US-based cybersecurity company, is considering a potential initial public offering on the London Stock Exchange, Bloomberg reported.
+European Corporate News
+•	Frasers Group Takes a Position in UK Luxury Brand Burberry
+•	China Urges UK to ‘Prudently’ Handle British Steel Takeover
+•	Azimut Buys Turkish Portfolio Manager Yapi Kredi Portfoy
+•	Soitec Reaches Settlement With French Tax Authorities
+•	Saint-Gobain Signs Two-Part Framework Pact With Microsoft
+•	Turkish State-Run TPAO Buys 15% of BP Energy Company of Kirkuk
+•	Leonardo DRS To Buy Raft for $450m All-Cash
+Among European Companies Reporting on Wednesday:
+•	ACS Actividades de Construccion (ACS SM)
+•	AMG Critical Materials NV (AMG NA)
+•	Aberdeen Group Plc (ABDN LN)
+•	Aena SME SA (AENA SM)
+•	Aeroports de Paris SA (ADP FP)
+•	Airbus SE (AIR FP)
+•	Ariston Holding NV (ARIS IM)
+•	Aston Martin (AML LN)
+•	Auto1 (AG1 GY)
+•	Autoneum Holding AG (AUTN SW)
+•	BASF SE (BAS GR)
+•	Banca Generali SpA (BGN IM)
+•	Banco Comercial Portugues SA (BCP PL)
+•	Banijay Group NV (BNJ NA)
+•	Befesa SA (BFSA GR)
+•	Breedon Group Plc (BREE LN)
+•	Brembo NV (BRE IM)
+•	Bureau Veritas SA (BVI FP)
+•	CaixaBank SA (CABK SM)
+•	Carmila SA (CARM FP)
+•	Cementir Holding NV (CEM IM)
+•	Clariane SE (CLARI FP)
+•	Conduit Holdings Ltd. (CRE LN)
+•	Corticeira Amorim SGPS SA (COR PL)
+•	DWS Group GmbH (DWS GR)
+•	Danone SA (BN FP)
+•	Davide Campari-Milano NV (CPR IM)
+•	Deutsche Bank AG (DBK GR)
+•	Dr Ing hc F. Porsche AG (P911 GR)
+•	EDP Renewables SA (EDPR PL)
+•	Ebro Foods SA (EBRO SM)
+•	Electrolux AB (ELUXB SS)
+•	Elia Group SA (ELI BB)
+•	Elis SA (ELIS FP)
+•	Endesa SA (ELE SM)
+•	Eni SpA (ENI IM)
+•	Eramet SA (ERA FP)
+•	FDJ United (FDJU FP)
+•	Fincantieri SpA (FCT IM)
+•	Greggs Plc (GRG LN)
+•	Hellenic Telecommunications Or (HTO GA)
+•	Hera SpA (HER IM)
+•	Hermes International SCA (RMS FP)
+•	Hexagon AB (HEXAB SS)
+•	Imcd NV (IMCD NA)
+•	Imerys SA (NK FP)
+•	International Personal Finance (IPF LN)
+•	Intesa Sanpaolo SpA (ISP IM)
+•	Islandsbanki HF (ISB IR)
+•	Italmobiliare SpA (ITM IM)
+•	Jeronimo Martins SGPS SA (JMT PL)
+•	Kerry Group Plc (KYGA ID)
+•	Klepierre SA (LI FP)
+•	Krones AG (KRN GR)
+•	L’Oreal SA (OR FP)
+•	Lancashire Holdings Ltd. (LRE LN)
+•	Legrand SA (LR FP)
+•	Melexis NV (MELE BB)
+•	Nexans SA (NEX FP)
+•	Nexi SpA (NEXI IM)
+•	Nordex SE (NDX1 GR)
+•	Pirelli & C. SpA (PIRC IM)
+•	Rathbones Group Plc (RAT LN)
+•	Reckitt Benckiser Group Plc (RKT LN)
+•	Redcare Pharmacy NV (RDC GR)
+•	Redeia Corp. (RED SM)
+•	Remy Cointreau (RCO FP)
+•	Renault SA (RNO FP)
+•	Sacyr SA (SCYR SM)
+•	Sage Group (SGE LN)
+•	Sanoma Oyj (SANOMA FH)
+•	Shaftesbury Capital Plc (SHC LN)
+•	Snam SpA (SRG IM)
+•	Societe BIC SA (BB FP)
+•	Solvay SA (SOLB BB)
+•	Sopra Steria Group (SOP FP)
+•	St James’s Place Plc (STJ LN)
+•	Standard Chartered Plc (STAN LN)
+•	Telecom Italia SpA/Milano (TIT IM)
+•	Telefonica SA (TEF SM)
+•	Terna - Rete Elettrica Naziona (TRN IM)
+•	Tikehau Capital SCA (TKO FP)
+•	UBS Group AG (UBSG SW)
+•	Valterra Platinum (VAL SJ)
+•	Vicat Saca (VCT FP)
+•	Vinci SA (DG FP)
+•	Viscofan SA (VIS SM)
+•	Webuild SpA (WBD IM)
+•	Weir Group Plc (WEIR LN)
+Reporting dates according to Bloomberg data, for more earnings see here
+Main Rating Changes
+UPGRADES:
+•	Kering raised to buy at HSBC; PT 340 euros
+•	Sika raised to overweight at JPMorgan; PT 215 Swiss francs
+•	Swissquote raised to buy at Goldman; PT 50 Swiss francs
+DOWNGRADES:
+•	Indra cut to neutral at Mediobanca SpA; PT 70 euros
+•	Luceco cut to hold at Deutsche Bank; PT 260 pence
+INITIATIONS:
+•	CMB Tech rated new buy at SB1 Markets; PT 18.11 euros
+•	Carvolix rated new outperform at Oddo BHF; PT 10.50 euros
+•	Kuros Biosciences rated new buy at UBS; PT 33 Swiss francs
+•	MLP rated new buy at Berenberg; PT 11.90 euros
+•	SBM Offshore rated new outperform at RBC; PT 45 euros
+•	Safran reinstated buy at William O’Neil
+•	Sobi rated new buy at SB1 Markets; PT 515 kronor
+Economic Agenda (All times CET)
+•	08:00: (Ger) June Import Price Index MoM, est. -0.7%, prior 0.7%
+•	08:00: (Ger) June Import Price Index YoY, est. 6.0%, prior 6.8%
+•	08:00: (Swede) 2Q GDP Indicator WDA YoY, prior 1.6%
+•	10:00: (Italy) May Industrial Sales WDA YoY, prior 3.2%
+•	10:00: (Italy) May Industrial Sales MoM, prior 0.3%
+•	10:00: (Swiss) July UBS Survey Expectations, prior -25.0
+•	10:30: (UK) June Mortgage Approvals, est. 57,100, prior 56,200
+•	10:30: (UK) June M4 Money Supply YoY, prior 4.3%
+•	10:30: (UK) June Consumer Credit YoY, prior 8.9%
+•	11:00: (Belg) 2Q GDP SA YoY, prior 0.8%
+Central Banks  (All times CET)
+•	20:00: (US) July FOMC Rate Decision (Upper Bound), est. 3.75%, prior 3.75%
+--With assistance from Michael Msika and Christian Dass.
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+07/29/2026 01:18:27 [BFW]
+(Bloomberg) 
+•	The Kospi Index slid as much as 12.6%, triggering a circuit breaker for a second straight day. The gauge is on course for a record monthly loss of ~35%. SK Hynix earmarked at least $31 billion in capital spending this year after reporting a six-fold surge in quarterly profit, a record outlay that coincides with growing fears about overinvestment in AI capacity.
+•	The MSCI Asia Pacific index dropped more than 1%, with tech stocks in the region leading the charge. The Nikkei dropped almost 2%, while the Taiex slumped ~4%. The Bank of England is examining London investment banks’ exposure to Asian equities to mitigate concentrated risks tied to a handful of artificial intelligence linked companies, the Financial Times reported. The yen strengthened to near 163.40/dollar.
+•	Oil surged with Brent October futures near$85/bbl. The Islamic Revolutionary Guard Corps targeted a US military airbase and central command center with ballistic missiles, state-run IRIB News reports, citing an IRGC statement early Wednesday. The US said it intercepted an Iranian attack on military bases.
+•	UBS announced a $3 billion share buyback program to run until mid-2027. Standard Chartered unveiled a $1 billion share buyback as second-quarter earnings beat expectations, while it booked more charges tied to the conflict in the Middle East. Deutsche Bank reported FIC sales & trading revenue for the second quarter that beat the average analyst estimate.
+•	An OpenAI artificial intelligence agent that breached systems at the startup Hugging Face earlier this month also compromised a customer of the technology company Modal.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

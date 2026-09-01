@@ -1,0 +1,269 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 1.31%
+- S&P Equal Weight (SPW): 0.97%
+- 7 Magníficas (BM7T): 1.65%
+- EuroStoxx50: 0.04%
+- Stoxx600: 1.96%
+- Ibex35: 2.34%
+- Nikkei: 1.83%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Comm Services (+2.00%)
+- Peor sector S&P500: Real Estate (0.94%)
+- Mejor sector Stoxx600: Materiales/Constr. (+2.87%)
+- Peor sector Stoxx600: Salud/Farma (0.97%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $95.0/barril
+- Petróleo WTI: $89.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.70%
+- Bono Alemania: 3.31%
+- Bono España: 3.74%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 22,9 puntos básicos, y a marzo 2027 una subida de 32,4 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 42,4 puntos básicos, y a marzo 2027 una subida de 51,8 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27,2 puntos básicos, y a marzo 2027 una subida de 50,3 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Futures Gain on Hormuz Hopes
+Before the European Bell: Futures Gain on Hormuz Hopes
+By Neil Campling and Julien Ponthus
+08/06/2026 01:37:49 [BFW]
+(Bloomberg) -- European futures point to further gains at the open, buoyed by optimism over a potential transit route agreement for the Strait of Hormuz. Traders have one eye on the last major day of Europe’s earnings season, and a slate of macro data. 
+Euro Stoxx 50 futures are 0.2% higher at 7:28 a.m. CET after the underlying benchmark closed at another record the prior session, while FTSE 100 futures are up 0.1%. 
+In Asia, tech stocks are weighing on the MSCI Asia Pacific benchmark, as reactions to Western Digital and Sandisk earnings reflect concerns about the storage and memory chip market. 
+ 
+Source: Bloomberg
+Still supportive for the equity setup in Europe is the economic momentum indicator in the Eurozone outpacing the US and breadth of EPS beats. That’s as Banco BPM and Technoprobe reported upside surprise on headline results since the close on Wednesday. 
+Over 30 Stoxx 600 Index members are due to report Thursday, with Diageo, Siemens and Deutsche Telekom all on deck. The latter raised its share buy-back program by up to €3 billion. Earlier this week a big options trade crossed in the form of a put spread collar, for more color see the EMEA Options Snapshot. 
+ 
+With M&A in focus in the banking sector, arbs will likely be listening in to Commerzbank’s earnings conference call at 9 a.m CET, after UniCredit’s gradual takeover of the German bank cleared a key regulatory hurdle earlier this week. 
+And Italy’s banking consolidation saga took another turn after Banco BPM’s CEO said the lender would consider a tie-up with its largest shareholder, Credit Agricole. That follows BPM’s decision to abandon a merger plan with Monte dei Paschi, and reports that Paschi is potentially considering a bid for BPM, even as Paschi remains a target of Intesa Sanpaolo. 
+ 
+On the macro front, Eurozone retail sales, the ECB economic bulletin, German factory orders, industrial production in Italy and Spain are expected. Poland is analyzing how to tax “huge” windfall profits of oil companies after a presidential decision to block the previous bill. And the UK government will allow over 100 companies, including AstraZeneca and JLR, to bring in workers on a fast-track visa.  
+In other assets, bond and currency investors are debating if it’s time to dust off last year’s ‘Sell America’ trade after a flurry of economic-policy decisions out of Washington. Sovereign wealth fund Kuwait Investment Authority is said to have secured a $4.25 billion syndicated loan, a rare such deal in a region where lending has dropped off since the conflict in Iran began.
+ 
+Elsewhere, AstraZeneca and Jaguar Land Rover are among over 100 UK companies that will be able to bring in workers on a fast-track visa as the government tries to capitalize on US President Trump’s immigration crackdown.
+Some notable rating changes include Technip Energies cut to neutral at JPMorgan and InPost cut to neutral at UBS. Elsewhere, Jefferies cut Hensoldt to hold, and Oddo BHF cut Alior to neutral. 
+Earnings since the European close on Tuesday include: 
+•	Banco BPM reported net income for the second quarter €580.6 million, -18% y/y, estimate €533.2 million
+•	Technoprobe forecast consolidated revenue for the full year €1.05 billion to €1.10 billion, estimate €1.02 billion
+•	Tritax Big Box reported pretax profit for the first half-year £75.8 million, -55% y/y, estimate £232.1 million
+•	BFF Bank reported net interest income for the first half-year of €106.0 million
+So far this morning: 
+•	Deutsche Telekom reported adjusted Ebitda after leases for the second quarter €11.82 billion, +7.5% y/y, estimate €11.76 billion
+•	Commerzbank reported net income for the second quarter €898 million, +94% y/y, estimate €856.4 million. The bank announced a new buyback of up to €1.2 billion
+•	Siemens boosted its EPS before purchase price allocation forecast for the full year. Sees EPS before purchase price allocation €11.20 to €11.50, saw €10.70 to €11.10
+•	Swiss Re reported return on equity for the first half-year 22.7%, estimate 28.8%
+•	Swisscom reported net revenue for the second quarter CHF3.62 billion, estimate CHF3.6 billion
+•	BPER Banca reported net income for the second quarter of €758.1 million vs. €460.5 million y/y
+•	Hexagon Composites reported 2Q Ebitda NOK69.0 million, estimate NOK41.5 million
+•	Aurubis reported pretax operating profit for the nine month period of €374 million vs. €286 million y/y
+•	SAF-Holland reported adjusted Ebit margin for the second quarter of 9.6% vs. 9.1% y/y
+•	Xior reported net rental income for the first half-year of €96.9 million vs. €86.6 million y/y
+•	Carl Zeiss Meditec reported adjusted Ebita for the nine month period of €124.5 million vs. €177 million y/y
+•	Nordic Semiconductor forecast revenue for the third quarter of $220 million to $240 million
+Equity Insights: 
+•	While US shareholder returns — composed of dividends and net buyback yields — fell to a record low in July, British companies are returning money to investors at close to a record pace, according to Societe Generale strategists.
+ 
+Readers can now subscribe to Equity Insights by clicking here.
+ 
+European Sectors in Focus
+•	Watch European semiconductors after memory and storage stocks decline in Asia after reports from Sandisk and Western Digital disappointed investors.
+•	Oil majors will be in focus with brent trading under $80 a barrel after Iran said it had reached an agreement with Oman on a proposed shipping route.
+•	Renewables shares may also be closely watched after news the US was planning tariffs and minimum prices on imported polysilicon which is used notably to produce solar panels
+US Markets
+The S&P 500 dropped about 20 basis points after European markets closed on Wednesday, ending the session slightly down from the record high set on Tuesday. 
+•	Five of the 11 S&P 500 sectors declined, led by communication services (-2.4%), energy (-2%) and utilities (-1%) 
+o	Among the outperformers: materials (+1.5%), health care (1.3%) and financials (+0.3%)
+•	Alphabet Inc. dragged on the index, dropping 4% after Google announced some of its most prominent AI veterans were leaving the company
+•	Memory chipmakers Sandisk Corp. and Western Digital Corp., both among the top performers in the S&P 500 this year, fell in postmarket trading after their results underwhelmed
+•	Among key US companies expected to report before the bell: 
+o	ConocoPhillips (watch Shell, BP, TotalEnergies)
+o	Kenvue (watch Haleon, Reckitt Benckiser, Beiersdorf, Unilever and L’Oreal)
+o	Ralph Lauren (watch Burberry, Kering and Moncler)
+o	Zoetis (watch Virbac, Pets at Home, Musti and Medicover)
+Asian Markets
+Asian stocks declined, led by heavyweight chipmakers that followed US peers lower after Sandisk’s earnings fell short of estimates. 
+•	The MSCI Asia Pacific Index declined as much as 1.4%, with SK Hynix, Samsung, TSMC and Kioxia the biggest contributors to the decline
+•	Korea’s Kospi gauge slumps as much as 5.5%
+Macro
+•	Iran said it had reached an agreement with Oman on a proposed route for shipping through the Strait of Hormuz, a potential step toward a reopening of the critical waterway for energy supplies.
+•	President Donald Trump is preparing to impose tariffs and minimum prices on imported polysilicon, a bid to boost domestic production of the material as well as the US semiconductors and solar panels made from it.
+•	China leveraged its dominance over global drone production to hit back at widening US technology and trade curbs, unleashing a barrage of retaliatory actions on Wednesday while signaling it wants to keep relations with Washington from veering off track.
+•	The US Treasury on Wednesday retained its previous guidance for future debt issuance, signaling no change in note and bond auction sizes well into 2027 even as federal borrowing needs climb.
+•	Federal Reserve Bank of San Francisco President Mary Daly said she supported the central bank’s decision to keep interest rates on hold last week, but warned of the possibility that high inflation is a broader problem that could require more aggressive action from policymakers
+M&A and ECM
+•	Banco BPM SpA’s Chief Executive Officer said the Italian lender would consider a tie-up with Credit Agricole SA, its largest shareholder, if it’s in the interest of all investors.
+•	Tritax Big Box REIT launched a £350 million equity placing alongside its earnings.
+European Corporate News
+•	Ares Scales Back Private Credit Vehicle to €400m From €1b: FT
+•	AstraZeneca, JLR to Benefit as UK Expands Research Visa Program
+•	Manulife Announces C$3.2b LTC Reinsurance Deal With Munich Re
+•	UBS Head of Latin America Bassan Quits to Join Santander
+•	Poland Will Attempt Again to Tax Oil Firms’ Windfall Profits
+•	Bayer Seeks to Move Roundup Settlement Hearing to September
+•	UK’s Bodycote Draws £1.6 Billion Bids From CVC and Veritas
+•	Partners Group Nears €2b Deal for Beauty Group Aroma-Zone: FT
+Other European Companies Expected to Report Today
+•	1&1 AG (1U1 GR)
+•	Adecco Group AG (ADEN SW)
+•	Admiral Group Plc (ADM LN)
+•	Amrize Ltd. (AMRZ SW)
+•	Aumovio SE (AMV0 GR)
+•	Aurubis AG (NDA GR)
+•	Bper Banca SpA (BPE IM)
+•	Burford Capital Ltd. (BUR LN)
+•	Carl Zeiss Meditec AG (AFX GR)
+•	Commerzbank AG (CBK GR)
+•	CrediaBank SA (CREDIA GA)
+•	Derwent London Plc (DLN LN)
+•	Deutsche Telekom AG (DTE GR)
+•	Deutz AG (DEZ GR)
+•	Diageo Plc (DGE LN)
+•	Duerr AG (DUE GR)
+•	Etablissements Maurel & Prom (MAU FP)
+•	Fila SpA (FILA IM)
+•	ForFarmers NV (FFARM NA)
+•	Fraport AG Frankfurt Airport S (FRA GR)
+•	GFT Technologies SE (GFT GR)
+•	GVS SpA (GVS IM)
+•	Galenica AG (GALE SW)
+•	Generali (G IM)
+•	Genmab A/S (GMAB DC)
+•	Glanbia Plc (GLB ID)
+•	Harbour Energy Plc (HBR LN)
+•	Harvia Oyj (HARVIA FH)
+•	Henkel AG (HEN3 GR)
+•	Hikma Pharmaceuticals Plc (HIK LN)
+•	Ionos Group SE (IOS GR)
+•	Italian Exhibition Group SpA (IEG IM)
+•	Jensen-Group NV (JEN BB)
+•	KBC Group NV (KBC BB)
+•	KSB SE & Co. (KSB GR)
+•	Kontron AG (KTN GR)
+•	Mediobanca Banca di Credito Fi (MB IM)
+•	Merck KGaA (MRK GR)
+•	Metlen Energy & Metals Plc (MTLN LN)
+•	Metsa Board Oyj (METSB FH)
+•	Michael Page Plc (PAGE LN)
+•	Morgan Advanced Materials Plc (MGAM LN)
+•	NN Group NV (NN NA)
+•	Nordic Semiconductor ASA (NOD NO)
+•	OC Oerlikon Corp. Pfaeffikon (OERL SW)
+•	Ohb SE (OHB GR)
+•	Osb Group Plc (OSB LN)
+•	PVA TePla AG (TPE GR)
+•	PZ Cussons Plc (PZC LN)
+•	Paradox Interactive AB (PDX SS)
+•	Persimmon Plc (PSN LN)
+•	ProSiebenSat.1 Media SE (PSM GR)
+•	QT Group Oyj (QTCOM FH)
+•	Quilter Plc (QLT LN)
+•	Rational AG (RAA GR)
+•	Renk Group AG (R3NK GR)
+•	Rheinmetall AG (RHM GR)
+•	Rhoen-Klinikum AG (RHK GR)
+•	SAF-Holland SE (SFQ GR)
+•	SBM Offshore NV (SBMO NA)
+•	SGL Carbon SE (SGL GR)
+•	Scout24 SE (G24 GR)
+•	Serco Group Plc (SRP LN)
+•	Serica Energy Plc (SQZ LN)
+•	Siemens AG (SIE GR)
+•	Suss MicroTec SE (SMHN GR)
+•	Swiss Re AG (SREN SW)
+•	Swisscom AG (SCMN SW)
+•	TBC Bank Group Plc (TBCG LN)
+•	TP ICAP Group Plc (TCAP LN)
+•	United Internet AG (UTDI GR)
+•	WPP Plc (WPP LN)
+•	Wizz Air Holdings Plc (WIZZ LN)
+•	Xior Student Housing NV (XIOR BB)
+•	Yubico AB (YUBICO SS)
+•	Zurich Insurance Group AG (ZURN SW)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Clariant raised to hold at Jefferies; PT 10.20 Swiss francs
+•	Erste Bank Polska raised to neutral at Goldman; PT 750 zloty
+•	Erste raised to outperform at Oddo BHF; PT 138.52 euros
+•	FM Mattsson AB raised to buy at SB1 Markets; PT 100 kronor
+•	L’Oreal raised to hold at Jefferies; PT 377 euros
+DOWNGRADES:
+•	Alior cut to neutral at Oddo BHF; PT 146 zloty
+•	Beiersdorf cut to underweight at Barclays; PT 68 euros
+•	Biohit cut to accumulate at Inderes; PT 3.30 euros
+•	Hensoldt cut to hold at Jefferies; PT 98 euros
+•	InPost cut to neutral at UBS; PT 15.60 euros
+•	Smith & Nephew cut to neutral at JPMorgan; PT 1,290 pence
+•	Technip Energies cut to neutral at JPMorgan; PT 35 euros
+•	United Bankers cut to sell at Inderes; PT 21 euros
+INITIATIONS:
+•	None reported.
+Economic Agenda (All times CET)
+•	08:00: (Ger) June Factory Orders MoM, est. 0.5%, prior 1.9%
+•	08:00: (Ger) June Factory Orders WDA YoY, est. 5.9%, prior 6.2%
+•	08:45: (Fra) 2Q Wages QoQ, prior 0.7%
+•	09:00: (Spain) June Industrial Output NSA YoY, prior 0.8%
+•	09:00: (Spain) June Industrial Output SA YoY, prior 3.4%
+•	09:00: (Spain) June Industrial Production MoM, est. -0.5%, prior 1.2%
+•	09:30: (Ger) July S&P Global Germany Constructio, prior 44.8
+•	10:00: (Italy) June Industrial Production MoM, est. 0.3%, prior -0.3%
+•	10:00: (Italy) June Industrial Production WDA YoY, est. 1.1%, prior 1.1%
+•	10:00: (Italy) June Industrial Production NSA YoY, prior -1.9%
+•	10:30: (UK) July S&P Global UK Construction PMI, est. 40.0, prior 38.4
+•	11:00: (Eurozone) June Retail Sales YoY, est. 1.0%, prior 1.6%
+•	11:00: (Eurozone) June Retail Sales MoM, est. 0.1%, prior 0.2%
+Central Banks
+•	10:00: (Eurozone) ECB Publishes Economic Bulletin
+European Ex-dividends
+Ticker	Company	Dividend Amount	Currency
+AZN LN	AstraZeneca PLC	1.06	USD
+BARC LN	Barclays PLC	5.9	GBp
+BT/A LN	BT Group PLC	5.87	GBp
+EMG LN 	Man Group PLC/Jersey	0.057	USD
+INCH LN 	Inchcape PLC	10.8	GBp
+INF LN	Informa PLC	7.48	GBp
+LLOY LN	Lloyds Banking Group PLC	1.58	GBp
+MT NA	ArcelorMittal SA	0.15	USD
+REL LN	RELX PLC	20.9	GBp
+RKT LN	Reckitt Benckiser Group PLC	88.6	GBp
+RR/ LN	Rolls-Royce Holdings PLC	6	GBp
+RYA ID	Ryanair Holdings PLC	0.195	EUR
+SDR LN	Schroders PLC	7	GBp
+SGRO LN	Segro PLC	10.14	GBp
+STAN LN	Standard Chartered PLC	0.204	USD
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/06/2026 01:21:43 [BFW]
+(Bloomberg) 
+•	Tech stocks in Asia are falling in the wake their US peers ending a four-day winning streak. S&P and Nasdaq-100 futures are showing some resilience compared with the drop for the Kospi, which is sinking on a read-through from high-flying US memory storage stocks Sandisk and Western Digital failing to meet lofty expectations. Deepseek is planning “significant” price hikes across its AI services. Euro Stoxx 50 futures are up 0.2%, with a guidance increase from Siemens.
+•	Oil prices are a touch lower with Brent hovering around $80/bbl. Iran said that an agreement with Oman on a proposed route for shipping through the Strait of Hormuz has been reached. President Trump said earlier that the US is talking with Iran, adding “let’s see what happens.”
+•	Gold is extending its rise after the biggest jump in six months to touch $4,300/oz. Comex copper futures climbed to a record, tracking the push to reopen Hormuz, as gold had.
+•	President Trump is preparing tariffs to slap minimum prices on imported polysilicon in a bid to boost domestic production of both the material and the chips and solar panels that it is used to make. The plans may materialize as soon as Thursday with levies being pitched at around 15%.
+•	A slew of major hedge funds have had their information systems targeted by hackers in recent days. Point72 informed investors about the attack on Wednesday, while there were attempts to infiltrate Millennium Management, Two Sigma and Citadel too. That’s as a spate of well-known outfits nurse losses from July’s AI selloff. One of the hardest hit, Situational Awareness, has already made its return to investing with a $400 million bet on a privately-held firm.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

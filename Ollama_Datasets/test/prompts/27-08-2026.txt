@@ -1,0 +1,208 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.02%
+- S&P Equal Weight (SPW): 0.15%
+- 7 Magníficas (BM7T): -0.13%
+- EuroStoxx50: 0.23%
+- Stoxx600: -0.01%
+- Ibex35: 0.05%
+- Nikkei: 0.11%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Industrials (+1.07%)
+- Peor sector S&P500: Health Care (-1.01%)
+- Mejor sector Stoxx600: Bancos (+0.76%)
+- Peor sector Stoxx600: Salud/Farma (-1.00%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $87.4/barril
+- Petróleo WTI: $81.8/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.66%
+- Bono Alemania: 3.23%
+- Bono España: 3.69%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 26.3 puntos básicos, y a marzo 2027 una subida de 37.6 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 43.9 puntos básicos, y a marzo 2027 una subida de 53.9 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 25.9 puntos básicos, y a marzo 2027 una subida de 44.2 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: AI Bulls Get Reassurance They Wanted
+Before the European Bell: AI Bulls Get Reassurance They Wanted
+By Farah Elbahrawy and Neil Campling
+08/27/2026 01:32:49 [BFW]
+(Bloomberg) -- Any lingering doubts about the AI-fueled rally have been swept aside by blockbuster earnings from the company at the heart of it all: Nvidia. European stock futures are following US peers higher, putting markets on both sides of the Atlantic on course for a positive session.
+Euro Stoxx 50 futures climbed 0.4% at 7:25 a.m. CET, while FTSE 100 futures underperformed, falling 0.4%. Contracts on the Nasdaq 100 jumped 0.6% while those on the S&P 500 futures gained 0.3%. Asian stocks are rising for a third day.
+Markets at a Glance: 
+ 
+Bloomberg
+Nvidia gave a bullish sales outlook, expecting revenue to grow around 70% in fiscal 2028, easing concerns about both fading AI spending and a bubble in the sector. The company also said its deals are not circular, addressing investor concerns that its web of investment pacts with firms across the artificial intelligence ecosystem could leave the industry on shakier ground. 
+ 
+Its shares, which have trailed key AI trades over the past year, rose over 4% in late trading. Citigroup analysis showed technology remains among the three most crowded sectors globally. Within the Magnificent Seven, however, the picture is more mixed: Alphabet and Meta remain crowded longs, while Nvidia is moving away from that quadrant.
+Salesforce was another positive for the AI trade. The software company gave an outlook for strong revenue expansion and deepened its partnership with Anthropic PBC, reassuring investors that it can compete successfully in the AI era. The news is a relief for the software sector, which has been battered this year at the expense of perceived AI winners. There have been signs of a rebound, with the group outperforming semiconductors for the second month in a row. 
+ 
+The same Citigroup data showed technology is the most crowded trade on a cap-weighted basis in Europe, while financials are the most crowded on an equal-weight basis. Energy sector crowding had the largest decline in August after a July spike on geopolitical tensions.
+On that front, Brent crude prices fell for a fourth day on Thursday to $87.43 a barrel as traders weighed progress on increasing energy flows through the Strait of Hormuz against rising Russia-Ukraine tensions that are curbing output. Russia is said to be preparing to escalate attacks on Ukraine after concluding that negotiations for a peace deal have reached a dead end.
+Meanwhile, central bankers from around the world will begin their meetings at the Jackson Hole Economic Policy Symposium on Thursday, before all eyes turn to Kevin Warsh for his first speech at the event the following day.
+Among key corporate news in Europe, Swedish mining group Boliden has agreed to acquire Votorantim’s stake in Nexa Resources, taking control of the zinc and silver producer and expanding its operations into Brazil and Peru. HSBC is said to be planning to overhaul its Singapore operations by combining its major banking services under one entity to streamline the structure. 
+Equity Insights
+•	The current implied volatility gap between Euro Stoxx 50 and S&P 500 dividend futures points to something of a market anomaly, writes Bloomberg’s Christian Dass. Despite their higher beta to spot during drawdowns and generally higher realized volatility versus S&P 500 dividend futures, Euro Stoxx 50 dividend futures currently have slightly lower implied volatility, according to UBS derivatives strategists.
+ 
+UBS Derivatives Strategy team
+Source: UBS Derivatives Strategy team
+•	Nvidia risks missing out on $122 billion in additional revenue next year because of supply constraints, creating an opportunity for Asian suppliers such as TSMC and SK Hynix to step in by increasing capital expenditure.
+Readers can now subscribe to Equity Insights by clicking here.
+European Sectors in Focus
+•	European cybersecurity stocks like NCC Group, F-Secure and Atos may be active after US peers CrowdStrike and Okta soared in late trading after results. 
+o	CrowdStrike raised its full-year forecast on key metrics.
+o	Okta surged over 20% after hiking its annual revenue outlook for a second time after posting a better-than-expected subscription backlog.
+•	European software stocks may also be active in Thursday trading in the wake of positive updates from US companies Salesforce, Veeva Systems and Nutanix, in contrast to disappointments from Intuit and Zoom the previous day. 
+o	Salesforce jumped 13% in late trading after giving an outlook for strong revenue expansion and deepening its partnership with Anthropic, reassuring investors that it can compete successfully in the AI era.
+o	Veeva rose 9.8% in extended trading, after reporting second-quarter results that beat expectations and raised its full-year forecast.
+o	Nutanix rose in after hours trading after reporting adjusted EPS and revenues above consensus, with fiscal 2027 guidance pointing to sustained sales growth and margin expansion, according to BI. 
+o	The iShares Expanded Tech-Software Sector ETF (IGV US) rose 3.1% in late trading.
+o	SAP, Dassault Systemes, Temenos and Nemetschek may be bid higher in early Europe trading.
+•	European companies exposed to AI and data centers may be active after Nvidia’s earnings. 
+o	Watch European semiconductor and semi equipment names including Sivers Semiconductors, Infineon, ASML, ASM International, BE Semiconductor, VAT Group and Siltronic.
+o	AI and data center-exposed stocks in Europe include Nokia, Siemens Energy, Schneider Electric, Aixtron and Legrand. 
+US Markets
+The S&P 500 Index swung between small gains and losses after European markets closed Wednesday, before finishing flat.
+•	Seven of the 11 S&P 500 sectors fell on Wednesday, led by healthcare (-1%), communication services (-0.7%) and consumer discretionary (-0.6%)
+•	Four sectors gained, led by industrials (+1.1%), utilities (+0.5%) and information technology (+0.4%)
+•	Nvidia shares climbed in post-market trading after the chipmaker gave a bullish sales outlook for fiscal 2028
+•	Here are key earnings due before the bell: 
+o	Burlington Stores
+o	Best Buy (reads include Currys, Ceconomy, AO World, Komplett and Fnac Darty)
+o	Dollar General (reads include Europris, B&M, Clas Ohlson and Rusta)
+o	Dollar Tree (reads include Europris, B&M, Clas Ohlson and Rusta)
+o	Hormel (reads include Orkla, Mowi, Unilever and Nestle)
+o	Canadian Solar (reads include Acciona Energias Renovables, Entech and Grenergy Renovables)
+o	Royal Bank of Canada
+Asia Stocks
+Asian stocks are rising, led by chip stocks after Nvidia’s bullish sales outlook injected fresh vitality into the AI trade. 
+•	The MSCI Asia Pacific Index gained as much as 0.7%, fueled by gains in SK Hynix, Samsung Electronics and TSMC
+•	A Bloomberg index of Asian semiconductors rose the most in about a week
+Macro
+•	A Barclays Plc survey has found that this year’s heat waves measurably impacted the investment plans of businesses and conduct of consumers in the UK. 
+o	Brits increasingly opted to stay in the UK rather than travel abroad this summer, a welcome boost for the British tourist economy.
+•	French presidential candidates will present their policies to business leaders on Thursday, outlining starkly divergent paths for the euro area’s second largest economy as Emmanuel Macron’s decade in power draws to an end.
+•	Germany’s anti-immigration party shored up its lead in an eastern state less than two weeks before an election that could produce the country’s first far-right-led government, though it remains short of an outright majority.
+•	The US is investigating Singapore-based Apex Logistics for its suspected role in smuggling Nvidia AI chips to China, people familiar with the matter said, in what may result in the first action against a transportation company.
+•	The Bank of Korea raised its benchmark interest rate for a second consecutive meeting, moving to stay ahead of inflation risks fueled by stronger-than-expected economic growth amid an unprecedented semiconductor boom.
+•	US allies are privately warning that the Strait of Hormuz is still likely mined, casting doubt on President Donald Trump’s claim that the US Navy has completely removed and detonated explosives laid by Iran.
+•	President Donald Trump on Wednesday signed an emergency order that aims to keep some foreign-made transformers and other critical energy equipment out of the nation’s electric grids on national security grounds.
+Commodities
+•	Gold rebounded above $4,600 an ounce as investors turned their focus to the Federal Reserve’s interest-rate path ahead of Jackson Hole.
+•	Zinc extended its rally into a seventh day, holding near the highest in more than four years as tightening supplies fueled concerns across metals markets.
+M&A and ECM
+•	DKSH has signed an agreement to acquire 100% of P.R. Chemicals, a Thai distributor of Active Pharmaceutical Ingredients.
+European Corporate News
+•	UBS ‘Hard Capital’ Plan Restated by SNB’s Martin Before Vote
+•	Samsung Told to Pay Swatch On Lookalike Breguet, Omega
+•	UOB, HSBC Complete HKD Cross-Border Transaction on Swift Ledger
+•	Stellantis CEO Vows to Keep Carmaker’s 12 Plants in France Open
+•	Roche Gets FDA Nod for Expanded Use for Two HER2 Tests
+•	Wienerberger Outlook Cut to ‘Negative’ From ‘Stable’ by Moody’s
+•	Anthropic to Pay Nscale $45 Billion for AI Computing Power
+European Companies Expected to Report Today
+•	Accelleron Industries AG (ACLN SW)
+•	Ageas SA (AGS BB)
+•	Allwyn AG (ALWN GA)
+•	Asta Energy Solutions AG (1AST GR)
+•	Brim hf (BRIM IR)
+•	CMB Tech NV (CMBT BB)
+•	Delivery Hero SE (DHER GR)
+•	EVN AG (EVN AV)
+•	Elekta AB (EKTAB SS)
+•	Eurocommercial Properties NV (ECMPA NA)
+•	Fielmann Group AG (FIE GR)
+•	Gerresheimer AG (GXI GR)
+•	Heimar HF (HEIMAR IR)
+•	Infracore SA (INFRAC SW)
+•	Investis Holding SA (IREN SW)
+•	Ion Beam Applications (IBAB BB)
+•	Ivu Traffic Technologies AG (IVU GR)
+•	L. E. Lundbergforetagen AB (LUNDB SS)
+•	Mota-Engil SGPS SA (EGL PL)
+•	Pernod Ricard SA (RI FP)
+•	Porr AG (POS AV)
+•	Pphe Hotel Group Ltd. (PPH LN)
+•	Sentia AS (SNTIA NO)
+•	Sildarvinnslan HF (SVN IR)
+•	Sivers Semiconductors AB (SIVE SS)
+•	Systemair AB (SYSR SS)
+•	Tessenderlo Group SA (TESB BB)
+•	Van Lanschot Kempen NV (VLK NA)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Bilfinger raised to buy at UBS; PT 102 euros
+•	Computacenter raised to buy at Peel Hunt; PT 6,000 pence
+•	Novonesis raised to add at AlphaValue/Baader
+•	Vestas raised to buy at Berenberg; PT 240 kroner
+DOWNGRADES:
+•	Admiral cut to hold at Berenberg
+•	DocMorris cut to hold at Jefferies; PT 11 Swiss francs
+•	Equinor cut to sell at SB1 Markets; PT 365 kroner
+•	Givaudan cut to underweight at Morgan Stanley
+•	Nagarro cut to hold at Jefferies; PT 81 euros
+•	Novo Nordisk cut to sell at Deutsche Bank; PT 265 kroner
+INITIATIONS:
+•	Benefit Systems rated new overweight at JPMorgan; PT 6,685 zloty
+•	Enea rated new hold at Noble Securities SA; PT 19.94 zloty
+•	Invisio AB rated new buy at SB1 Markets; PT 315 kronor
+•	Medcap rated new buy at SB1 Markets; PT 620 kronor
+•	Mildef Group rated new buy at SB1 Markets; PT 272 kronor
+•	Saab rated new neutral at SB1 Markets; PT 650 kronor
+Economic Agenda (All times CET)
+•	08:00: (Ger) Sept. GfK Consumer Confidence, est. -29.5, prior -29.6
+•	08:45: (Fra) July PPI MoM, prior -0.6%
+•	08:45: (Fra) July PPI YoY, prior 2.6%
+•	10:00: (Euro zone) Jul. M3 Money Supply YoY, est. 3.5%
+Conferences
+•	Montega Hamburg Investor Days
+•	Kepler Cheuvreux Digital Transport Conference
+•	Hamburger Investorentage HIT
+•	DZ Bank, Expert Day
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+ADDTB SS	AddTech AB	3.6	SEK
+AUTO LN	Auto Trader Group PLC	7.8	GBp
+CRDA LN	Croda International PLC	48	GBp
+GAW LN	Games Workshop Group PLC	140	GBp
+GLEN LN	Glencore PLC	0.085	GBp
+LMP LN	LondonMetric Property PLC	3.15	GBp
+QLT LN	Quilter PLC	2.1	GBp
+SHC LN	Shaftesbury Capital PLC	2.2	GBp
+SRP LN	Serco Group PLC	1.6	GBp
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/27/2026 01:17:19 [BFW]
+(Bloomberg) 
+•	Stocks in Asia edge up following an upbeat sales forecast from Nvidia, with South Korea’s Kospi outperforming regional peers. Nasdaq contracts rise as much 1.3% before easing back to a 0.7% advance. S&P 500 futures and European contracts move modestly higher.
+•	Nvidia climbed in late trading after CFO Colette Kress said the company expects to grow revenue by approximately 70% in fiscal 2028. Salesforce jumped in extended trading after it gave an outlook for strong revenue expansion and deepened its partnership with Anthropic.
+•	Oil consolidates above Wednesday lows with Brent trading above $87 a barrel. Iran’s military said it reached a revenue-sharing agreement with Oman on the Strait of Hormuz. Meantime, US allies are privately warning that the waterway is likely still mined. Separately, Russia was said to be preparing to escalate attacks on Ukraine.
+•	Gold climbs to trade above $4,610 an ounce. The precious metal is up about 14% in August, set for the best monthly advance since September 1999. Silver also rose with platinum and palladium. Bitcoin edges above $78,600.
+•	Meta Platforms said it agreed to pay up to $18b in landmark settlements to resolve social media claims from US states that would require the company to make major changes to how it operates platforms like Facebook and Instagram.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

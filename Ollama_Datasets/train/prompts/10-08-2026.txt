@@ -1,0 +1,185 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.20%
+- S&P Equal Weight (SPW): 0.43%
+- 7 Magníficas (BM7T): -0.31%
+- EuroStoxx50: -0.31%
+- Stoxx600: 0.41%
+- Ibex35: -0.68%
+- Nikkei: 1.67%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Comm Services (+1.14%)
+- Peor sector S&P500: Financials (0.14%)
+- Mejor sector Stoxx600: Media (+1.36%)
+- Peor sector Stoxx600: Alimentación (-0.10%)
+
+### RATIOS PE Y CRECIMIENTO DE EPS (Datos de cierre de la semana pasada):
+- S&P500: PE 21.5x, crecimiento EPS estimado +34.2% (2026)
+- Stoxx600: PE 15.8x, crecimiento EPS estimado +16.4% (2026)
+
+
+**Importante:** Integra estas observaciones de ratios PE y crecimiento de de EPS en el análisis de renta variable.
+
+
+
+### TENDENCIAS DE MERCADO (análisis de 10 semanas):
+
+**Rendimiento en últimas 10 semanas:**
+- El S&P Financials ha subido en 9 de las últimas 10 semanas
+- El S&P Telecoms ha subido en 8 de las últimas 10 semanas
+- El S&P Financials ha bajado en 9 de las últimas 10 semanas
+- El S&P Telecoms ha bajado en 8 de las últimas 10 semanas
+
+**Rachas alcistas consecutivas:**
+- El S&P Telecoms acumula 6 semanas consecutivas al alza
+- El Dax acumula 4 semanas consecutivas al alza
+- El EuroStoxx-50 acumula 3 semanas consecutivas al alza
+
+**Índices/sectores en niveles extremos:**
+- El Stoxx 600 se encuentra en niveles de máximos
+- El EuroStoxx-50 se encuentra en niveles de máximos
+- El Dax se encuentra en niveles de máximos
+
+**Importante:** Integra estas observaciones de tendencia en el análisis de renta variable, de forma natural y sin forzar la inclusión de todos los datos. Destaca los más relevantes.
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $95.0/barril
+- Petróleo WTI: $88.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.81%
+- Bono Alemania: 3.28%
+- Bono España: 3.63%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Earnings Enter the Home Stretch
+Before the European Bell: Earnings Enter the Home Stretch
+By Neil Campling
+08/10/2026 01:35:41 [BFW]
+(Bloomberg) -- Stocks look set for a muted start to the week, as an anticipated deal to formally reopen the Strait of Hormuz remained elusive and oil prices ticked higher. Eyes will be on whether earnings can sustain a run that’s outpacing expectations.
+Euro Stoxx 50 futures were steady at 7:25 a.m. CET, while contracts on the FTSE 100 were down 0.4%. 
+Asian stocks are mixed, with Japan’s benchmark Nikkei 225 up 2.0% to lead the region as the Yen weakens through the session. Futures point to modest gains in the US later. Brent crude is slightly higher than when Europe went home Friday, after Yemen’s Houthi militants attacked an oil refinery in Saudi Arabia on Sunday. 
+Markets at a Glance: 
+ 
+Source: Bloomberg
+Economic growth in the euro zone is set to quicken after showing surprising resilience to the Iran war, according to a Bloomberg survey of analysts. The 21-nation bloc is forecast to expand 0.8% in 2026, up from a 0.5% estimate in July. 
+With about 80% of Stoxx 600 companies having reported and Q2 EPS growth near 20%, the focus shifts to whether the final stretch can sustain the recent run of beats and guidance upgrades. 
+Adyen, E.ON and Aviva are among corporates set to announce numbers this week. A relatively quiet lineup on the macro agenda includes UK and Swiss second quarter GDP data. Bloomberg Strategist Ruhell Amin poses three questions for the week ahead: Can Europe keep climbing after outrunning consensus? Will earnings keep doing the heavy lifting? Does the US-Iran détente hold? 
+ 
+Europe’s stock market is firing on all cylinders and drawing money managers who say this rally will be more durable than just another short-term trade. Whether it’s earnings, economic growth, sentiment surveys or fund flows, market metrics across the board show a major shift is underway in European stocks. 
+ 
+In geopolitics, Israeli Prime Minister Benjamin Netanyahu hardened his position and rejected a proposal by US-backed mediators for disarming Hamas. A mutual defense pact between Turkey, Saudi Arabia and Pakistan could be expanded to include other regional states including Egypt, Turkey’s foreign minister said. UK Prime Minister Andy Burnham is embarking on a nationwide tour to promote new policies aimed at reducing the cost of living.
+In other assets, highly-indebted companies are increasingly ditching private credit loans for cheaper capital in the bank loan market, a shift underscoring the stark realities of higher-for-longer interest rates. US wheat futures jumped to the highest in more than a week, as disruptions to shipping in the Black Sea raised the prospect of supply shortages from the crucial grain-growing region. 
+Hungary’s central bank renewed its support for the government’s efforts to meet conditions for joining the euro area, saying it would benefit the economy. Elsewhere, Italy’s record-low Po River delta, a district accounting for about 41% of Italy’s GDP, is forcing farmers to rethink what they grow. 
+In deals, Israel is currently expected to reject the proposed sale of ZIM shipping company to Hapag-Lloyd and FIMI investment fund, Calcalist reports. EasyJet is said to be discussing deepening arrangements with Virgin Atlantic, according to The Sunday Times.
+Earnings so far this morning include: 
+•	Seadrill boosted its revenue forecast for the full year. Sees revenue $1.50 billion to $1.55 billion, saw $1.43 billion to $1.48 billion, estimate $1.51 billion
+•	Aryzta reported Ebitda for the first half-year of €139.9 million versus €150.5 million y/y
+•	Hypoport reported Ebit for the first half-year of €19.3 million
+In other corporate news: 
+•	Ocado launched its first Customer Fulfillment Center with Lotte Shopping in South Korea.
+•	Cambridge Aerospace has raised $300 million at a $3.4 billion valuation, according to the Financial Times
+•	TalkTalk Telecom is close to starting exclusive talks to sell its wholesale business PlatformX Communications to Octopus Investments, Sky News reports.
+European Sectors in Focus
+•	UK recruitment companies may be active after hiring at British businesses held steady in July, ending a downturn stretching back 45 months. 
+o	Watch stocks such as Hays, Michael Page, Robert Walters and SThree
+US Markets
+The S&P 500 was little-changed after Europe went home on Friday, ending the day up 0.6% after the surprise decrease in nonfarm payrolls reduced expectations for Fed interest-rate increases. 
+•	Eight of the 11 S&P 500 sectors rose on Friday, led by strength in materials (+1.5%), consumer discretionary (+1.3%) and information technology (+1.3%) 
+o	The three sectors that slid were energy (-1.2%), communication services (-0.4%) and financials (-0.3%)
+•	The Nasdaq 100 finished the Friday session up 1.2%, capping its strongest weekly gain since early May
+•	Berkshire Hathaway spent about $4.5 billion to buy back its own shares in the second quarter and purchased nearly $20 billion of equities in the period.
+•	Apple has been testing memory chips from China’s CXMT, as the iPhone maker addresses a memory crunch during the AI boom, according to the Wall Street Journal.
+•	Paramount Skydance has agreed to sign contracts with major theater chains guaranteeing that it will release 30 movies a year in cinemas if it acquires Warner Bros. Discovery.
+Asian Markets
+The MSCI Asia Pacific Index gained as much as 0.9% to start the week with Japan’s Nikkei 225 and Taiwanese stocks leading gains, following the strength in the US on Friday. 
+•	Recruit Holdings’s shares jumped to a record after raising its outlook, as the Japanese job-search company began showing the impact of AI-related tools on its Indeed portal.
+•	China’s producer price index rose 3.5% in July from a year earlier, slower than expected and less than the previous month’s gain of 4.1%, while consumer inflation decelerated to 0.5% from 1% in June.
+•	Sony and TSMC are said to be in talks to spend a combined ¥1 trillion ($6.4 billion) on their planned joint factory in Japan.
+•	Shein Global’s fast-fashion niche supports a valuation of $22 billion to $25 billion, Bloomberg Intelligence said, putting a fresh marker on one of the biggest questions surrounding the retailer as it prepares for one of the year’s biggest IPOs.
+•	Singapore markets are closed for a holiday.
+Macro: 
+•	Taiwan plans to spend a record NT$1.1 trillion ($34.1 billion) on its military in 2027, a semi-official media outlet reported, a move that comes as the US pushes it to do more to deter China.
+•	Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-close ties with Russia.
+•	The combination of one-off factors and spending patterns that analysts suspect are being shaped by the political calendar are making it more difficult than usual to gauge the strength of the UK economy.
+Commodities: 
+•	Copper traded in a narrow range after six straight weeks of gains, fueled by tightening supplies and easing concerns about US interest-rate hikes.
+•	UK regulators are preparing a framework for tokenized gold as part of plans to encourage the digitization of financial markets and to protect the dominance of London in global bullion trading, Financial Times reports.
+M&A and ECM
+The Italian Sea Group started a process to identify possible investors, following expressions of interest from possible bidders. 
+Additional European Corporate News
+•	Stabilus SE: Andreas Jaeger Steps Down as CFO
+•	Italy’s Record-Low Po River Forces Farmers to Weigh Crop Switch
+•	US Takes New Aim at Solar Tariff Whack-a-Mole
+•	BP Sale Makes US Investor Germany’s Second-Largest Oil Refiner
+•	TGS Wins 4D Streamer Acquisition Contract Offshore Australia
+•	Congo to Investigate Reports of Excess Uranium in Cobalt Exports
+Among European Companies Expected to Report Today
+•	Alcon AG (ALC SW)
+•	Aryzta AG (ARYN SW)
+•	GEA Group AG (G1A GR)
+•	Hypoport SE (HYQ GR)
+•	Lakefront Biotherapeutics NV (LKFT NA)
+•	Marshalls Plc (MSLH LN)
+•	NTG Nordic Transport Group A/S (NTG DC)
+•	Patrizia SE (PAT GR)
+•	Plus500 Ltd. (PLUS LN)
+•	Rvrc Holding AB (RVRC SS)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Persimmon raised to buy at Deutsche Bank; PT 1,403 pence
+•	Pfisterer Holding raised to outperform at Oddo BHF; PT 95 euros
+DOWNGRADES:
+•	Coca-Cola HBC cut to neutral at BNP Paribas; PT 5,000 pence
+•	Ibstock cut to hold at Jefferies; PT 90 pence
+•	Legal & General cut to sell at Citi; PT 245 pence
+•	UPM-Kymmene cut to underweight at Barclays; PT 21 euros
+INITIATIONS:
+•	Gold Road International rated new buy at Pareto Securities
+Economic Agenda (All times CET)
+•	06:30: (Nether) June Industrial Sales YoY
+•	10:30: (Eurozone) Aug. Sentix Investor Confidence, est. -0.5, prior -3.1
+For more economic data, see here
+Central Banks
+•	10:00: (Swiss) Aug. Total Sight Deposits CHF, prior 465.2b
+•	10:00: (Swiss) Aug. Domestic Sight Deposits CHF, prior 435.3b
+European Ex-divs
+Ticker	Company Name	Dividend Amount	Currency
+NN NA Equity	NN Group	1.55	EUR
+SBMO NA Equity	SBM Offshore	0.5075	EUR
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/10/2026 01:27:48 [BFW]
+(Bloomberg) 
+•	Oil prices edge up with Brent hovering around $84/bbl. Iran and Oman are still short of a final deal to reopen the Strait of Hormuz while Iran ruled out direct talks with the US for now. Tehran promoted a hard-line ex-commander as its top security official. President Trump said the US was “semi-negotiating” with Iran, according to an Axios report. Israel has rejected a proposal by US-backed mediators for disarming Hamas.
+•	US stock futures are nudging higher while European contracts are largely steady. FTSE 100 futures are lagging, down 0.4%. The Stoxx 600 is coming off its best daily streak of gains since June and more money managers say that this European equities rally could be durable. In Asia, Japan’s Nikkei 225 is up 2% and the Kospi is fluctuating in South Korea, lagging a 6% surge for the small-cap Kosdaq as it benefits from a rotation out of leveraged ETFs.
+•	The yen is the worst performer among G-10 currencies against a marginally stronger dollar. The Bank of Japan flagged the risk of inflation heating up in the summary of views from its July meeting, with one board member noting the possibility of a faster pace of rate hikes. JGB yields are higher with Treasury yields.
+•	China’s factory-gate inflation eased for the first time since the start of the Iran war and consumer prices decelerated too, suggesting cost pressures sparked by the jump in oil prices are starting to fade. Economic growth in the euro-area is expected to be firmer after a resilient second quarter, according to a Bloomberg survey of analysts. Rate-hike expectations for the Swiss National Bank have been pushed back.
+•	UK Treasury officials are concerned that Prime Minister Andy Burnham’s talk of using “flexibility” within the country’s fiscal rules to ramp up investment may backfire and destabilize markets, according to people familiar with the thinking. Meanwhile, hiring at UK companies held steady in July to end a 45-month downturn, according to a report from the Recruitment and Employment Confederation and KPMG.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

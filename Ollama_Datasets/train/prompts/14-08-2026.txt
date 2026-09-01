@@ -1,0 +1,172 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.54%
+- S&P Equal Weight (SPW): -0.69%
+- 7 Magníficas (BM7T): 0.18%
+- EuroStoxx50: -2.07%
+- Stoxx600: -1.39%
+- Ibex35: -0.39%
+- Nikkei: -0.53%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Consumer Staples (+0.11%)
+- Peor sector S&P500: Financials (-1.44%)
+- Mejor sector Stoxx600: Materiales/Constr. (+-0.41%)
+- Peor sector Stoxx600: Salud/Farma (-2.20%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $95.0/barril
+- Petróleo WTI: $90.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.58%
+- Bono Alemania: 3.24%
+- Bono España: 3.68%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Winners From AI Spending in Spotlight
+Before the European Bell: Winners From AI Spending in Spotlight
+By Farah Elbahrawy
+08/14/2026 01:36:22 [BFW]
+(Bloomberg) -- European stocks were set to eke out a small gain at the open after a rally in the US. The AI trade is the driving force behind the market, but focus in Europe extends beyond the marquee tech names.
+Euro Stoxx 50 and FTSE 100 futures gained 0.3% at 7:25 a.m. CET. Contracts on the S&P 500 were muted after the underlying benchmark hit a record Thursday, as further signs of cooling inflation dampened expectations for a Federal Reserve interest-rate hike next month. Asian stocks advanced on Friday, with the Kospi taking its weekly gain to nearly 11%.
+Markets at a Glance:
+ 
+Source: Bloomberg
+Developments in the AI space continue to shape the narrative as the trade comes back in favor. Bloomberg reported OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut. 
+Meanwhile, AMD raised $4.75 billion in the chipmaker’s biggest-ever US dollar bond offering, adding to a wave of debt tied to the artificial intelligence boom.
+A Morgan Stanley team led by Chief European Equity Strategist Marina Zavolock said “we continue to recommend buying the dip in AI capex winners, fading the recent bottom momentum squeeze and reiterate that market breadth has likely peaked for now.”
+ 
+This has been a relatively lackluster week for European stocks amid lower summer volumes and a lack of fresh catalysts. Still, AI winners are among the key leaders on the Stoxx 600 this week, including ASML, Nokia and Siemens Energy. The European stock market is packed with more than enough AI winners to offset its lack of technology shares, writes Bloomberg Senior Strategist Michael Msika.
+It’s also been supportive for European flows. Citigroup analysts said European equity funds had a net inflow of $1.2 billion in the week through August 12, which mainly went into regional and Switzerland funds.
+Meanwhile, defense shares have been rebounding this quarter. The sector will be closely watched on Friday as the Trump administration is applying a 100% tariff on imports of unmanned aircraft systems and their components. Tariffs on drones from several economies that struck trade deals with Trump, like the EU and Switzerland, will be 15%, so long as all hardware and technology originates from those places and the US. The UK will be subject to a 10% tariff on its drones and components. 
+ 
+Elsewhere, UK Prime Minister Andy Burnham and his chancellor of the exchequer, John Healey, are expected to focus on cutting business rates for smaller companies in their first budget in October, according to people familiar with their plans. The prime minister has publicly suggested he would support paying for that by shifting taxes onto larger firms with bigger footprints, though hitting some bigger companies might cause them to pass prices onto consumers.
+European Sectors in Focus
+•	Sectors exposed to China such as luxury, autos and mining may be on investors’ radar as official July data scheduled for release Monday are expected to show the country’s economy likely kicked off the second half of 2026 in much the same way it saw out the first, with a booming technology sector failing to make up for an historic investment slump and sluggish consumption.
+US Markets
+US stocks added about 20 basis points after European markets closed, with the S&P 500 ending up 0.7% at a record high. The tech-heavy Nasdaq 100 rose 1.2% to the highest since the end of June.
+•	Seven of the 11 S&P 500 sectors gained, led by communication services (1.6%), real estate (1.3%) and information technology (1%) 
+o	Among the decliners: materials (-0.7%), energy (-0.1%)
+•	Applied Materials Inc. shares fell in late trading following earnings, as the firm’s estimate-beating forecast received a lukewarm reaction from investors, illustrating the lofty hopes surrounding a company that’s key to the AI boom.
+•	Here are key earnings due before the bell in the US and Canada: 
+o	RLX Tech
+o	Sigma Lithium Corp
+Asian Markets
+Asian stocks rose, poised for their best week in two months as the AI tech rally regains momentum on fading concerns over Federal Reserve rate hikes. 
+•	The MSCI Asia Pacific Index advanced as much as 0.7%
+•	South Korea’s tech-heavy Kospi gained for a fifth-straight session, on track for its longest win streak in two months
+•	Japan’s Nikkei 225 advanced, while Hong Kong equities declined.
+Macro
+•	Nigel Farage is returning to Parliament after winning an election designed to turn the page on questions over his personal finances that saw the Reform UK leader go head-to-head against a satirical candidate dressed as a trash can.
+•	The US will soon announce what it bills as unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation through financial pressure
+•	Chinese tourists are expected to make fewer overseas trips in the second half of the year than previously forecast as a gloomy economic outlook weighs on consumer sentiment.
+Commodities
+•	Gold fell for a second day, as profit-taking stalled a recovery spurred by tame US inflation data and reduced expectations for an interest-rate hike.
+•	A second supertanker appeared moored at Saudi Arabia’s main oil export terminal inside the Persian Gulf, a further sign that loadings at the hub may be picking up as the kingdom’s alternative shipping route through the Red Sea comes under threat.
+M&A and ECM
+•	A UK adviser to Prime Minister Andy Burnham called AstraZeneca CEO Pascal Soriot to convey that the company’s previously planned merger deal with Bristol Myers Squibb would pose a significant problem for the UK government, Semafor reports.
+•	Italian Premier Giorgia Meloni tells Milano Finanza in an interview that she hopes Banca Monte dei Paschi di Siena SpA won’t be “dismembered” amid the deal flurry involving the country’s banking sector.
+European Corporate News
+•	VW’s Overhaul Puts Truckmaker Stake in Focus as Sell-Down Looms
+•	DFDS Chair Steps Down, EGM Called to Name New Board Members
+•	Norsk Hydro Ramps up Brazil Alumina Production After Gas Deal
+•	Stellantis Shifts South America Plans Under Pressure From China
+•	Shell Says Scotford Refinery in Canada is Operating Normally
+•	Bird Remains Found in Engine After Ryanair Window Blowout
+•	UAE, Qatari Firms Debut in Venezuela Through BP-Led Gas Deal
+•	Explosion, Fire Reported at KNDS Ammunition Plant Near Rome
+•	Ferrovial To Delist Shares From Euronext Amsterdam in September
+European Companies Expected to Report Today
+•	Akva Group ASA (AKVA NO)
+•	Aviva Plc (AV/ LN)
+•	Boozt AB (BOOZT SS)
+•	First Sensor AG (SIS GR)
+•	FlatexDEGIRO SE (FTK GR)
+•	Irish Residential Properties (IRES ID)
+•	Mobilezone Holding AG (MOZN SW)
+•	NKT A/S (NKT DC)
+•	Nagarro SE (NA9 GR)
+•	Olvi Oyj (OLVAS FH)
+•	Posti Group Oyj (POSTI FH)
+•	Sats ASA (SATS NO)
+•	Schouw & Co. A/S (SCHO DC)
+•	Sparebank 1 Ostfold Akershus (SOAG NO)
+•	Suedwestdeutsche Salzwerke AG (SSH GR)
+•	Talanx AG (TLX GR)
+•	Tivoli A/S (TIV DC)
+•	VZ Holding AG (VZN SW)
+•	Veidekke ASA (VEI NO)
+•	Wuestenrot & Wuerttembergische (WUW GR)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Autostore raised to buy at Deutsche Bank; PT 20 kroner
+•	Maersk raised to hold at Nordea
+•	Michael Page PLC raised to buy at UBS; PT 235 pence
+•	Netcompany raised to buy at Handelsbanken; PT 385 kroner
+•	OVB Holding raised to accumulate at SRC Research; PT 22 euros
+DOWNGRADES:
+•	Bioretec cut to reduce at Inderes; PT 2 euro cents
+•	Clas Ohlson cut to hold at SEB Equities; PT 435 kronor
+•	Douglas cut to sell at Goldman; PT 7 euros
+•	HelloFresh cut to underweight at Barclays; PT 3.10 euros
+•	Mandatum cut to hold at SEB Equities; PT 6.50 euros
+•	PolyPeptide Group cut to equal-weight at Barclays
+•	Valmet cut to hold at SEB Equities; PT 30 euros
+•	Vonovia cut to hold at ING; PT 22.50 euros
+INITIATIONS:
+•	Electrolux Professional rated new buy at SB1 Markets
+•	Holmen rated new neutral at SB1 Markets; PT 340 kronor
+•	Vestas reinstated buy at William O’Neil
+Economic Agenda (All times CET)
+•	08:00: (Ger) July Wholesale Price Index YoY, prior 4.9%
+•	08:00: (Ger) July Wholesale Price Index MoM, prior -0.7%
+•	08:45: (Fra) July CPI YoY, est. 2.1%, prior 2.1%
+•	08:45: (Fra) July CPI MoM, est. 0.6%, prior 0.6%
+•	08:45: (Fra) July CPI EU Harmonized MoM, est. 0.6%, prior 0.6%
+•	08:45: (Fra) July CPI EU Harmonized YoY, est. 2.4%, prior 2.4%
+•	08:45: (Fra) July CPI Ex-Tobacco Index, est. 102.67, prior 102.09
+•	11:00: (Eurozone) 2Q GDP SA YoY, est. 1.0%, prior 1.0%
+•	11:00: (Eurozone) 2Q GDP SA QoQ, est. 0.4%, prior 0.4%
+•	11:00: (Eurozone) 2Q Employment QoQ, prior 0.1%
+•	11:00: (Eurozone) 2Q Employment YoY, prior 0.5%
+•	11:00: (Eurozone) June Trade Balance NSA, prior -7.8b
+•	11:00: (Eurozone) June Trade Balance SA, prior -5b
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+NOVOB	Novo Nordisk A/S	3.75	DKK
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/14/2026 01:25:47 [BFW]
+(Bloomberg) 
+•	Korean and Japanese stocks rise and are on track to close out a strong week, while Hong Kong’s benchmarks lag behind. A bullish outlook from Sandisk helped to send memory chipmakers higher in Asia. European eqiuty futures climb, while US contracts trail after a tech-led rally on Thursday.
+•	OpenAI is set for an annualized revenue run rate of more than $40 billion based on its current performance, according to people familiar with the matter, double the level of 2025. Meanwhile, Reddit surged in late trading on its inclusion in the S&P 500 later this month.
+•	The US intends to roll out soon what it says are unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said. Oil is holding most of its decline from the prior session, with Brent futures around $87/bbl.
+•	The US sold $25 billion of 30-year bonds at the highest yield since 2001, following from the 10-year auction the day before when yields were the loftiest for nearly 20 years. The sales underline investor demand for more compensation to finance the growing US deficit. Fitch kept the US credit rating at AA+, but flagged the government inaction on tackling the deficit.
+•	The Trump administration is putting as much as 100% tariffs on imports of drones and their components. Commerce Secretary Howard Lutnick said the US was “too reliant” on foreign unmanned aircraft systems and parts, adding that import penetration by overseas producers is “substantial.”
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

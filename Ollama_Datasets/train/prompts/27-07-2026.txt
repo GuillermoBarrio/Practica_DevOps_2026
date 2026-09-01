@@ -1,0 +1,190 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 1.46%
+- S&P Equal Weight (SPW): 0.55%
+- 7 Magníficas (BM7T): -0.69%
+- EuroStoxx50: 1.13%
+- Stoxx600: 1.81%
+- Ibex35: 0.80%
+- Nikkei: 0.02%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Industrials (+2.44%)
+- Peor sector S&P500: Financials (0.55%)
+- Mejor sector Stoxx600: Bancos (+2.69%)
+- Peor sector Stoxx600: Bs/Servs personales (0.97%)
+
+### RATIOS PE Y CRECIMIENTO DE EPS (Datos de cierre de la semana pasada):
+- S&P500: PE 22.6x, crecimiento EPS estimado +35.7% (2026)
+- Stoxx600: PE 16.2x, crecimiento EPS estimado +17.1% (2026)
+
+
+**Importante:** Integra estas observaciones de ratios PE y crecimiento de de EPS en el análisis de renta variable.
+
+
+
+### TENDENCIAS DE MERCADO (análisis de 10 semanas):
+
+**Rendimiento en últimas 10 semanas:**
+- El S&P 500 ha subido en 8 de las últimas 10 semanas
+- El S&P Consumer Staples ha subido en 8 de las últimas 10 semanas
+- El S&P Utilities ha subido en 8 de las últimas 10 semanas
+- El S&P 500 ha bajado en 8 de las últimas 10 semanas
+- El S&P Consumer Staples ha bajado en 8 de las últimas 10 semanas
+- El S&P Utilities ha bajado en 8 de las últimas 10 semanas
+
+**Rachas alcistas consecutivas:**
+- El S&P Telecoms acumula 6 semanas consecutivas al alza
+- El Dax acumula 5 semanas consecutivas al alza
+- El S&P Consumer Staples acumula 4 semanas consecutivas al alza
+
+**Índices/sectores en niveles extremos:**
+- El Stoxx 600 se encuentra en niveles de máximos
+- El EuroStoxx-50 se encuentra en niveles de máximos
+- El Dax se encuentra en niveles de máximos
+
+**Importante:** Integra estas observaciones de tendencia en el análisis de renta variable, de forma natural y sin forzar la inclusión de todos los datos. Destaca los más relevantes.
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $98.0/barril
+- Petróleo WTI: $94.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.45%
+- Bono Alemania: 3.26%
+- Bono España: 3.69%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,8 puntos básicos, y a marzo 2027 una subida de 31,3 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,2 puntos básicos, y a marzo 2027 una subida de 52,7 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,1 puntos básicos, y a marzo 2027 una subida de 49,1 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: The Make-or-Break Earnings Week
+Before the European Bell: The Make-or-Break Earnings Week
+By Neil Campling
+07/27/2026 01:34:22 [BFW]
+(Bloomberg) -- Stocks are poised to begin the week on the front foot after a quieter weekend on the geopolitical front. The focus now shifts to a packed earnings calendar and a string of key macroeconomic events.
+A slew of earnings from Europe and the US, interest-rate decisions from the Federal Reserve, Bank of Japan and Bank of England, euro-area GDP data and fresh clues on the pace of AI infrastructure investment will keep traders on their toes.
+Euro Stoxx 50 futures are 0.9% higher at 7:25 a.m. CET, while contracts on the energy-heavy FTSE 100 are up a more modest 0.3% with Brent crude down by over 3% since Europe went home Friday. Asia is more mixed with the tech-heavy indexes in South Korea and Taiwan reflecting a weak handover from Nasdaq 100 losses on Friday. And futures are pointing to gains in the US later.
+The scorecard for earnings so far, with roughly 30% of the Stoxx 600 index through results, shows blended EPS growth is tracking about 17% year-on-year while sales beats have been relatively broad. Earnings are helping to shape which companies escape the macro drag, a theme explored in the Stoxx 600 Week in Review column. 
+ 
+Bloomberg Strategist Ruhell Amin poses three questions for the week ahead: Can the next earnings wave broaden the winners’ list? Can banks keep outperforming as the rate-trade matures? Will the macro data validate the cyclical trade?
+Later this week, officials in the euro zone will get an initial batch of data to help them gauge if they should deliver another rate hike. GDP likely rebounded with a 0.2% increase in the second quarter, while inflation likely picked up to 2.9% in July, according to the median forecasts of economists. Those numbers are scheduled for Thursday and Friday, respectively. ECB Governing Council member Ante Zigman said the fallout from renewed fighting in the Middle East will take some time to show up in the data. 
+ 
+A surge in a handful of stocks has made the Stoxx 600 Index the most concentrated it’s been in years based on the number of firms driving the gains, data compiled by Bloomberg show. Almost 60% of the benchmark’s 8.8% advance this year has come from just 10 stocks. ASML alone has contributed nearly a quarter of the gains, followed by HSBC at 8%.
+ 
+In other assets, oil and natural gas sank after the US paused strikes against Iran, easing tensions even as the Houthis claimed attacks against Saudi targets. Fuel demand is outstripping supply, especially for diesel, and refineries are running at full capacity, risking outages and equipment breakdowns.
+In politics, Chancellor Friedrich Merz replaced Germany’s transportation minister after a failed first attempt, seeking to stay on track with a revamp of his government ahead of several regional elections in September. New UK Prime Minister Andy Burnham will meet Volodymyr Zelenskyy today, hosting his first international visitor since becoming prime minister. 
+In deals, UniCredit CEO Andrea Orcel said he sees room for an agreement over the bank’s proposed takeover of Commerzbank, signaling confidence that talks with the German government and other stakeholders can lead to a deal as discussions between the two sides are set to resume. 
+Japan’s Seven & i has ended talks over a potential investment in Zabka, Poland’s largest convenience store operator. Meanwhile, Argenx agreed to acquire Forte Biosciences at $77 per share in cash, representing a total equity value of approximately $2.2 billion. Boards of both companies have approved the deal. 
+In other corporate news: 
+•	The Swiss financial watchdog Finma has opened an enforcement proceeding against Zurich Insurance for potential shortcomings in its internal controls, Blick reported
+•	The Exploration Company, a potential European rival to Elon Musk’s SpaceX, is in talks to raise at least $300 million, in part from the European Union’s Scaleup Europe Fund, bumping the company’s valuation to more than $2 billion, the Financial Times reported
+ 
+Earnings so far this morning include: 
+•	Vodacom reported revenue for the first quarter at 42.4 billion rand, +6% y/y, estimate 42.29 billion rand
+AstraZeneca, LVMH and Christian Dior are among the companies expected to report results later today. 
+Markets at a Glance
+ 
+Source: Bloomberg
+European Sectors in Focus 
+•	Watch European energy stocks including BP, Shell, TotalEnergies and Equinor as oil continues to retreat, with Brent crude falling below $93 per barrel.
+US Markets
+The S&P 500 fell about 50 bps after European markets closed, to end the session nearly flat. It was the first back-to-back weekly declines for the benchmark gauge and the tech-heavy Nasdaq 100 since March. 
+•	Ten of the 11 S&P 500 sectors rose, led by real estate (+2.4%), materials (+1.4%) and consumer staples (+1%) 
+o	Info tech was the sole declining sector, falling 0.9%
+•	Nvidia is in talks to back OpenAI’s lease of a $500 billion data center, highlighting the circular financing supporting the AI boom
+•	There’s no major US earnings expected before the bell on Monday, though more than 170 companies in the S&P 500 are set to report this week
+Asian Markets
+•	The MSCI Asia Pacific Index gained as much as 0.8% on Monday, with Tencent Holdings and Sony Group among the leaders. 
+o	Memory chipmaker CXMT’s shares soared 472% in their first day of trading in Shanghai, making it China’s largest onshore-listed stock.
+o	Shein disclosed slowing profitability in the first detailed look at the fast fashion retailer’s finances ahead of a planned Hong Kong listing.
+Macro
+•	Trump threatened new tariffs on goods from the EU in retaliation for a $1 billion fine of Google, injecting fresh uncertainty into the two sides’ trade relationship just as the worst of the strain appeared to be over.
+M&A and ECM
+•	Argenx agreed to acquire Forte Biosciences for a total equity value of about $2.2 billion.
+•	Japan’s Seven & i Holdings Co. has ended talks over a potential investment in Zabka Group SA.
+•	CXMT’s shares opened 472% higher in their Shanghai debut, making the memory chipmaker China’s largest onshore-listed company as investors flock to beneficiaries of the AI boom.
+•	EQT AB boosted its bid for Australian investment management firm Perpetual Ltd. to about $1.8 billion.
+European Corporate News
+•	Technip Energies Signs Pact With EDF for EPR2 Nuclear Program
+•	Saipem Wins Approx. €800m in Contracts From Eni
+•	DKSH To Buy Meliane Brand From Bayer Across 30 Markets
+•	Blackstone Unit to Buy HSBC’s Australian Loan Book, AFR Says
+•	Brown-Forman Rejects Sazerac’s Renewed $15 Billion Offer
+Among European Companies Reporting on Monday
+•	AstraZeneca Plc (AZN LN)
+•	Christian Dior SE (CDI FP)
+•	Michelin (ML FP)
+•	Elecnor SA (ENO SM)
+•	Galp Energia SGPS SA (GALP PL)
+•	Hochtief AG (HOT GR)
+•	Italgas SpA (IG IM)
+•	LVMH (MC FP)
+•	Merlin Properties Socimi SA (MRL SM)
+•	Neinor Homes SA (HOME SM)
+•	Orange Polska (OPL PW)
+•	Rexel SA (RXL FP)
+•	Saipem SpA (SPM IM)
+•	Vodacom (VOD SJ)
+•	Vodafone (VOD LN)
+Reporting dates according to Bloomberg data, for more earnings see here
+Main Ratings Changes
+UPGRADES:
+•	Amplifon raised to overweight at JPMorgan; PT 16.70 euros
+•	Inditex raised to overweight at Barclays; PT 62.50 euros
+•	SCA raised to buy at Pareto Securities; PT 118 kronor
+DOWNGRADES:
+•	Accor cut to equal-weight at Morgan Stanley; PT 51 euros
+•	Auroora Group cut to hold at Nordea
+•	Bytes Technology cut to sell at UBS; PT 365 pence
+•	Delivery Hero cut to hold at Jefferies; PT 41.50 euros
+•	Havas NV cut to neutral at JPMorgan; PT 22 euros
+•	Metso cut to reduce at Inderes; PT 17 euros
+•	Nurminen Logistics cut to reduce at Inderes; PT 70 euro cents
+•	Standard Life PLC cut to sector perform at RBC; PT 885 pence
+INITIATIONS:
+•	Cellnex reinstated outperform at Oddo BHF; PT 35 euros
+•	Johnson Service reinstated buy at Shore Capital; PT 196 pence
+•	Var Energi reinstated buy at William O’Neil
+Economic Agenda (All times CET)
+•	10:00: (Ger) July IFO Business Climate, est. 86.0, prior 85.6
+•	10:00: (Ger) July IFO Expectations, est. 84.7, prior 84.1
+•	10:00: (Ger) July IFO Current Assessment, est. 87.4, prior 87.0
+•	10:00: (Swiss) July Domestic Sight Deposits CHF, prior 443b
+•	12:00: (UK) July CBI Retailing Reported Sales, prior -54
+•	12:00: (UK) July CBI Total Dist. Reported Sales, prior -33
+•	14:30: (US) June Durable Goods Orders, est. 1.8%, prior -4.5%
+European Ex-dividends
+•	Nokia Oyj (NOKIA FH)
+•	ASML Holding (ASML NA)
+•	Naturgy Energy Group (NTGY SM)
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+07/27/2026 01:19:27 [BFW]
+(Bloomberg) 
+•	Oil sank with Brent crude falling toward $92/bbl. European natural gas prices dropped the most in more than a month, while gold rose to near $4,100/ounce. The US paused an almost two-week run of strikes against Iran for a second night, while the Islamic Republic signaled it was refraining from any retaliatory attacks and held talks with Oman over the Strait of Hormuz.
+•	Treasuries rose, along with Australian and Japanese bonds. The 10-year Treasury yield dropped 5bps to 4.63%, while the benchmark JGB yield declined 6bps to 2.76%. Singapore’s central bank tightened policy further, bracing for expected inflationary pressures.
+•	The MSCI Asia Pacific index rose, while the Kospi and the Taiex were the regional laggards. US equity index futures gained with the Nasdaq-100 contracts jumping more than 1%, while Euro Stoxx 50 contracts added 0.9%.
+•	Nvidia is in discussions to provide a financing guarantee to help OpenAI lease computing from a US data center project planned for 2028, underscoring how the world’s most valuable company is funneling capital into the infrastructure that drives its business. Meanwhile, Moonshot AI is poised to make its Kimi K3 model available for public download.
+•	CXMT’s shares opened 472% higher in their Shanghai debut on Monday, making the memory chipmaker China’s largest onshore-listed company as investors flock to beneficiaries of the AI boom.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

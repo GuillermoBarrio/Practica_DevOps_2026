@@ -1,0 +1,213 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.24%
+- S&P Equal Weight (SPW): 0.35%
+- 7 Magníficas (BM7T): 0.35%
+- EuroStoxx50: 0.47%
+- Stoxx600: -0.35%
+- Ibex35: 1.57%
+- Nikkei: -1.10%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Materials (+0.60%)
+- Peor sector S&P500: Utilities (-1.04%)
+- Mejor sector Stoxx600: Recursos básicos (+0.50%)
+- Peor sector Stoxx600: Ocio/viajes (-1.21%)
+
+### RATIOS PE Y CRECIMIENTO DE EPS (Datos de cierre de la semana pasada):
+- S&P500: PE 22.5x, crecimiento EPS estimado +35.0% (2026)
+- Stoxx600: PE 16.0x, crecimiento EPS estimado +16.7% (2026)
+
+
+**Importante:** Integra estas observaciones de ratios PE y crecimiento de de EPS en el análisis de renta variable.
+
+
+
+### TENDENCIAS DE MERCADO (análisis de 10 semanas):
+
+**Rendimiento en últimas 10 semanas:**
+- El S&P Financials ha subido en 8 de las últimas 10 semanas
+- El S&P Financials ha bajado en 8 de las últimas 10 semanas
+
+**Rachas alcistas consecutivas:**
+- El S&P Telecoms acumula 5 semanas consecutivas al alza
+- El Nasdaq-100 acumula 4 semanas consecutivas al alza
+- El EuroStoxx-50 acumula 3 semanas consecutivas al alza
+
+**Índices/sectores en niveles extremos:**
+- El Stoxx 600 se encuentra en niveles de máximos
+- El EuroStoxx-50 se encuentra en niveles de máximos
+- El Dax se encuentra en niveles de máximos
+
+**Importante:** Integra estas observaciones de tendencia en el análisis de renta variable, de forma natural y sin forzar la inclusión de todos los datos. Destaca los más relevantes.
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $89.0/barril
+- Petróleo WTI: $82.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.70%
+- Bono Alemania: 3.22%
+- Bono España: 3.72%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 22,5 puntos básicos, y a marzo 2027 una subida de 32 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 42,9 puntos básicos, y a marzo 2027 una subida de 52,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27,6 puntos básicos, y a marzo 2027 una subida de 50,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: M&A Joins a Packed Macro Agenda
+Before the European Bell: M&A Joins a Packed Macro Agenda
+By Neil Campling
+08/03/2026 01:33:41 [BFW]
+(Bloomberg) -- Stocks look set to begin the month on the front foot after a weekend dominated by familiar themes: renewed tensions and subsequent de-escalation in the Middle East, persistent bond market concerns over yields, heightened volatility in South Korea, questions over currency intervention in Japan and talk of corporate dealmaking.
+Euro Stoxx 50 futures are 0.8% higher at 7:25 a.m. CET, while contracts on the FTSE 100 are up 0.3%. Asian stocks are mixed, with Japan’s Nikkei 225 lower as the stronger yen weighs on exporters. Futures are pointing to gains in the US later. Meanwhile, Brent crude is more than 5% lower after Trump said new Iran talks would begin Monday after he called off a planned attack.
+Markets at a Glance
+ 
+Source: Bloomberg
+M&A took the corporate weekend headlines. AstraZeneca has explored an acquisition of Bristol Myers Squibb, a megadeal that would create one of the world’s largest drugmakers. 
+In the latest twist to the ongoing M&A wave in Italian banks, Banco BPM on Friday abandoned efforts to pursue a merger with Monte dei Paschi, boosting the chances of Intesa Sanpaolo’s more than €30 billion ($34.6 billion) takeover bid for the Tuscan lender. However, a potential acquisition of Milan-based BPM is an option under consideration by Paschi’s CEO, the FT reported Sunday.
+Elsewhere, Prysmian is set to acquire Atkore in an all-cash deal at $95 per share, representing an enterprise value of ~$3.8 billion, with both boards unanimously approving the transaction.
+There’s another busy slate in the week ahead across macro and micro themes. On the economic front, final manufacturing and services PMIs, euro-area retail sales and German factory and industrial data will test whether the region’s stronger equity performance is being supported by a genuine improvement in underlying growth.
+Novo Nordisk, Siemens, Bayer and Deutsche Telekom are among companies set to announce results this week. With more than 60% of Stoxx 600 constituents having reported, second-quarter earnings have been stronger than the market reaction suggests, according to Barclays. Profit growth is tracking at its fastest pace in four years. 
+Read More: 
+•	Europe’s Quiet Rally Reaches a Record: Stoxx 600 Month in Review
+•	A Renaissance for European Equities: Stoxx 600 Week in Review
+While profits at S&P 500 and Stoxx Europe 600 constituents as a whole are tracking one of the best quarterly increases in years, traders have been much more discerning about how much cash is being spent on developing generative AI.
+ 
+Bloomberg Strategist Ruhell Amin poses three questions for the week ahead: Can Europe maintain its lead as the earnings season enters the final stretch? Was Friday’s rebound in AI and momentum stocks a durable reset or a temporary interruption? Will improving economic data validate Europe’s rerating? 
+ 
+In other assets, the yen rallied sharply on Monday amid speculation that authorities may have intervened to prop up the currency again after coordinated action between the US and Japan last week. High fuel prices are likely to stick around even if oil prices drop due to global refining capacity being critically short, according to ExxonMobil and Chevron. 
+Elsewhere, Hungary is fully shutting down its sole nuclear power plant, responsible for 40% of the country’s electricity generation, for the first time due to the record low levels of the Danube River. And Spanish Prime Minister Pedro Sánchez has been criticized by European leaders for his stance on migration after thousands of migrants entered the Spanish enclave of Ceuta in Northern Africa.
+Earnings so far this morning include: 
+•	PostNL reaffirmed its normalized Ebit forecast for the full year. Still sees normalized Ebit €40 million to €70 million, estimate €47.4 million
+•	Stabilus reported adjusted Ebit margin for the third quarter of 10.8%
+•	Bertrandt reported Ebit loss for the third quarter of €15.8 million vs. loss €24.6 million y/y
+Equity Insights and Strategy
+•	A Goldman Sachs team of strategists, including Peter Oppenheimer, note earnings growth has been the main driver of returns across the globe over the past year, with Europe seeing a modest increase in valuations. “More government debt, increased issuance, and persistent inflation have all contributed to a higher cost of capital, leaving earnings as the key driver of returns,” the team writes. “We think this trend will continue.”
+European Sectors in Focus
+•	The pharma sector will be in focus after AstraZeneca was said to have explored an acquisition of Bristol Myers Squibb, which would create one of the world’s biggest drugmakers.
+•	Watch media stocks after Spider-Man: Brand New Day generated the largest opening weekend ticket sales of any film this year, and the second-highest in Hollywood history. Stocks including Kinepolis in Europe and IMax in the US may be active.
+US Markets
+The S&P 500 rose about 80 basis points after European markets closed on Friday, as Amazon.com Inc.’s 15% rally lifted a broad sweep of companies benefiting from zeal for artificial intelligence.
+•	The S&P 500 Index closed 0.7% higher and the tech-heavy Nasdaq 100 Index advanced 0.6%. A gauge of the Magnificent Seven megacaps jumped 3.2% as a surge in Amazon.com outweighed a slide in Apple. 
+o	Apple suffered the worst rout since 2025 on weak outlook, while Amazon.com posted biggest gain since 2012 on cloud growth
+•	Among key US companies expected to report before the bell on Monday: 
+o	Marriott (reads include IHG, Accor, Scandic Hotels Group, TUI and Melia Hotels)
+o	Tyson Foods (reads include Cranswick, Scandi Standard and AB Foods)
+o	Loews
+Asian Markets
+Asian stocks fell as Korean chip bellwethers Samsung and SK Hynix faced selloffs after Friday’s record gains. The yen rose for a fourth day as traders stayed alert for more Japan-US intervention.
+•	The MSCI Asia Pacific Index fell as much as 1.3%
+•	South Korea’s Kospi Index dropped as much as 5.5% 
+o	A regional gauge of chip stocks slid 0.7% as Samsung Electronics and SK Hynix both tumbled more than 7%, offsetting gains in Japanese semiconductor companies
+o	Alibaba rose more than 6% in Hong Kong after releasing its latest flagship AI model, with performance claims putting it alongside global leaders like Anthropic’s Fable
+o	Asian energy shares followed oil lower after Donald Trump said new talks with Iran would begin on Monday after he called off a planned attack on the Islamic Republic
+Macro
+•	Oil fell and Treasuries rose after President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides will reach a deal to reopen the Strait of Hormuz
+•	The yen rallied sharply on Monday amid speculation that authorities may have intervened to prop up the currency again after coordinated action between the US and Japan last week
+•	US Treasury Secretary Scott Bessent said that the US stepped in to help fight “disorderly” movements in the yen and is ready to keep helping Japan, while President Donald Trump said the currency-market intervention was a sign of friendship with Tokyo
+•	China’s manufacturing activity for export-oriented firms unexpectedly slowed in July, according to a private survey, adding to signs of economic weakness
+Additional M&A and ECM News
+•	Eugénie Patri Sébastien S.A. offers about 10 million shares in Anheuser-Busch InBev in a block trade.
+European Corporate News
+•	HSBC’s Global Reset Advances With Egypt Retail Banking Sale
+•	Sandoz To Pay $400m in Settlement Deal With 43 US States
+•	T-Mobile Told Deutsche Telekom It Doesn’t Support Deal: Semafor
+•	India’s IndiGo Halts Heathrow Flights and Returns Leased 787s
+•	Arval Completes Athlon Purchase From Mercedes-Benz
+•	Saipem: Expiration of the HSR Act Waiting Period for Subsea Deal
+•	BBVA to Buy Societe Generale’s 50% Stake in Altura Markets
+•	Universal Music’s Two Bearish Analysts Foresaw 25% Stock Slump
+•	Couche-Tard CEO Expects Żabka Investor Pressure to Raise Bid
+•	Novartis’ Pluvicto Gets FDA Approval in Type of Prostate Cancer
+•	Holcim to Sell Business in Philippines to China’s Huaxin
+•	StanChart Expects to Announce Stablecoin Launch This Month: HK01
+Among European Companies Expected to Report Today
+•	Anima Holding SpA (ANIM IM)
+•	Enav SpA (ENAV IM)
+•	PostNL NV (PNL NA)
+•	Salvatore Ferragamo SpA (SFER IM)
+•	Senior Plc (SNR LN)
+•	Stabilus (STM GR)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Azimut raised to buy at Intesa Sanpaolo; PT 40.70 euros
+•	Clariant raised to overweight at Barclays; PT 11.50 Swiss francs
+•	Corbion raised to outperform at Oddo BHF; PT 23 euros
+•	E.On raised to buy at Jefferies; PT 22.70 euros
+•	Elis raised to outperform at RBC
+•	Evolution raised to neutral at UBS; PT 750 kronor
+•	GTT raised to buy at UBS; PT 230 euros
+•	Legrand raised to outperform at RBC; PT 160 euros
+•	Mersen raised to buy at Berenberg; PT 50 euros
+•	Siltronic raised to buy at UBS; PT 105 euros
+•	Telenor raised to equal-weight at Barclays; PT 135 kroner
+•	Thales raised to equal-weight at Barclays; PT 280 euros
+•	UCB raised to hold at Jefferies; PT 220 euros
+DOWNGRADES:
+•	Argan cut to hold at Jefferies; PT 79 euros
+•	CPH Group AG cut to add at Baader Helvea; PT 67 Swiss francs
+•	Ipsen cut to underperform at Jefferies; PT 135 euros
+•	JD Sports cut to sector perform at RBC; PT 100 pence
+•	Klepierre cut to hold at Jefferies; PT 40 euros
+•	Merlin Properties cut to hold at Jefferies; PT 16 euros
+•	Philips cut to neutral at UBS; PT 24 euros
+•	Severn Trent cut to hold at Jefferies; PT 3,220 pence
+•	Unite Group cut to neutral at Citi; PT 579 pence
+INITIATIONS:
+•	Fresnillo reinstated hold at Jefferies; PT 2,700 pence
+•	Hochschild Mining rated new buy at Jefferies; PT 625 pence
+•	Pan African rated new buy at Jefferies; PT 130 pence
+•	Robyg rated new buy at Goldman; PT 45 zloty
+•	Savox Communications rated new buy at SEB Equities
+Economic Agenda (All times CET)
+•	07:00: (Nether) July S&P Global/Nevi Netherlands Manufacturing PMI, est. 55.7, prior 55.5
+•	08:00: (Ger) June Retail Sales MoM, est. -0.5%, prior 1.1%, revised 1.0%
+•	08:00: (Ger) June Retail Sales NSA YoY, prior 1.8%, revised -2.9%
+•	08:30: (Swiss) July CPI YoY, est. 0.4%, prior 0.5%
+•	09:15: (Spain) July S&P Global Spain Manufacturing PMI, est. 50.6, prior 49.7
+•	09:30: (Swiss) July PMI Manufacturing, est. 54.5, prior 54.3
+•	09:45: (Italy) July S&P Global Italy Manufacturing PMI, est. 52.5, prior 52.2
+•	09:50: (Fra) July S&P Global France Manufacturing PMI, est. 50.0, prior 50.0
+•	09:55: (Ger) July S&P Global/BME Germany Manufacturing PMI, est. 52.2, prior 52.2
+•	10:00: (Eurozone) July S&P Global Eurozone Manufacturing, est. 52.0, prior 52.0
+•	10:30: (UK) July S&P Global UK Manufacturing PMI, est. 52.8, prior 52.8
+•	16:00: (US) July ISM Manufacturing, est. 53.9, prior 53.3
+•	18:00: (Italy) July New Car Registrations YoY, prior 10.59%, revised 10.56%
+For more economic data, see here
+Central Banks
+•	10:00: (Swiss) July Total Sight Deposits CHF, prior 469.3b
+•	10:00: (Swiss) July Domestic Sight Deposits CHF, prior 442.7b
+European Ex-divs
+•	Vallourec (€2.05)
+•	ING Groep (€0.40)
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/03/2026 01:15:53 [BFW]
+(Bloomberg) 
+•	Brent crude futures dropped ~5% to near $83/bbl. President Trump said new Iran talks would begin Monday afternoon after he called off a planned attack on Iran partially in response to pleas from US allies in the Middle East. Major OPEC+ nations approved the latest small increase to their production quotas.
+•	The yen rallied sharply on Monday before trimming gains to trade near 156.40/dollar amid speculation that authorities may have stepped in to prop up the currency again. The US and Japan warned markets of further action after confirming their first joint intervention in 15 years. The US Treasury may be using euros rather than dollars to fund its yen purchases to avoid weakening its own currency and casting doubt on its strong greenback policy, according to strategists. JGB futures slid with Japan’s 5-year yield spiking to 2.075%, the highest since the 2000 debut for the tenor.
+•	The Kospi dropped more than 5% with SK Hynix and Samsung Electronics both falling more than 7%. Taiex and Hang Seng tech stocks were Asia’s outperformers, while both the Nikkei and the Topix fell ~1%. US equity index futures rose with the S&P 500 contracts up 0.6%, while Euro Stoxx 50 futures gained 0.9%. The Treasury 10-year yield fell 4 basis points to 4.70% as gold added 0.3% to near $4,060/ounce.
+•	AstraZeneca has explored an acquisition of Bristol Myers, a megadeal that would create one of the world’s largest drugmakers, according to people familiar with the matter. Italy plans to dispose of its remaining stake in Banca Monte dei Paschi di Siena by the end of September, before a takeover bid by Intesa Sanpaolo for the lender enters a crucial phase, La Stampa reported.
+•	Alibaba released its biggest ever AI model, claiming performance on a par with global leader Anthropic in the latest Chinese breakthrough to challenge US rivals.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

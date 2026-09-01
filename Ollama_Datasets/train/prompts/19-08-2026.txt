@@ -1,0 +1,212 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.19%
+- S&P Equal Weight (SPW): -0.21%
+- 7 Magníficas (BM7T): 0.03%
+- EuroStoxx50: -0.54%
+- Stoxx600: -0.66%
+- Ibex35: -0.12%
+- Nikkei: -1.67%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Utilities (+1.15%)
+- Peor sector S&P500: Materials (-0.73%)
+- Mejor sector Stoxx600: Salud/Farma (+0.34%)
+- Peor sector Stoxx600: Recursos básicos (-1.06%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $96.0/barril
+- Petróleo WTI: $93.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.61%
+- Bono Alemania: 3.15%
+- Bono España: 3.58%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+08/19/2026 01:32:58 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+European stocks are set for a subdued open as oil edges higher and global chip stocks slide, putting the region’s appeal as a tech diversifier to the test.
+Euro Stoxx 50 and FTSE 100 futures were both 0.2% lower at 7:25 a.m. CET. Brent crude prices are up for a fourth consecutive day, trading at $91.53 per barrel, after US President Trump insisted that there were no talks ongoing with Iran.
+Asian equities are having their worst day in three weeks, weighed down by semiconductor heavyweights Samsung and SK Hynix, following Tuesday’s fall for US tech stocks. 
+Markets at a Glance: 
+ 
+Source: Bloomberg
+Meanwhile, global bond markets have returned to calmer waters after a selloff earlier this week pushed US 30-year yields to levels not seen since 2007.
+Of the few remaining earnings prints, analysts expect a weak second quarter from Danish brewer Carlsberg when it reports later this morning, with severe weather in China and the earlier Easter timing weighing on results. Elsewhere, sanitary-part maker Geberit reported second-quarter Ebitda above consensus, while dental-implant manufacturer Straumann  reported Ebitda for the first half-year that beat the average analyst estimate and named Christopher Norbye CEO, effective Dec. 1.
+In economic data, July’s UK consumer prices — to be released at 8 a.m. CET — are expected to show inflation accelerating for the first time in four months, with the median economist estimate in a Bloomberg survey predicting a 2.9% year-on-year jump. That will be followed some hours later by final euro zone CPI numbers for July.
+ 
+An even hotter print could fuel concerns that inflation across Europe will remain stubbornly above 2%, reinforcing expectations for a hawkish European Central Bank. Borrowing costs climbing to uncomfortable levels offer another reason to keep equity-market euphoria in check.
+After Wednesday’s European market close, the Federal Reserve is expected to release minutes of its late-July meeting at which policymakers voted 9-3 to keep rates unchanged.
+On a brighter note, the backdrop for European equities has grown increasingly supportive, with low volatility, improving earnings revisions and a steady stream of positive economic surprises. That marks a sharp shift in investor sentiment, with Europe until recently bashed for lacking the tech firepower to fully participate in the global artificial-intelligence investment boom.
+ 
+The region’s stock-market calm has reached a rare extreme, Bloomberg’s Christian Dass writes, with trailing five-day realized volatility on the Stoxx Europe 600 in the bottom 0.3% of observations, as of Monday’s close. 
+Meanwhile, the ratio of European earnings upgrades to downgrades is at its highest in data going back to early 2024, according to Deutsche Bank strategists. Plus, with the number of positive economic surprises mounting, the share of investors expecting a European recession has slumped, according to Bank of America’s latest fund manager survey.
+ 
+Source: Deutsche Bank
+“Europe’s high beta to ‘good news’ is downplayed,” TS Lombard’s Davide Oneglia writes in a note. “With Hormuz still shut, growing risk of panicked ECB response, and politics getting rowdy, the next months won’t be easy for European stocks, but we stay positive on balance, in line with our above-consensus growth outlook.”
+Earnings since the close Tuesday include: 
+•	Straumann reported Ebitda for the first half-year CHF435.3 million, estimate CHF420.9 million
+•	Lundbeck reported net income for the second quarter DKK1.15 billion, estimate DKK1.12 billion
+•	DocMorris reported adjusted Ebitda loss for the first half-year of CHF10.9 million, estimate loss CHF11.6 million
+•	Sensirion forecast revenue for the full year of CHF345 million to CHF365 million
+•	ASR Nederland reported operating profit for the first half-year €901 million, +9.7% y/y, estimate €841.9 million
+•	Alfen reported adjusted Ebitda for the first half-year €16.4 million, +26% y/y, estimate €15.4 million
+•	Geberit reported Ebitda for the second quarter CHF246.1 million, +3.9% y/y, estimate CHF241.2 million
+•	Leroy reported operational Ebit for the second quarter NOK574 million, -16% y/y, estimate NOK708.9 million
+•	Ambea reported net sales for the second quarter SEK4.39 billion, estimate SEK4.3 billion
+•	Liechtensteinische LB reported net income for the first half-year of CHF105 million vs. CHF91.0 million y/y
+•	BKW reported net income for the first half-year of CHF217.6 million vs. CHF203.3 million y/y
+•	Implenia reported sales for the first half-year CHF1.77 billion, -4.8% y/y, estimate CHF1.74 billion
+•	Emmi narrowed its organic sales forecast for the full year. Sees organic sales +2% to +3%, saw +1% to +3%
+US Markets
+The S&P 500 fell more than 10 basis points after European markets closed, ending the session down 0.7%. The tech-heavy Nasdaq 100 Index dropped 1.7% in New York.
+•	Seven of the 11 S&P sectors fell led by information technology (-1.9%), industrials (-1.5%) and materials (-0.9%) 
+o	Four sectors gained with the main contribution from energy (+1.8%), health care (+1.6%) and consumer staples (+1.1%)
+•	Norfolk Southern rose 3.1% in postmarket trading after a federal rail regulator resumed a review of the proposed merger with Union Pacific
+•	The following companies are among those due to report before the open on Wednesday: 
+o	Target (general retail reads include Ahold Delhaize, Colruyt, Carrefour and Tesco)
+o	Estee Lauder (reads include Puig Brands, L’Oreal and Interparfums)
+o	Lowe’s (reads include Kingfisher, Travis Perkins, Wickes and Hornbach)
+o	TJX (reads include Primark owner ABF, Pepco, B&M and Dunelm)
+Asian Markets
+Asian stocks are tumbling, led by a selloff in chipmakers that tracked losses in their US peers, as rising bond yields and geopolitical uncertainty intensified concerns. 
+•	The MSCI Asia Pacific Index dropped as much as 2.3%, the most in three weeks, led by chip heavyweights Samsung, SK Hynix and TSMC
+•	All major markets were in the red with Korea’s Kospi down as much as 6.8% and Japan’s Nikkei down as much as 3.5%
+Macro
+•	Swiss voters are set to reject an initiative to strengthen the country’s neutrality in a ballot next month that Russia has tried to sway with jibes about the country’s actions during World War II.
+•	A popular former Ukrainian defense minister, whose firing by President Volodymyr Zelenskyy triggered nationwide protests, strongly hinted at his political ambitions with a late-night video calling for wartime elections.
+•	The Trump administration delayed 50% tariffs on billions of dollars of Canadian products for three days, saying the two sides had reached a tentative agreement to resolve a broader trade dispute that had plunged relations to a fresh low.
+•	China is mobilizing an often overlooked pool of funds worth 10.9 trillion yuan ($1.6 trillion) to boost a broad range of housing-related consumption, the country’s first policy response after its economic slowdown deepened in July.
+•	President Donald Trump is pressuring longtime American ally South Korea over trade and security while, once again, making public overtures to Kim Jong Un.
+Commodities
+•	Gold rose as a selloff in US bonds eased, relieving pressure on the precious metal after it fell the most in almost a month on Tuesday.
+•	Copper held the biggest loss in more than three weeks after traders made significant deliveries of the metal to London Metal Exchange warehouses, easing a historic squeeze.
+•	Radiant World, the iron ore trader under pressure after some banks and counterparties withdrew from doing business with it, has laid off several employees across its global offices, according to people familiar with the matter.
+M&A and ECM
+•	Altor Equity Partner’s selldown of its remaining stake in Mandatum Oyj was multiple times oversubscribed with more than 50 orders from investors, according to a person familiar with the matter.
+•	ING Group says it is reducing its stake in TMBThanachart Bank (TTB) via a private placement of shares with institutional investors, lowering its holding to 11.6% from 19.5% for gross proceeds of ~€475m.
+European Corporate News
+•	StanChart Revamps Leveraged Finance Team to Focus on Sponsors
+•	Pimco’s Stracke Says Wealth Firms Running Shy of Private Credit
+•	Prudential Expands Hong Kong HQ at Swire’s Taikoo Place
+•	HSBC Rides Wave of China’s Surging Trade Links With Brazil
+•	Credit Suisse High Yield Credit Fund Approves Reverse Shr Split
+•	Novartis Granted FDA Orphan Drug Status for Iptacopan
+•	Chevron Partners With Equinor in Namibia Oil Exploration
+•	BP Joins Venezuelan Oil Trade to Challenge Trafigura and Vitol
+•	Top French Grocers Ease Produce Rules as Heat Hits Farmers
+•	IPT: HSBC CNH Bmrk 4NC3 at 2.35% Area, 8NC7 at 2.75% Area
+•	PRICED: Stellantis $750M 2026-1 Debut Auto Floorplan ABS; Upsize
+European Companies Expected to Report Today
+•	ASR Nederland NV (ASRNL NA)
+•	Ambea AB (AMBEA SS)
+•	Austevoll Seafood ASA (AUSS NO)
+•	BEWi ASA (BEWI NO)
+•	BKW AG (BKW SW)
+•	Carlsberg AS (CARLB DC)
+•	Constellation Oil Services Hol (COSH NO)
+•	Deutsche Rohstoff AG (DR0 GR)
+•	DocMorris AG (DOCM SW)
+•	Dof Group ASA (DOFG NO)
+•	Elmera Group ASA (ELMRA NO)
+•	Emmi AG (EMMN SW)
+•	FLSmidth & Co. A/S (FLS DC)
+•	Facc AG (FACC AV)
+•	Flughafen Wien AG (FLU AV)
+•	Geberit AG (GEBN SW)
+•	H. Lundbeck A/S (HLUNB DC)
+•	Implenia AG (IMPN SW)
+•	Investment AB Latour (LATOB SS)
+•	Ithaca Energy Plc (ITH LN)
+•	Jyske Bank A/S (JYSK DC)
+•	Laan & Spar Bank A/S (LASP DC)
+•	Leroy Seafood Group ASA (LSG NO)
+•	Liechtensteinische Landesbank (LLBN SW)
+•	Link Mobility Group Holding AS (LINK NO)
+•	Oxford Nanopore Technologies P (ONT LN)
+•	Pfisterer Holding SE (PFSE GR)
+•	Rockwool A/S (ROCKB DC)
+•	Sensirion Holding AG (SENS SW)
+•	Straumann Holding AG (STMN SW)
+•	Sunrise Communications AG (SUNN SW)
+•	Uie Plc (UIE DC)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Kingspan raised to buy at UBS; PT 130 euros
+DOWNGRADES:
+•	Cellnex cut to neutral at UBS; PT 29.50 euros
+•	Eolus AB cut to neutral at SB1 Markets; PT 45 kronor
+•	Multiconsult cut to neutral at SB1 Markets; PT 160 kroner
+•	Netum Group cut to sell at Inderes; PT 85 euro cents
+•	Solstad Maritime cut to neutral at SB1 Markets; PT 30 kroner
+INITIATIONS:
+•	Infracore rated new buy at Citi; PT 64 Swiss francs
+Economic Agenda (All times CET)
+•	08:00: (UK) July CPI MoM, est. 0.3%, prior 0.1%
+•	08:00: (UK) July CPI Core YoY, est. 2.5%, prior 2.6%
+•	08:00: (UK) July CPI YoY, est. 2.9%, prior 2.6%
+•	08:00: (UK) July Retail Price Index, est. 419.7, prior 416.5
+•	08:00: (UK) July RPI MoM, est. 0.8%, prior 0.3%
+•	08:00: (UK) July RPI YoY, est. 3.3%, prior 3.0%
+•	08:00: (UK) July RPI Ex Mort Int.Payments (YoY), prior 2.9%
+•	08:00: (UK) July CPIH YoY, est. 3.1%, prior 2.8%
+•	08:00: (UK) July PPI Input NSA MoM, est. 0%, prior -2.0%
+•	08:00: (UK) July PPI Output NSA MoM, est. 0.2%, prior 0%
+•	08:00: (UK) July PPI Input NSA YoY, est. 6.5%, prior 7.3%
+•	08:00: (UK) July PPI Output NSA YoY, est. 3.2%, prior 3.5%
+•	08:00: (UK) July CPI Services YoY, est. 3.4%, prior 3.6%
+•	10:00: (Euro zone) June ECB Current Account Balance, prior 25.1b
+•	10:00: (Italy) June Current Account Balance, prior 594m
+•	10:30: (UK) June House Price Index YoY, prior 2.7%
+•	11:00: (Euro zone) July CPI YoY (Final), est. 2.9%, prior 2.9% (preliminary)
+•	11:00: (Euro zone) July CPI MoM (Final), est. 0.2%, prior 0.2% (preliminary)
+•	11:00: (Euro zone) July CPI Core YoY (Final), est. 2.5%, prior 2.5% (preliminary)
+Central Banks
+•	09:10: ECB’s Lagarde Speaks at WEF Event in Geneva
+•	12:15: ECB’s Lagarde Speaks in Geneva
+•	20:00: July FOMC Meeting Minutes
+Conferences
+•	Nordea Equities Small & Mid Cap Days 2026
+•	SEB Nordic Large Cap Seminar
+•	Nordea TMT
+•	7th Annual Needham Virtual Semiconductor & SemiCap 1x1 Conference
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+ABN	ABN AMRO Bank NV	0.68	EUR
+GALP	Galp Energia SGPS SA	0.35	EUR
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/19/2026 01:14:32 [BFW]
+(Bloomberg) 
+•	Asian stocks decline as a selloff in semiconductor names extends following a slump in US peers. South Korea’s Kospi tumbles more than 5%, driven by Samsung Electronics and SK Hynix. Japanese and Taiwanese shares are also lower. Higher oil prices weigh on sentiment with Brent crude briefly trading above $92 a barrel.
+•	Anthropic’s revolving credit facility is set to rise above its roughly $10 billion target, according to people familiar with the matter, as the Claude chatbot maker prepares for an IPO.
+•	Government bonds climb in Japan, Australia and New Zealand, with US Treasuries edging higher. In the options market, bond traders are now looking to hedge the risk that the Fed pivots to cutting interest rates in 2027.
+•	President Trump delayed 50% tariffs on Canadian products for three days, citing a tentative agreement to resolve a broader trade dispute. The Canadian dollar is among the top-performing G-10 currencies, alongside the yen.
+•	In Asia, the Korean won rallies over 0.8% to trade past 1,400 per greenback for the first time since last October, outperforming major peers. The Chinese yuan edges up after a strong fixing earlier, with the yen climbing 0.2%.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

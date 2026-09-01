@@ -1,0 +1,27 @@
+# Interfaz web
+streamlit
+
+# Modelos locales - Gemma 3 GGUF
+llama-cpp-python
+huggingface_hub
+
+# Modelos locales - Gemma 2 (transformers)
+torch
+transformers
+accelerate
+bitsandbytes
+peft
+trl
+unsloth
+
+# Scraping y feeds RSS
+feedparser
+beautifulsoup4
+requests
+
+# Datos y Excel
+pandas
+openpyxl
+
+# Utilidades
+datasets

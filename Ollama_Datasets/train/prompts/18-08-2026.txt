@@ -1,0 +1,180 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.01%
+- S&P Equal Weight (SPW): -0.63%
+- 7 Magníficas (BM7T): -0.52%
+- EuroStoxx50: 0.51%
+- Stoxx600: -0.55%
+- Ibex35: -0.77%
+- Nikkei: -1.61%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Utilities (+0.97%)
+- Peor sector S&P500: Real Estate (-0.79%)
+- Mejor sector Stoxx600: Materiales/Constr. (+0.27%)
+- Peor sector Stoxx600: Bs/Servs personales (-1.44%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $91.0/barril
+- Petróleo WTI: $86.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.53%
+- Bono Alemania: 3.16%
+- Bono España: 3.56%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: AI Optimism Tempered by Bond Angst
+Before the European Bell: AI Optimism Tempered by Bond Angst
+By Neil Campling
+08/18/2026 01:36:16 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+AI-fuelled equity optimism is colliding with a bond market increasingly pricing fiscal deterioration and persistent inflation, weighing on early price action.
+Euro Stoxx 50 futures were 0.5% lower at 7:28 a.m. CET, while contracts on the more energy-exposed FTSE 100 were flat. 
+Asian stocks are lower, taking the lead from the weak US close, with Japan’s Nikkei 225 among the region’s laggards as exporters weigh. Futures point to softness in the US later. 
+Brent crude has moved about 3% higher since Europe went home Monday, reflecting the fresh setback to potential peace in the Middle East after Trump said he’s not interested in extending an expiring agreement with Iran. 
+ 
+Source: Bloomberg
+Macro is back in focus as the 30-year US Treasury moved through 5.3% for the first time since the eve of the financial crisis in 2007, and traders have one eye on inflation risks, from persistently elevated oil prices to the effects of El Niño.
+The inexorable rise in the longest-term government bond yields is a focus in today’s John Authers’ column, while Yardeni Research warns bond vigilantes are stirring but see no reason to panic yet. 
+ 
+“Dr. Copper,” the traditional barometer of economic health, remains in the headlines. The commodity looks set for another day of turbulent trading with the so-called Tom/next spread pointing to stress for holders of short positions before the LME’s August contract expires on Wednesday. 
+BHP reported 30% full-year profit growth, thanks to improved copper and iron ore prices, enabling the world’s largest miner to beat forecasts. Copper accounted for more than half of the group’s revenue for the first time over the 12 months, in large part thanks to a 35% jump in realized prices over the period. 
+ 
+In AI, Anthropic is said to be on track to generate annualized revenue of more than $65 billion based on its current performance, up more than sevenfold from its pace at the end of last year. DataVita secured £300 million ($406 million) of financing from ING, ABN AMRO, and other European banks to expand an existing data center in Scotland and build another. And 54% of British businesses say AI has created new roles, according to a survey that suggests firms are moving beyond experimentation and starting to reshape hiring around the technology.
+On the macro front, a batch of UK jobs data due at 8 a.m. CET is expected to point to continued weakness in labor demand. Investors are turning bearish on French government bonds as politicians prepare for a fight over the 2027 budget before next year’s presidential election. And ECB chief economist Philip Lane joins a panel on monetary policy at the European Economic Association’s annual congress in Dublin.
+In analyst changes to note, Hemnet Group is “worth revisiting” following a period of underperformance, JPMorgan writes in a note double-upgrading the Swedish online property portal to overweight. H&M has been placed on a 90-day positive catalyst watch at Citi. Meanwhile, Kingspan offers a compelling valuation and is now a top sector pick, Jefferies said in a note upgrading the insulation specialist to buy from hold.
+In corporate news: 
+•	US-listed shares of Stellantis hit a record low as the automaker said it will voluntarily recall about 848,511 vehicles sold in the US market over radio software that may inhibit the rearview camera image
+•	Banco BPM revised its CET1 ratio at June 30 to 14.02% after deciding, following discussions with the ECB, not to proceed with the authorization process needed to include first-half profit in CET1 capital
+•	KNF has fined Poland’s largest lender for irregularities related to offering structured deposits
+Earnings since the European close include: 
+•	Huber+Suhner reaffirmed its sales forecast for the full year. Still sees sales at least +10%, still sees Ebit margin high end of 9% to 12%
+•	PSP Swiss boosted its adjusted Ebitda guidance for the full year to CHF335 million, saw CHF310 million, estimate CHF319.9 million
+•	Medartis reported sales for the first half-year CHF160.8 million, +31% y/y, estimate CHF159.3 million
+•	Mowi reported operating Ebitda for the second quarter €292.8 million, estimate €283 million
+•	BHP reported underlying profit for the full year $13.20 billion, +30% y/y, estimate $12.69 billion
+•	Royal Unibrew reported net revenue for the second quarter DKK4.43 billion, estimate DKK4.39 billion
+Equity Strategy
+•	Citigroup strategists including David Chew said European equities keep attracting new risk flows despite geopolitical and policy headwinds. Flows last week were dominated by new longs in the Euro Stoxx 50 and DAX.
+•	Goldman Sachs strategists including Guillaume Jaisson said overall risk appetite is still strong, according to their indicator, amid strong earnings momentum.
+European Sectors in Focus
+•	Oil stocks could be active as Brent crude rose above $91 a barrel, up for a third day.
+•	Miners exposed to copper are also in focus as a supply crunch worsens, and BHP’s profit jumps thanks to improved copper and iron ore prices.
+US Markets
+The S&P 500 extended declines by over 40 basis points after European markets closed, finishing 0.5% lower. The tech-heavy Nasdaq 100 Index erased an earlier advance to end the day down 0.2%.
+•	The majority 10 of the 11 S&P 500 sectors fell, led by communication services (-1.5%), consumer staples (-1.5%) and financials (-1%) 
+o	The energy sector (+0.9%) was the only gainer
+•	Here are some key earnings due before the bell 
+o	Home Depot Inc.
+o	Baidu
+Asian Markets
+Asian stocks snapped a four-session winning streak as gains in oil prices fueled inflation concerns, while rising global bond yields also dimmed the appeal of equities.
+•	MSCI Asia Pacific declined 0.9% after rising as much as 0.6% earlier
+•	Japan’s Nikkei led losses among key national indexes in Asia, dropping more than 2%. South Korea’s Kospi also reversed early gains as trading resumed after a holiday
+Macro
+•	Myanmar President Min Aung Hlaing is set to meet Russian leader Vladimir Putin on Tuesday, the former junta chief’s first trip to one of the isolated country’s closest allies since taking office in April after a widely criticized election.
+•	South Korea denied a local media report that the government is discussing a semiconductor project as the first investment under its $350 billion commitment to the US.
+•	President Donald Trump said North Korean leader Kim Jong Un has responded to requests for the two leaders to have a conversation, as Trump moved to cut back military drills with South Korea, a longtime US ally.
+•	With less than 36 hours to go before new US tariffs on Canada are set to kick in, automotive sector rules are proving to be a major obstacle in negotiations, according to people familiar with the matter.
+Commodities
+•	China’s aluminum surplus is set to contract by 48% in 2027 after expanding in 2026, assuming demand keeps accelerating as output growth slows, according to Bloomberg Intelligence.
+M&A and ECM
+•	Mark Walter has explored selling his stake in Chelsea FC to Clearlake Capital, the majority owner of the London-based football club, according to people familiar with the matter.
+•	Mandatum holder Altor offers about 22.4m shares via Citi, ABG, SEB to trade on Aug. 18, according to terms seen by Bloomberg.
+European Corporate News
+•	Glencore Backed Radiant World With Warrants Deal in Late 2025
+•	Polish Regulator KNF Imposes PLN47.5m Fine on PKO
+•	BPM Revises CET1 Ratio After Deciding Not to Include 1H Profit
+•	DSM-Firmenich Board Proposes Richard Ridinger as New Chairman
+•	Henkel Acquisition of Rival Adhesive Maker Blocked by Judge
+•	HSBC Hires BNP’s Peter Chalif as Global Head of Credit E-Trading
+•	GUIDANCE: Stellantis $500M SRIDE 2026-1 Debut Auto Floorplan ABS
+•	TGS Awarded Multi-Year AI Seismic Foundation Model Contract
+European Companies Expected to Report Today
+•	Bahnhof AB (BAHNB SS)
+•	Basilea Pharmaceutica AG (BSLN SW)
+•	Coloplast A/S (COLOB DC)
+•	Einhell Germany AG (EIN GR)
+•	Elopak ASA (ELO NO)
+•	Huber + Suhner AG (HUBN SW)
+•	Medartis Holding AG (MED SW)
+•	Mowi ASA (MOWI NO)
+•	Noba Bank Group AB (NOBA SS)
+•	Odfjell Drilling Ltd. (ODL NO)
+•	PSP Swiss Property AG (PSPN SW)
+•	Skan Group AG (SKAN SW)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Hemnet raised to overweight at JPMorgan; PT 126 kronor
+•	Kingspan raised to buy at Jefferies; PT 140 euros
+•	Schott Pharma raised to overweight at Barclays; PT 27 euros
+•	Sixt raised to buy at Berenberg; PT 91 euros
+•	Whitbread raised to market perform at Bernstein; PT 2,400 pence
+DOWNGRADES:
+•	Generali cut to neutral at JPMorgan; PT 46 euros
+•	Hermes cut to sector perform at RBC; PT 1,700 euros
+•	Land Sec. cut to add at Peel Hunt; PT 800 pence
+•	Lanxess cut to underperform at BNP Paribas; PT 12 euros
+•	Planisware cut to neutral at UBS; PT 26 euros
+•	PolyPeptide Group cut to hold at Berenberg; PT 44 Swiss francs
+•	Scor cut to sell at UBS; PT 32.50 euros
+INITIATIONS:
+•	Iqm Quantum Computers rated new buy at Nordea; PT 12.50 euros
+•	Storskogen rated new buy at SB1 Markets; PT 12.30 kronor
+•	Text SA rated new underperform at Oddo BHF; PT 42 zloty
+Economic Agenda (All times CET)
+•	08:00: (UK) July Unemployment Rate, prior 4.4%
+•	08:00: (UK) June ILO Unemployment Rate 3Mths, est. 4.8%, prior 4.9%
+•	08:00: (UK) June Average Weekly Earnings 3M/YoY, est. 4.0%, prior 4.3%
+•	08:00: (UK) June Weekly Earnings ex Bonus 3M/YoY, est. 3.4%, prior 3.4%
+•	08:00: (UK) June Employment Change 3M/3M, est. 130,000, prior 148,000
+•	08:00: (UK) July Payrolled Employees Monthly Change, est. zero, prior -4,000
+•	08:00: (UK) June Private Earnings ex Bonus 3M/YoY, est. 2.8%, prior 2.9%
+•	10:00: (Spain) June Trade Balance, prior -8.25b
+•	10:30: (UK) 2Q Output Per Hour YoY, prior 0.4%
+•	11:00: (Ger) Aug. ZEW Survey Current Situation, est. -69.3, prior -77.6
+•	11:00: (Ger) Aug. ZEW Survey Expectations, est. 30.0, prior 26.3
+•	12:00: (Portug) July PPI YoY, prior 5.0%
+•	12:00: (Portug) July PPI MoM, prior 0.8%
+Conferences
+•	SEB Nordic Large Cap Seminar
+•	Seaport 15th Annual Summer Investor Conference 2026
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+KTY PW Equity	Kety SA	48.97	PLN
+Ex-dividend dates according to Bloomberg data,
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/18/2026 01:21:35 [BFW]
+(Bloomberg) 
+•	Long-end bonds decline in Japan, Australia and New Zealand, after 30-year Treasury yields rose to the highest since 2007 on Monday. Foreign holdings of US Treasuries fell in June from the previous month. Meantime, Tuesday’s 5-year JGB auction saw the strongest demand since June 2025 as elevated yields underpinned buying.
+•	Stocks in Asia fall, led by Japanese and Taiwanese shares. South Korea’s Kospi erases earlier gains to drop about 1%. US and European equity futures are also lower.
+•	Nvidia agreed to spend as much as $105 billion to support a massive new data center campus in Ohio set to be leased by OpenAI. Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, according to people familiar with the matter.
+•	Oil extends gains with Brent futures trading above $91.50 a barrel, with a fresh vessel attack reported in the Strait of Hormuz. President Trump said he’s not interested in extending the expiring agreement with Iran.
+•	BHP’s full-year profit rose by almost a third thanks to improved copper and iron ore prices. The miner targets 3% to 4% copper equivalent growth per year up to 2035 — roughly double consensus expectations. The stock jumps in Australia.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

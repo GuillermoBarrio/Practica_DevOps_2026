@@ -1,0 +1,196 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.82%
+- S&P Equal Weight (SPW): 0.45%
+- 7 Magníficas (BM7T): 0.44%
+- EuroStoxx50: 0.66%
+- Stoxx600: -0.76%
+- Ibex35: -0.55%
+- Nikkei: -0.31%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Materials (+0.03%)
+- Peor sector S&P500: Comm Services (-1.28%)
+- Mejor sector Stoxx600: Utilities (+0.19%)
+- Peor sector Stoxx600: Bancos (-1.63%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $91.0/barril
+- Petróleo WTI: $85.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.68%
+- Bono Alemania: 3.27%
+- Bono España: 3.69%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 20,5 puntos básicos, y a marzo 2027 una subida de 30 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 43,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 28,6 puntos básicos, y a marzo 2027 una subida de 52,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Sweet Spot Endures on Strong Earnings
+Before the European Bell: Sweet Spot Endures on Strong Earnings
+By Farah Elbahrawy and Neil Campling
+08/04/2026 01:33:11 [BFW]
+(Bloomberg) -- European stocks are on track for a positive open, adding to a rally that has already pushed regional indexes to fresh records. Strong earnings, resilient economic data and supportive positioning continue to give investors plenty of reasons to stay optimistic.
+Euro Stoxx 50 futures are 0.3% higher at 7:25 a.m. CET after the underlying benchmark closed at a record the prior session, while FTSE 100 futures are up 0.2%. In Asia, stocks are under pressure as concerns about the AI trade linger, with TSMC and Samsung weighing the most on the MSCI Asia Pacific.
+Markets at a Glance
+ 
+Source: Bloomberg
+Meanwhile, Brent crude is edging higher after its biggest drop in a week. Trump said his latest offer of talks is Tehran’s “last chance” and that he expects a full reopening of the Strait of Hormuz.
+Among the key earnings before Europe’s open on Tuesday, HSBC announced a fresh stock buyback and raised its cost-cutting target as it reported second-quarter earnings that beat estimates. Lufthansa warned of heightened uncertainty for its full-year outlook as volatility in jet fuel prices and shortened booking cycles complicate efforts to boost profit.
+ 
+While recent economic data have been encouraging, extreme weather in Europe this summer has complicated the situation due to wildfires and falling water levels. The Rhine River’s water levels have dropped to the lowest in nearly 150 years, threatening to disrupt a crucial route for transporting coal, fuel and industrial commodities across a large swath of the continent. 
+ 
+Meanwhile, Europe is increasingly benefiting from a sharp decline in the US market’s free cash flow yield. That’s prompting interest in markets able to produce sustainable earnings growth without it coming at a cost to cash reserves, like Europe.
+Citigroup strategists, including David Chew, say Europe stands out as the only major region experiencing a “meaningful improvement in risk appetite, supported by fresh long accumulation and favorable earnings delivery.” The team writes that positioning “remains constructive rather than euphoric.”
+ 
+The earnings season in the region has been strong, with companies on track to post second-quarter EPS growth of more than 14% year-over-year, beating an estimated 11.5%. Out of the companies that have reported, 56% have beaten expectations while 25% of them have missed. 
+ 
+Earnings since the European close on Monday include: 
+•	Fresenius Medical Care reported revenue for the second quarter €4.86 billion, estimate €4.79 billion
+•	Eurogroup Laminations reported revenue for the first half-year of €396.5 million vs. €429.2 million y/y
+•	Ferragamo reported sales at constant exchange rates for the first half-year +1.9%, estimate +2.5%
+So far this morning: 
+•	HSBC reported pretax profit for the second quarter $10.1 billion, +60% y/y, estimate $9.51 billion (company-compiled)
+•	Continental reported adjusted Ebit margin for the second quarter 12.9% vs. 9.6% y/y, estimate 12.4%
+•	Bayer reported adjusted Ebitda for the second quarter €2.14 billion, estimate €1.93 billion
+•	Evonik reported sales for the second quarter €3.89 billion, estimate €3.77 billion
+•	Lufthansa forecast adjusted Ebit for the full year of €1.7 billion to €2.2 billion
+•	Aramco reported adjusted net income for the second quarter 125.20 billion riyals, estimate 116.75 billion riyals
+•	LEG Immobilien reported FFO I for the first half-year of €230.5 million vs. €241.2 million y/y
+•	Zalando narrowed its adjusted Ebit forecast for the full year. Sees adjusted Ebit €680 million to €720 million, saw €660 million to €740 million, estimate €698.1 million
+•	AMS-Osram forecast revenue for the third quarter of €770 million to €870 million, estimate €803.9 million
+•	AT&S reported Ebitda for the first quarter €165 million vs. €70.6 million y/y, estimate €163 million
+European Sectors in Focus
+•	Airline stocks may be active after Deutsche Lufthansa warned the volatility in jet fuel prices created risks for its full-year outlook.
+US Markets
+The S&P 500 rose another 30 basis points after European markets closed on Monday, to end the day up 1.5% as attention turned to this week’s heavy slate of earnings reports.
+•	Eight of the 11 S&P 500 sectors rose on Monday, led by communication services (+4.3%), consumer discretionary (+2.7%) and industrials (+1.9%) 
+o	Underperforming sectors included energy (-1.2%), consumer staples (-0.3%) and healthcare (-0.2%)
+•	Amazon.com continued its rally after strong results last week to surpass $3 trillion in market value for the first time and lifted a broad sweep of companies benefiting from demand for AI 
+o	Its stock fell in post-market trading after Jeff Bezos filed to sell shares with an aggregate market value of $4.07 billion
+•	The Nasdaq 100 Index advanced 1.8%, while the Philadelphia Semiconductor Index added 1.1%
+•	Palantir Technologies shares jumped in extended trading after raising revenue and income forecasts for the full year
+•	Among key US companies expected to report before the bell: 
+o	Caterpillar (watch FLSmidth, Sandvik, Wacker Neuson, Volvo and Manitou)
+o	DuPont de Nemours (watch BASF, Bayer, Solvay, AkzoNobel and DSM-Firmenich)
+o	Expeditors International (watch DSV and Kuehne + Nagel)
+o	Fidelity National Information Services (watch Temenos, Adyen and Nexi)
+o	Kimberly-Clark (watch Essity, Unilever, Reckitt Benckiser, Beiersdorf and Henkel)
+o	McDonald’s (watch Domino’s Pizza Group, Greggs, AmRest, Ibersol SGPS and Delivery Hero)
+o	Merck (watch Novo Nordisk and Zealand Pharma)
+o	Waters (watch Tecan, DiaSorin, Sartorius Stedim Biotech and Sartorius)
+o	WW Grainger (watch RS Group and Diploma)
+Asian Markets
+Asian stocks are diverging from Wall Street’s tech-led rally as persistent volatility in South Korean equities underscores lingering concerns over the artificial intelligence trade.
+•	The MSCI Asia Pacific Index fell as much as 1% in narrow trading
+•	The Kospi Index dropped as much as 2.8% in volatile trading, while a regional semiconductor gauge fell as much as 2.1%
+•	Chinese power stocks are higher after the national economic planner released a plan on building a new power system by 2030
+•	China’s optical transceiver makers are surging as investors grow more optimistic about the impact of Nvidia’s roll-out of its co-packaged optics platform
+Macro
+•	President Donald Trump said his latest offer of talks is a “last chance” for Iran after he called off what he said was a major attack on the Islamic Republic
+•	South Korea’s consumer inflation slowed more than expected, falling back below 3% and after accelerating to its fastest pace since late 2023 a month earlier, easing pressure on policymakers to tighten policy
+•	Reform UK’s Zia Yusuf told Bloomberg he’s speaking to tech companies about surveilling the country’s south coast to stop migrants crossing from France, after the party touted a proposal to forcibly return small boats crossing the English Channel back to French shores.
+M&A and ECM
+•	French broadcaster TF1 is weighing a sale of its production and distribution arm Studio TF1, Reuters reported.
+•	Holder Tussen de Grachten offered about a 3% stake in Acciona in an overnight placing.
+European Corporate News
+•	Italy July New Car Sales Rise 3.90% Y/y
+•	Carlsberg Sells Stake in Unprofitable Unit, FodevareWatch Says
+•	Sanofi’s MenQuadfi Vaccine Approved in EU for Use in Infants
+•	Atlas Arteria Says Proposed Warnow Tunnel Sale Will Not Proceed
+Other European Companies Expected to Report Today
+•	AT&S(ATS AV)
+•	Adtran Networks SE (ADV GR)
+•	Ams-OSRAM AG (AMS SW)
+•	Asmodee Group AB (ASMDEE SS)
+•	BP Plc (BP/ LN)
+•	Banca Ifis SpA (IF IM)
+•	Bank of Cyprus Holdings Plc (BOCHGR GA)
+•	Bayer AG (BAYN GR)
+•	Buzzi SpA (BZU IM)
+•	Carel Industries SpA (CRL IM)
+•	Cenergy Holdings SA (CENER BB)
+•	Continental AG (CON GR)
+•	Convatec Group Plc (CTEC LN)
+•	Credito Emiliano SpA (CE IM)
+•	DMG Mori AG (GIL GR)
+•	Deutsche Lufthansa AG (LHA GR)
+•	Domino’s Pizza Group Plc (DOM LN)
+•	Elmos Semiconductor SE (ELG GR)
+•	Evonik Industries AG (EVK GR)
+•	Filtronic Plc (FTC LN)
+•	Fresenius Medical Care AG (FME GR)
+•	Fresnillo Plc (FRES LN)
+•	HSBC Holdings Plc (HSBA LN)
+•	Hugo Boss AG (BOSS GR)
+•	Intercos SpA (ICOS IM)
+•	International Petroleum Corp. (IPCO SS)
+•	Keller Group Plc (KLR LN)
+•	Leg Immobilien SE (LEG GR)
+•	Metro Bank Holdings Plc (MTRO LN)
+•	Rotork Plc (ROR LN)
+•	Sabre Insurance Group Plc (SBRE LN)
+•	Safilo Group SpA (SFL IM)
+•	Smith & Nephew Plc (SN/ LN)
+•	Travis Perkins Plc (TPK LN)
+•	Washtec AG (WSU GR)
+•	Wiit SpA (WIIT IM)
+•	XP Power Ltd. (XPP LN)
+•	Zalando SE (ZAL GR)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	BE Semiconductor raised to buy at Berenberg
+•	Hexagon Composites raised to buy at Pareto Securities
+•	Sainsbury raised to neutral at Goldman; PT 360 pence
+•	Subsea 7 raised to outperform at BNP Paribas; PT 375 kroner
+DOWNGRADES:
+•	Adidas cut to neutral at UBS; PT 173 euros
+•	Kontron cut to neutral at Oddo BHF; PT 23.50 euros
+•	Pearson cut to neutral at Goldman; PT 1,375 pence
+•	Sampo cut to neutral at JPMorgan; PT 10.50 euros
+•	Tryg cut to underweight at JPMorgan; PT 140 kroner
+•	Unite Group cut to neutral at Oddo BHF; PT 560 pence
+INITIATIONS:
+•	Airbus reinstated buy at William O’Neil
+•	Brunello Cucinelli rated new buy at Citi; PT 110 euros
+•	Euronext reinstated buy at William O’Neil
+•	Installatoergruppen rated new buy at SEB Equities; PT 17 kroner
+Economic Agenda (All times CET)
+•	08:45: (Fra) June Budget Balance YTD, prior -93.3b
+•	09:00: (Spain) July Unemployment Change, prior -28,700
+•	09:00: (Spain) July Employment Net Change m/m, prior 92,500
+•	10:00: (Italy) June Retail Sales MoM, prior 0.2%
+European Ex-dividends
+•	PKO Bank Polski (PLN6.14)
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/04/2026 01:19:56 [BFW]
+(Bloomberg) 
+•	S&P 500 futures climbed to the cusp of a record and Nasdaq-100 futures are in the green, pointing to an extension of tech-driven rallies. Palantir hiked revenue and profit forecasts for the year to fuel AI enthusiasm, saying commercial demand for its data analytics tools is “otherworldly.” The Kospi experienced more volatility, swinging between gains and losses, with tech stocks more broadly slipping in Asia.
+•	European stock futures are higher too, with a wave of earnings dropping. HSBC’s profit topped expectations and it reinstated its share buyback program, which was suspended when it acquired Hang Seng Bank. German carrier Lufthansa’s earnings fell on higher fuel costs, echoing results from long-haul peers. Oil major BP, car parts manufacturer Continental and German pharmaceuticals and crop science giant Bayer are all on the slate too.
+•	The yen is snapping its winning run following further intervention speculation in the wake of last week’s coordinated US-Japan action. That’s putting the prospect of whether the yen can strengthen beyond 155 per dollar in focus. Meanwhile, Japanese government bonds were rattled by weak demand at a 10-year auction.
+•	Brent is rising and sitting above $85/bbl after President Trump said his latest offer of talks with Iran is a “last chance.” Iran denied it was negotiating with the US, but said talks with Oman on getting more ships moving through the Strait of Hormuz were progressing.
+•	Water levels in the Rhine River dropped to the lowest in nearly 150 years as hot, dry weather grips Europe. The water level at the key Kaub choke point fell to the lowest since records began in 1880. Freight rates are soaring as barges reduce cargo to navigate through the shallow waters, with the cost of shipping diesel from Rotterdam to Karlsruhe climbing to the loftiest point since Bloomberg started tracking the data in 2009.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

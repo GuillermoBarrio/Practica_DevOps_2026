@@ -1,0 +1,196 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.32%
+- S&P Equal Weight (SPW): -0.05%
+- 7 Magníficas (BM7T): 0.65%
+- EuroStoxx50: 0.12%
+- Stoxx600: 0.35%
+- Ibex35: -0.21%
+- Nikkei: 0.78%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Info Tech (+0.98%)
+- Peor sector S&P500: Energy (-1.70%)
+- Mejor sector Stoxx600: Salud/Farma (+1.19%)
+- Peor sector Stoxx600: Alimentación (-1.04%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $86.3/barril
+- Petróleo WTI: $80.3/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.64%
+- Bono Alemania: 3.20%
+- Bono España: 3.65%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 24.7 puntos básicos, y a marzo 2027 una subida de 35.3 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 39.8 puntos básicos, y a marzo 2027 una subida de 51.1 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 24.5 puntos básicos, y a marzo 2027 una subida de 47.6 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Ebbing Oil and Rate Relief Set Tone
+Before the European Bell: Ebbing Oil and Rate Relief Set Tone
+By Levin Stamm
+08/26/2026 01:35:02 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+European stocks are set for slight gains at the open, propelled by falling oil prices as well as signs that US action to tame borrowing costs are bearing fruit.
+Euro Stoxx 50 and FTSE 100 futures were both 0.1% higher at 7:25 a.m. CET. Brent crude prices are down for a third consecutive day, extending this week’s decline to about 8% to trade at $86.71 per barrel, after Iran and Oman discussed an “interim framework” aimed at resuming shipping through the Strait of Hormuz.
+Markets at a Glance: 
+ 
+Source: Bloomberg
+Chipmakers led gains in Asia ahead of US behemoth Nvidia’s earnings, which are due after the market close on Wednesday. The company is estimated to report revenue that doubled from a year earlier. On Tuesday, it snapped a seven-day streak of losses as investors took profits ahead of the print.
+With the earnings season drawing to a close, corporate action is back in the spotlight. Banco BPM said the price offered by rival Monte Paschi was pretty much the same as its market valuation. And Siemens Energy is preparing to separate its Transformation of Industry division to streamline its business and refine allocation of resources.
+In economic data, the US government is set to release July’s reading of the personal consumption expenditures price index at 2:30 p.m. CET — the Federal Reserve’s preferred inflation gauge — ahead of Kevin Warsh’s much-awaited Jackson Hole speech later in the week. Economists estimate the PCE price index rose 3.6% from a year ago. The same report is forecast to show little change in inflation-adjusted personal spending.
+In other asset classes, Treasuries have outperformed equivalent-maturity swaps, narrowing the 30-year spread between the two to the smallest since February. Benchmark US yields have also drifted lower after initially see-sawing in the wake of the Scott Bessent‘s plan to “at least double” its buybacks of longer-dated bonds. That’s also putting brakes on the debasement trade, with gold pulling back slightly from a three-month high.
+Back in Europe Wednesday, European Central Bank Executive Board member Isabel Schnabel said interest rates must rise further as the lengthy conflict in the Middle East and surprisingly strong euro-zone economy pose upside risks to inflation.
+ 
+France is also set to move back into focus, with the first of a string of reviews by credit assessors expected this Friday. Uncertainty on whether a solution for the country’s debt will be found as well as next year’s presidential election have already weighed on sentiment, with the CAC 40 Index trailing the region’s other major benchmarks.
+Meanwhile, UBS strategists including Sutanya Chedda say the recovery in European small and mid-cap stocks is gaining traction, as their macro model now puts the probability of economic expansion at 64.5% and earnings revisions turn positive. Still, they caution the rebound remains uneven. Larger companies are seeing stronger earnings upgrades, financing costs are weighing on cash generation and investor flows into small and mid-caps remain negative, they add, favoring selective stock-picking over a broad bet on the asset class.
+ 
+In analyst rating changes, software firm SAP and infrastructure company Ferrovial were cut to neutral at UBS, while Denmark’s Orsted was raised to buy at Citi.
+After the close Tuesday, EasyJet and Ithaca Energy were indicated to join the FTSE 100, according to a statement from FTSE Russell. Luxury carmaker Aston Martin Lagonda is set to leave the FTSE 250, a move that would cement its status as a small-cap stock and highlight its faltering turnaround.
+Earnings so far this morning include:
+•	SoftwareONE reported adjusted Ebitda for the first half-year of CHF203.8 million, estimate CHF187.4 million
+•	Stadler Rail reported Ebit for the first half-year of Ebit CHF79.5 million vs. CHF37 million y/y, estimate CHF74.6 million
+•	Aroundtown reported adjusted Ebitda for the first half-year of EU500 million vs. EU500.6 million y/y
+•	Ambu reported revenue for the third quarter of DKK1.64 billion, +8.8% y/y, estimate DKK1.64 billion
+Equity Insights
+A near-record number of stocks in the Stoxx Europe 600 are exhibiting negative beta to the index, writes Bloomberg’s Christian Dass, adding to signs of a so-called “stock-picker’s market.” The high count is indicative of the rise in idiosyncratic risk and high realized dispersion.
+ 
+Readers can now subscribe to Equity Insights by clicking here.
+European Sectors in Focus
+•	European software may be under pressure after disappointing price action from Intuit and Zoom Communications in late trading after results 
+o	Intuit slumped 10% after providing a weak outlook which “signals disruption.” Watch Sage Group, Cegedim, Admicom, Nemetschek and Asseco Poland
+o	Zoom Communications fell 4.2% in extended trading after giving an outlook for the third quarter seen as weaker than expected, despite an expanded product line. Watch TeamViewer, CM.com and Streamwide 
+	The wider software complex may be active including SAP, Dassault Systemes, Nemetschek, Hexagon and Sopra Steria
+	Note: UBS cut recommendation on SAP to neutral from buy
+	Note: US software and service sector has been the best performing sector in the S&P 500 Index over the past month
+•	Sportswear exposed stocks may be active after Anta Sports rose 5.5% in Hong Kong trading after reporting first-half results, including “consensus-defying 1H operating margin expansion to 27%,” according to Bloomberg Intelligence. Watch Puma, Adidas and JD Sports
+•	Watch European energy stocks including BP, Shell, TotalEnergies and Equinor as oil continues to retreat, with Brent crude falling below $87 per barrel.
+US Markets
+The S&P 500 extended gains by about 10 basis points after European markets closed Tuesday, ending the session up 0.3%. The tech-heavy Nasdaq 100 closed 0.6% higher with Nvidia among the notable gainers, snapping its longest losing streak since 2022.
+•	Seven of the 11 S&P 500 sectors gained on Tuesday, led by information technology (+1%), communication services (+0.5%) and materials (+0.4%)
+•	Four sectors declined, led by energy (-1.7%), consumer staples (-0.9%) and industrials (-0.3%)
+•	Here are some of the key earnings due before the bell 
+o	Abercrombie & Fitch
+o	Kohl’s Corp
+o	Williams-Sonoma
+o	Bath & Body Works
+Asia Stocks
+Asian stocks are gaining, led by an advance in heavyweight chipmakers ahead of Nvidia’s much-anticipated earnings report.
+•	The MSCI Asia Pacific Index was up as much as 1.1%, heading for a second day of gains
+•	Samsung, SK Hynix and TSMC were the biggest contributors to its increase
+Macro
+•	Universities Superannuation Scheme, one of the UK’s largest pension funds, hired Robert Ross to manage its private equity investments.
+•	Prime Minister Andy Burnham called on British firms to offer work experience to teenagers to help tackle what he called a “youth unemployment crisis.”
+•	The Trump administration is discussing additional trade penalties against Canada after Prime Minister Mark Carney unveiled dollar-for-dollar retaliation to new tariffs imposed by the US on Saturday.
+•	Xi Jinping’s government is sending a message of defiance to Donald Trump over China’s economic ties with Iran.
+•	Russia is discussing extending its ban on diesel exports as Ukraine continues to strike the nation’s refineries at a record pace.
+•	President Donald Trump-backed Senator Darline Graham prevailed in a Republican runoff to replace her late brother Lindsey Graham as the GOP candidate in South Carolina’s US Senate race.
+Commodities
+•	Gold consolidated after a five-day rally, with investors turning their focus to the Federal Reserve’s interest-rate path ahead of the annual Jackson Hole gathering this week.
+•	Copper extended gains — after closing a a record high on Tuesday — as short-term supplies continued to look tight despite an easing of last week’s severe market squeeze.
+M&A and ECM
+•	Hoegh Autoliners offering of shares prices via ABG Sundal Collier, DNB Carnegie Holding, Pareto Securities.
+•	Storytel’s Board of Directors resolved to repurchase up to 2.4 million B-shares for up to SEK300m on Nasdaq Stockholm, funded entirely in cash, to cover long-term share incentive programs.
+•	Some of the world’s biggest investors have signaled that they object to the share structure of Prosus NV and its parent company Naspers Ltd. and how the companies pay their executives and board members.
+European Corporate News
+•	Aker BP Starts Production From Skarv Satellite Project
+•	Barclays Taps Ramin Naji as Head of APAC Healthcare, Real Estate
+•	FDA OKs Tivicay PD to Treat HIV Infection in Newborns
+•	PepsiCo Scraps Coverage of Weight-Loss Drugs for Employees
+•	GTT Gets Order From Jiangnan for Tank Design of 4 LNG Carriers
+•	Anglo Confident on Copper Target Despite Chile, Peru Weather
+•	Agfa-Gevaert Names Guerin CFO Effective October 1
+European Companies Expected to Report Today
+•	AL Sydbank (ALSYDB DC)
+•	Ambu A/S (AMBUB DC)
+•	Aroundtown SA (AT1 GR)
+•	BioArctic AB (BIOAB SS)
+•	CA Immobilien Anlagen AG (CAI AV)
+•	Deme Group NV (DEME BB)
+•	Eiffage SA (FGR FP)
+•	Hochschild Mining Plc (HOC LN)
+•	Installatoergruppen A/S (IG DC)
+•	Intershop Holding AG (ISN SW)
+•	MPC Container Ships ASA (MPCC NO)
+•	Oberbank AG (OBS AV)
+•	Per Aarsleff Holding A/S (PAALB DC)
+•	Rederi AB Gotland (GOTLB SS)
+•	SED Energy Holdings Plc (ENH NO)
+•	Scandinavian Tobacco Group A/S (STG DC)
+•	Softwareone Holding AG (SWON SW)
+•	Stadler Rail AG (SRAIL SW)
+•	Torm Plc (TRMDA DC)
+•	Vienna Insurance Group AG Wien (VIG AV)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	E.On raised to buy at Berenberg; PT 21 euros
+•	Konecranes raised to buy at SEB Equities; PT 35 euros
+•	Orsted raised to buy at Citi; PT 165 kroner
+DOWNGRADES:
+•	Ambu cut to hold at Nordea
+•	Ferrovial NV cut to neutral at UBS; PT 59 euros
+•	Fielmann cut to hold at DZ Bank; PT 43 euros
+•	SAP cut to neutral at UBS; PT 201 euros
+•	Tecan cut to neutral at Oddo BHF; PT 192 Swiss francs
+INITIATIONS:
+•	Avarda Bank AB rated new buy at SB1 Markets; PT 235 kronor
+•	CTT Systems rated new buy at SB1 Markets; PT 190 kronor
+•	Enity Holding rated new buy at SB1 Markets; PT 100 kronor
+•	Lea Bank rated new buy at SB1 Markets; PT 18 kronor
+•	Morrow Bank rated new buy at SB1 Markets; PT 22 kronor
+•	NOBA rated new buy at SB1 Markets; PT 110 kronor
+•	Nolato rated new buy at SB1 Markets; PT 62 kronor
+•	OHB SE rated new outperform at Oddo BHF; PT 290 euros
+•	VBG Group rated new neutral at SB1 Markets; PT 350 kronor
+Economic Agenda (All times CET)
+•	09:00: (Spain) June House Mortgage Approvals YoY, prior -0.1%
+•	09:00: (Spain) June Total Mortgage Lending YoY, prior 13.5%
+•	12:00: (UK) Aug. CBI Retailing Reported Sales, est. -35, prior -26
+•	12:00: (UK) Aug. CBI Total Dist. Reported Sales, prior 1
+Central Banks
+•	08:00: (Swede) Riksbank’s Hjelm Speaks in Stockholm
+•	12:10: (Euro zone) ECB‘s Cipollone Speaks in Frankfurt
+•	18:15: (Swiss) SNB’s Antoine Martin Speaks in Basel
+Conferences
+•	Montega Hamburg Investor Days
+•	DnB TMT 2026
+•	Okonomisk Ugebrev Investor Conference
+•	Jefferies Semis, IT Hardware & Comm Tech Summit
+•	Deutsche Bank’s 2026 Technology Conference
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+ASRNL NA Equity	ASR Nederland	1.39	EUR
+LAGRB SS Equity	Lagercrantz Group AB	2.5	SEK
+Ex-dividend dates according to Bloomberg data,
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/26/2026 01:20:22 [BFW]
+(Bloomberg) 
+•	Oil extended declines with Brent near $86.90/bbl. Iranian Foreign Minister Abbas Araghchi and his Omani counterpart Badr Albusaidi discussed an “interim framework” aimed at resuming shipping through the Strait of Hormuz, according to a joint statement carried by the Oman News Agency. Pakistan’s Army Chief Field Marshal concluded a one-day visit to Iran as part of efforts to ease tensions between Tehran and Washington, with Iranian media saying the trip yielded “very valuable diplomatic achievements.” A New York Times report that the US would be returning diplomats to Middle East embassies also helped sentiment.
+•	The Trump administration is discussing additional trade penalties against Canada after Prime Minister Carney unveiled dollar-for-dollar retaliation to new tariffs imposed by the US on Saturday. The Canadian dollar weakened 0.2% against the greenback. Copper extended gains after closing at a record high on Tuesday.
+•	Beijing responded to US sanctions by saying its relationship with Iran “should not be disrupted or undermined.” That came just hours after the US imposed measures on dozens of Chinese entities and threatened to target an unspecified “major financial institution” for its dealings with Tehran.
+•	Asian stocks rose with the Kospi and the Taiex leading the gains ahead of Nvidia’s earnings due later Wednesday. OpenAI said its new Jalapeno chips performed better than Nvidia’s current lineup during testing, underscoring the company’s progress in developing AI processors in-house.
+•	SoftBank Group is talking with investment banks about a potential $10 billion to $20 billion bond offering to help refinance a loan for its investment in OpenAI, according to people familiar with the matter. The offering could be denominated in dollars and euros and come as early as September, said the people.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

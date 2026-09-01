@@ -1,0 +1,229 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.83%
+- S&P Equal Weight (SPW): -0.48%
+- 7 Magníficas (BM7T): -0.18%
+- EuroStoxx50: 0.02%
+- Stoxx600: -0.91%
+- Ibex35: -1.20%
+- Nikkei: -0.49%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Real Estate (+0.17%)
+- Peor sector S&P500: Energy (-1.49%)
+- Mejor sector Stoxx600: Alimentación (+0.09%)
+- Peor sector Stoxx600: Tecnología (-1.90%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $95.0/barril
+- Petróleo WTI: $90.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.73%
+- Bono Alemania: 3.19%
+- Bono España: 3.59%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,6 puntos básicos, y a marzo 2027 una subida de 31,1 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,4 puntos básicos, y a marzo 2027 una subida de 52,9 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,3 puntos básicos, y a marzo 2027 una subida de 49,3 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Earnings Accelerate as Chips Retreat
+Before the European Bell: Earnings Accelerate as Chips Retreat
+By Neil Campling
+07/28/2026 01:32:57 [BFW]
+(Bloomberg) -- Futures point to a quiet open in Europe after a range-bound US session, while the rotation beneath the surface and the unwind of crowded trades continue to put chip stocks in the headlines.
+Euro Stoxx 50 futures are 0.1% lower at 7:27 a.m. CET, while contracts on the FTSE 100 are down 0.3%. Asian markets are weak with the tech sector dragging on indexes in Japan, South Korea and Taiwan, reflecting a weak handover from Wall Street. Futures are pointing to a negative start in the US later, with Nasdaq contracts leading the decline.
+Earnings continue at pace and the scorecard from Monday night for marque European names are a mixed bag. LVMH’s ADRs slid after the company’s key fashion and leather goods unit had organic sales rise 1% last quarter, missing analysts’ estimate of 1.52%. Elsewhere in fashion, Vinted has created a formidable marketplace that is eating into the sales of fashion and luxury houses, with the secondhand market expected to grow two to three times faster than the firsthand one from 2025 to 2027.
+ 
+Philips raised its profitability expectations for 2026 after a US tariff refund bolstered earnings in the second quarter. Michelin reaffirmed full-year guidance as the tiremaker has so far avoided raw-material shortages considered manageable for now.
+Among early Tuesday results, Safran raised its full-year guidance after strong demand for civil engine parts propelled its margin to a record. In contrast, Mercedes-Benz lowered its full-year guidance, citing weaker demand in China, where a prolonged property slump is undermining consumer sentiment and curbing demand for luxury vehicles.
+More broadly, the increasingly interconnected web of dependencies between technology manufacturers and AI startups continues to dominate global sentiment. The risk of these “circular” deals was highlighted in a Bloomberg Technology explainer earlier this year, updated overnight here. 
+The recent market pullback has been enough to erase the sell signal which was driven by sentiment and positioning, according to HSBC strategist Max Kettner, who says “there is good reason for the strength in risk assets.” He cites a solid start to the second-quarter reporting season, a reversal in cuts to US GDP forecasts and lower equity valuations, among other factors. Kettner previously went big on stocks when rivals blinked.  
+Elsewhere, France and Spain are studying ways to pump money into regions hit by massive wildfires. Record-breaking heat and drought have fueled the worst start ever to the global wildfire season, with climate scientists warning that a developing El Niño could bring even harsher conditions later this summer. Meanwhile, Italy approved a temporary tax cut on diesel fuel through Aug. 6 to cushion the impact of surging energy prices.
+There was some positive news for UK consumers and the Bank of England ahead of the interest rate decision later this week, with food inflation falling for a sixth straight month to 2.2% in July, according to British Retail Consortium data. 
+ 
+ 
+Brent crude oil fell toward $87 a barrel following a 8.7% tumble on Monday, after President Trump said that the US and Iran were engaged in talks to try to end the Middle East conflict. Meanwhile, negotiators from Iran and Oman are said to be trying to reach an agreement to restart shipping through the Strait of Hormuz.
+In politics, Labour MPs warned Andy Burnham he will lose the support of his governing party if he approaches welfare reform with a focus on “punitive” cuts. Seperately, Burnham ruled out any changes to the UK’s stamp duty tax on property purchases in his government’s first budget in the fall. 
+In other corporate news: 
+•	Orange and infrastructure manager Morrison are joining forces to create a data center company in France in an effort to strengthen Europe’s digital sovereignty
+•	HSBC is said to have offered high leverage to capture about $5.5 billion in non-resident Indian deposits, helping it race ahead of some global rivals
+•	Zurich Insurance Group has let some employees go amid enforcement proceedings by the Swiss regulator Finma, according to the CEO
+Earnings since the European close on Monday include: 
+•	Saipem reported revenue for the second quarter €3.82 billion, +3.4% y/y, estimate €3.73 billion
+•	Philips reported adjusted Ebita margin for the second quarter 16.4% vs. 12.4% y/y, estimate 11.9%
+•	Michelin reported total segment operating income for the first half-year €1.45 billion, -0.4% y/y, estimate €1.44 billion
+•	LVMH reported second-quarter organic sales 
+o	Organic revenue +3%, estimate +2.32% 
+	Fashion & Leather Goods organic sales +1%, estimate +1.52%
+	Wines & Spirits organic sales +5%, estimate -1.94%
+	Perfumes & Cosmetics organic sales -1%, estimate +1.64%
+	Watches & Jewelry organic sales +11%, estimate +6.89%
+	Selective Retailing organic sales +6%, estimate +3.75%
+ 
+Elsewhere, so far this morning: 
+•	Air Liquide reported recurring operating income for the first half-year €2.89 billion, +5.7% y/y, estimate €2.9 billion
+•	Sika boosted its sales in local currencies forecast for the full year. Sees sales in local currencies +3% to +6%, saw +1% to +4%, estimate +3.02%
+•	TeamViewer reported adjusted Ebitda for the second quarter €78.9 million, -6.1% y/y, estimate €78.1 million
+•	BioMerieux reported organic sales for the second quarter +5%, estimate +2.83%. Forecast organic sales for 2027 of +3% to +6%
+•	Forbo reported sales for the first half-year CHF545.7 million, -0.2% y/y, estimate CHF535.3 million
+•	Mercedes-Benz reported second-quater adjusted Ebit €2.3 billion, estimate €1.72 billion
+•	Bank Millennium reported net income for the second quarter 407.6 million zloty, +23% y/y, estimate 376.7 million zloty
+•	SIG Group reported adjusted Ebitda for the first half-year €372.6 million, estimate €360.5 million
+•	Bobst reported sales for the first half-year of CHF589.9 million vs. CHF667.4 million y/y
+•	Safran sees adj. recurring operating income €6.4 billion to €6.5 billion, saw €6.1 billion to €6.2 billion, estimate €6.16 billion
+GSK, Unilever and EssilorLuxottica are among the companies expected to report results later today. 
+Markets at a Glance
+ 
+Source: Bloomberg
+Equity Insights and Strategy
+•	Citigroup strategists including David Chew say Europe saw one of the strongest improvements in positioning last week despite a challenging macro backdrop. That was “driven by new long additions and emerging short squeeze risks,” particularly in the FTSE 100. Meanwhile, the DAX remains the regional laggard, with positioning continuing to deteriorate, they wrote.
+US Markets
+US stocks traded sideways after Europe went home, with the S&P 500 ending the session about flat. The tech-heavy Nasdaq 100 slipped 0.3% to close at the lowest level since early May. 
+•	Seven of the 11 S&P 500 sectors rose, led by consumer staples (+1.6%), communication services (+1.5%) and financials (+1%) 
+o	Underperforming sectors were energy (-2%), utilities (-1.3%) and information technology (-1%)
+•	The biggest drags on the S&P 500 on Monday were chip stocks, with Nvidia, AMD, Sandisk and Micron all sliding
+•	Earnings season continues in the US, with the following companies among those due to report before the open on Tuesday: 
+o	Coca-Cola (European reads include Coca-Cola HBC, CCEP, Fevertree and Anadolu Efes)
+o	Paccar (European reads include Daimler Truck, Traton, Volvo and Iveco)
+o	Hilton Worldwide (European reads include InterContinental Hotels, Accor, Whitbread and Melia Hotels)
+o	Boeing (European reads include Safran, Airbus, Thales, Rolls-Royce, Dassault Aviation, Leonardo and Latecoere)
+o	Sherwin-Williams (European reads include Akzo Nobel, BASF, Sika and Arkema)
+o	Textron (European reads include Airbus, Dassault Aviation, BAE Systems, Thales and Leonardo)
+o	Hubbell (European reads include ABB, Schneider Electric, Legrand and ams-Osram)
+o	Pentair (European reads include Rotork and Veolia)
+o	Corning (European reads include Prysmian, Nexans and Nokia)
+o	UPS (European reads include Deutsche Post, InPost, PostNL and Oesterreichische Post)
+o	PayPal (European reads include Adyen, Nexi and Worldline)
+o	Royal Caribbean Cruises (European reads include Carnival, Viking Line, Attica and TUI)
+o	Xylem (European reads include Sulzer, KSB and Veolia)
+o	Invesco (European reads include Aberdeen, M&G, Legal & General, GAM, Schroders and Polar Capital)
+o	S&P Global (European reads include LSEG and Deutsche Boerse)
+o	Illinois Tool Works (European reads include Atlas Copco and Voestalpine)
+o	Ecolab (European reads include Kemira and Veolia)
+Asian Markets
+The MSCI Asia Pacific Index slumped on Tuesday as the selloff in semiconductor stocks spread from the US, putting it on pace for a technical correction before slightly paring the decline.
+•	The Kospi fell as much as 11%, as Samsung and SK Hynix declined
+•	SK Hynix’s $570 billion selloff in just a little more than a month has turned the South Korean memory chipmaker from one of the world’s hottest trades to a question mark
+M&A and ECM
+•	Advisers for Monte Paschi and Banco BPM SpA are in talks over a possible merger of equals structured as a mix of shares and cash, as an alternative to Intesa Sanpaolo’s €35 billion bid for Monte Paschi, Bloomberg News reported.
+European Corporate News
+•	Zurich CEO Says Staff Let Go as Finma Imposes Partial Sales Ban
+•	Gubra Reports Start of Phase 1/2a Trial of GUB-UCN2 in Obesity
+•	Renault Disputes Any Wrongdoing in Diesel Vehicles Case
+•	Saint-Gobain Announces Two Acquisitions in Asia-Pacific Region
+•	Siemens to Provide Rapidus With Software Support, Nikkei Says
+•	Orange, Morrison Partner on French Data Center Project
+•	ASML Analysts See Limited Risk From China DUV Production
+•	EDP Renewables to Sell 80% Stake in 384 MW Portfolio for €450m
+Among European Companies Reporting on Tuesday
+•	ASM International NV (ASM NA)
+•	Air Liquide SA (AI FP)
+•	Barclays Plc (BARC LN)
+•	Basic-Fit NV (BFIT NA)
+•	BioMerieux (BIM FP)
+•	Bobst Group SA (BOBNN SW)
+•	Bodycote Plc (BOY LN)
+•	CTT-Correios de Portugal SA (CTT PL)
+•	Canal+ SA (CAN LN)
+•	Coats Group Plc (COA LN)
+•	Croda International Plc (CRDA LN)
+•	EssilorLuxottica SA (EL FP)
+•	Exosens SAS (EXENS FP)
+•	Ferrovial NV (FER SM)
+•	Forbo Holding AG (FORN SW)
+•	GRK Infra Oyj (GRK FH)
+•	GSK Plc (GSK LN)
+•	Games Workshop Group Plc (GAW LN)
+•	Gaztransport & Technigaz SA (GTT FP)
+•	Grifols SA (GRF SM)
+•	Inchcape Plc (INCH LN)
+•	Infrastrutture Wireless Italia (INW IM)
+•	Kering SA (KER FP)
+•	Lagardere SA (MMB FP)
+•	Lem Holding SA (LEHN SW)
+•	Logitech International SA (LOGN SW)
+•	Lottomatica Group SpA (LTMC IM)
+•	Louis Hachette Group (ALHG FP)
+•	Man Group PLC/Jersey (EMG LN)
+•	Mercedes-Benz Group AG (MBG GR)
+•	Mercialys SA (MERY FP)
+•	Metropole Television SA (MMT FP)
+•	Orange SA (ORA FP)
+•	Palfinger AG (PAL AV)
+•	Piaggio & C. SpA (PIA IM)
+•	Rio Tinto (RIO LN)
+•	SIG Group AG (SIGN SW)
+•	Safran SA (SAF FP)
+•	Sika AG (SIKA SW)
+•	Storytel AB (STORYB SS)
+•	Sulzer AG (SUN SW)
+•	TeamViewer SE (TMV GR)
+•	Unilever Plc (ULVR LN)
+•	Unite Group Plc (UTG LN)
+•	Vastned NV (VASTB BB)
+•	Verallia SA (VRLA FP)
+Reporting dates according to Bloomberg data, for more earnings see here
+Main Rating Changes
+UPGRADES:
+•	Admiral raised to buy at Citi; PT 4,243 pence
+•	K+S raised to outperform at BNP Paribas; PT 19 euros
+•	Pensionbee Group raised to outperform at RBC; PT 175 pence
+•	Schweiter raised to buy at Baader Helvea; PT 383 Swiss francs
+DOWNGRADES:
+•	Essity cut to sell at Goldman; PT 255 kronor
+•	Fresenius Medical Care cut to underperform at BNP Paribas
+•	Gabriel cut to reduce at Inderes; PT 270 kroner
+•	SES GDRs cut to sell at New Street Research; PT 6.40 euros
+•	Sabre Insurance cut to add at Peel Hunt; PT 200 pence
+•	Swiss Re cut to underweight at JPMorgan; PT 125 Swiss francs
+•	Veolia cut to equal-weight at Morgan Stanley; PT 38 euros
+•	Vesuvius cut to neutral at BNP Paribas; PT 420 pence
+INITIATIONS:
+•	Anglo Asian Mining rated new buy at Peel Hunt; PT 568 pence
+•	Bohus rated new buy at SEB Equities; PT 45 kroner
+•	Gerard Perrier rated new outperform at Oddo BHF; PT 100 euros
+•	Maire rated new market perform at Bernstein; PT 15 euros
+•	Merko Ehitus rated new buy at Dr. Kalliwoda Equity Research
+•	Talanx reinstated buy at Goldman; PT 137 euros
+•	Trainline rated new buy at Jefferies; PT 350 pence
+•	Villeroy & Boch reinstated outperform at Oddo BHF; PT 20 euros
+Economic Agenda (All times CET)
+•	08:45: (Fra) July Consumer Confidence, est. 85, prior 84
+•	09:00: (Spain) June Retail Sales YoY, prior -0.4%
+•	09:00: (Spain) June Retail Sales SA YoY, prior 1.3%
+•	09:00: (Spain) 2Q Unemployment Rate, est. 10.10%, prior 10.83%
+•	12:00: (Fra) 2Q Total Jobseekers, prior 3.3m
+European Ex-divs
+•	Carrefour (CA FP)
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+07/28/2026 01:16:00 [BFW]
+(Bloomberg) 
+•	The Kospi slumped as much as 10.7%, heading for the worst session since early March as both Samsung Electronics and SK Hynix slid more than 12%. Korea Exchange triggered a circuit breaker for the benchmark, marking its eighth such halt this year. The Kosdaq also slid, set for the lowest close since mid-April. A $570 billion rout in just a little over a month has flipped Hynix from one of the world’s hottest AI trades to one of the biggest portfolio question marks.
+•	Semiconductor stocks led declines in Asian equities with both the Nikkei and the Taiex dropping ~4%. Hang Seng and H-shares outperformed. Nasdaq-100 futures fell 0.9%. Nvidia is working on a fresh round of AI deals worth more than $750 billion, accelerating investments that skeptics have warned are artificially inflating demand and valuations across the industry. Meanwhile, Taiwanese prosecutors detained an Nvidia employee and searched the company’s offices as part of a widening probe into the alleged smuggling of AI accelerators into China, according to people familiar with the matter.
+•	Oil extended declines, with Brent October contracts dropping below $85/bbl. President Trump said the US and Iran were engaged in diplomatic talks to end the Middle East conflict, but warned the two sides would return to fighting if a deal isn’t reached. Negotiators from Iran and Oman are trying to reach an agreement to restart shipping through the Strait of Hormuz, according to people familiar with the matter.
+•	Crypto currencies declined, with Bitcoin dropping to ~$63,300. Precious metals also slid with gold falling to near $4,040/ounce. Interest-rate swaps imply about a 40% chance of a quarter-point increase by the Fed this week.
+•	Mercedes-Benz cut its full-year guidance, citing weaker demand in China, where a prolonged property slump is undermining consumer sentiment and curbing demand for luxury vehicles. Meanwhile, France and Spain are studying ways to pump money into regions hit by massive wildfires over the past week even before the conflagrations are fully contained.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

@@ -1,0 +1,181 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.87%
+- S&P Equal Weight (SPW): -0.81%
+- 7 Magníficas (BM7T): -1.08%
+- EuroStoxx50: -0.35%
+- Stoxx600: -0.12%
+- Ibex35: -0.18%
+- Nikkei: -0.46%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Energy (+0.38%)
+- Peor sector S&P500: Consumer Staples (-1.93%)
+- Mejor sector Stoxx600: Petróleo (+0.91%)
+- Peor sector Stoxx600: Retail (-1.02%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $93.5/barril
+- Petróleo WTI: $86.4/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.70%
+- Bono Alemania: 3.26%
+- Bono España: 3.70%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 22.9 puntos básicos, y a marzo 2027 una subida de 33.1 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 45.6 puntos básicos, y a marzo 2027 una subida de 55 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27.1 puntos básicos, y a marzo 2027 una subida de 45.9 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: On Brink of Worst Run Since 2016
+Before the European Bell: On Brink of Worst Run Since 2016
+By Farah Elbahrawy
+08/21/2026 01:36:50 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+Set for a muted end to the week, European stocks are on the brink of an unwelcome milestone: their longest losing streak in a decade. A flurry of economic data could offer some relief, while regional equity funds continue to attract inflows.
+Euro Stoxx 50 futures and contracts on the FTSE 100 were flat as of 7:25 a.m. CET. Asian stocks rose, with Samsung Electronics’ plans to return as much as $79 billion to shareholders in focus.
+Markets at a Glance:
+ 
+Source: Bloomberg
+In the US, futures were muted after a negative session. The focus is currently on Anthropic PBC, which is said to be expecting to match or beat the size of SpaceX’s record-setting initial public offering. 
+The flood of capital shows little sign of abating, with Broadcom said to be in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies.
+Over in Europe, the Stoxx 600 is headed for a second week of losses, with the index falling for seven straight sessions. If a negative session on Friday extends the pattern, the index will mark its longest losing run since November 2016. Still, the picture is not all grim  — the benchmark is less than 2% below its record high from earlier this month.
+ 
+Despite the shaky trading, flows to European equity funds stayed positive at $200 million in the week through August 19, mostly attributed to strong inflows to regional funds, but offset by outflows from UK funds, according to a Citigroup note citing EPFR Global data.
+There’s a slew of economic data due later Friday, including PMI prints for the UK, France and Germany. The readings for the euro zone are predicted to stay in growth territory. Data released earlier showed British consumers are more confident than at any point since Labour took power two years ago, further evidence that the national mood has improved since Andy Burnham took over as prime minister in July.
+An analysis by HSBC strategists shows AI is the dominant narrative for European equities, as well as infrastructure capex, corporate margin resilience, and the ECB policy path. FX volatility and consumers trading down are emerging narratives, a team led by Duncan Toms wrote in a note. “As for the significant sector narratives, we find a defence order backlog as relevant for Industrials, and grid expansion for Utilities, among others.”
+In key corporate news, Holcim is acquiring part of the European business of James Hardie Industries Plc for €840 million ($982 million), expanding its building, sustainable flooring and walling solution offerings. Meanwhile, Deutsche Bank is making a major push to rebuild its energy trading business more than a decade after it largely exited the commodities sector.
+Banca Monte dei Paschi di Siena is seeking to buy two separate banks for a combined value of €34 billion ($40 billion) as it seeks to prevent being bought by rival Intesa Sanpaolo. The lender has launched an all-share bid for Banco BPM valuing it at €25.3 billion and another one for Banca Generali valuing it €8.7 billion.  
+Paschi has “gone from defense to double-or-nothing”, notes Nicolas Marmurek, co-head of special situations at Square Global Markets, in a “bold countermove which looks like a very complicated way of saying “not Intesa.” 
+Earnings since the Thursday close include:
+•	CTS Eventim reported 1H normalized Ebitda EU225.4 million, estimate EU224 million
+•	Fielmann sees full year sales EU2.50 billion to EU2.55 billion, saw low end of EU2.55 billion to EU2.60 billion, estimate EU2.56 billion
+•	Dino Polska reported 2Q net income 400.1 million zloty, +0.6% y/y, estimate 386.5 million zloty
+•	Siegfried reaffirmed its core Ebitda margin forecast for the full year, sees it above 23%
+European Sectors in Focus
+•	Luxury stocks could be active on Friday after Bloomberg reported these brands are facing a deepening sales slump in China, with sales at the 25 biggest luxury labels dropping more than 10% in July. LVMH’s Louis Vuitton and Dior, as well as Kering’s Gucci, Bottega Veneta and Balenciaga all recorded double-digit sales drops, while Hermès swung from gains to declines.
+ 
+Equity Insights
+•	Euro Stoxx 50 dividend call trading is holding up in an otherwise quiet summer for option volumes, with call spreads and call flies for 2028 attracting interest.
+ 
+US Markets
+The S&P 500 extended declines by about 60 basis points after European markets closed Thursday to end down 0.9%. The Tech-heavy Nasdaq 100 fell 0.7% to notch its fifth straight day of losses.
+•	Nine of the 11 S&P 500 sectors were lower, led by consumer staples (+1.9%), health care (-1.9%) and consumer discretionary (-1.8%) 
+o	Only two sectors gained, energy (+0.4%) and real estate (+0.2%)
+•	Ross Stores climbed in postmarket trade after the off-price retailer boosted its earnings forecast for the year
+•	Here are the key earnings due before the bell: 
+o	BJ’s Wholesale
+o	Buckle
+Asia Markets
+Asian stocks rose, led by the technology sector after Samsung unveiled a shareholder return plan to hand investors a chunk of the windfall generated by the AI rush.
+•	The MSCI Asia Pacific Index rose as much as 0.8% led by Samsung, SK Hynix and TSMC
+•	Korea’s Kospi rose as much as 1.5% while China and Taiwan also gained
+Macro
+•	Food and drink makers called for relief from new UK Prime Minister Andy Burnham as European droughts push up the price of key ingredients.
+•	France’s fiscal deficit would widen by at least 0.5% of economic output if political divisions prevent the adoption of a 2027 budget before presidential elections, the state’s finance auditing body cautioned.
+•	French police stopped more than 4,300 migrants from reaching UK shores aboard small boats in the first three months of a new deal between the two countries, the Home Office said, as it seeks to demonstrate headway in cracking down on irregular crossings.
+•	China is considering additional assistance this year for domestic businesses and consumers by offering loan subsidies alongside other financing support, as economic growth veers below the government’s annual target.
+•	The US, Japan and South Korea held a three-way call to discuss the barrage of short-range ballistic missiles launched by North Korea, coordinating their response after Pyongyang dismissed President Donald Trump’s overtures to revive dialogue.
+•	Russia conducted a rare missile exercise involving naval vessels and a land-based launcher near islands in its Far East that are also claimed by Japan, adding to recent friction between the two nations.
+Commodities
+•	Gold was on track for a third weekly gain after the US Treasury’s unexpected ramp-up in buybacks of long-dated government debt underscored concerns about its burden.
+M&A and ECM
+•	Icelandair Group hf. has completed the acquisition of a 49% stake in Fly Play Europe Holdco ehf. which holds a Maltese Air Operator Certificate.
+•	Woody Johnson, the owner of the New York Jets, agreed to buy a minority stake in the Aston Martin Formula One team, the latest deal for billionaire Lawrence Stroll’s racing outfit.
+European Corporate News
+•	HSBC Leveraged Finance Banker Vikram Lamba Departs Bank
+•	BMW Neue Klasse iX3 Starts at 269,900 Yuan in China
+•	UK Banking Giants Warn Against Further Tax Rises in Letter: Sky
+•	Montea 2Q Occupancy 99.4%
+European Companies Expected to Report Today
+•	Arendals Fossekompani ASA (AFK NO)
+•	Bavarian Nordic A/S (BAVA DC)
+•	Graubuendner Kantonalbank (GRKP SW)
+•	Hunting Plc (HTG LN)
+•	Koebenhavns Lufthavne A/S (KBHL DC)
+•	Luzerner Kantonalbank AG (LUKN SW)
+•	NAC Kazatomprom JSC (KAP LI)
+•	Nibe Industrier AB (NIBEB SS)
+•	Scatec ASA (SCATC NO)
+•	Siegfried Holding AG (SFZN SW)
+•	Synsam AB (SYNSAM SS)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Fondia raised to buy at Inderes; PT 6.20 euros
+•	Herantis Pharma raised to accumulate at Inderes; PT 2 euros
+DOWNGRADES:
+•	Alfen cut to hold at Jefferies; PT 14 euros
+•	Hoegh Autoliners cut to hold at Arctic Securities; PT 168 kroner
+•	Multiconsult cut to hold at SEB Equities; PT 160 kroner
+•	Renault cut to equal-weight at Barclays; PT 31.50 euros
+•	Rockwool cut to neutral at JPMorgan; PT 210 kroner
+•	SocGen cut to underperform at KBW; PT 81 euros
+INITIATIONS:
+•	Loomis rated new neutral at SB1 Markets; PT 550 kronor
+Economic Agenda (All times CET)
+•	01:01: (UK) Aug. GfK Consumer Confidence, est. -18, prior -17
+•	08:00: (UK) July Retail Sales Inc Auto Fuel MoM, est. -0.5%, prior 1.0%
+•	08:00: (UK) July PSNB ex Banking Groups, prior 16b
+•	08:00: (UK) July Retail Sales Ex Auto Fuel MoM, est. -0.5%, prior 1.1%
+•	08:00: (UK) July Retail Sales Inc Auto Fuel YoY, est. 2.2%, prior 4.2%
+•	08:00: (UK) July Retail Sales Ex Auto Fuel YoY, est. 3.3%, prior 5.4%
+•	08:00: (UK) July PSBR (BP), prior 15.2b
+•	08:00: (UK) July Public Sector Net Borrowing, est. 0, prior 16b
+•	08:00: (UK) July Central Government NCR, prior 19.2b
+•	08:45: (Fra) Aug. Manufacturing Confidence, est. 101, prior 101
+•	08:45: (Fra) Aug. Own-Company Production Outlook, est. 2, prior -1
+•	08:45: (Fra) Aug. Production Outlook Indicator, prior -10
+•	08:45: (Fra) June Retail Sales ex-Auto MoM, prior -0.1%
+•	08:45: (Fra) Aug. Business Confidence, est. 98, prior 97
+•	09:15: (Fra) Aug. S&P Global France Manufacturing PMI, est. 50.0, prior 49.8
+•	09:15: (Fra) Aug. S&P Global France Services PMI, est. 49.4, prior 49.6
+•	09:15: (Fra) Aug. S&P Global France Composite PMI, est. 49.5, prior 49.4
+•	09:30: (Ger) Aug. S&P Global/BME Germany Manufacturing PMI, est. 52.1, prior 52.2
+•	09:30: (Ger) Aug. S&P Global Germany Services PMI, est. 50.1, prior 49.8
+•	09:30: (Ger) Aug. S&P Global Germany Composite PMI, est. 51.3, prior 51.3
+•	10:00: (Euro zone) Aug. S&P Global France Manufacturing PMI, est. 51.8, prior 51.9
+•	10:00: (Euro zone) Aug. S&P Global France Services PMI, est. 51.5, prior 51.7
+•	10:00: (Euro zone) Aug. S&P Global France Composite PMI, est. 51.7, prior 52.0
+•	10:30: (UK) Aug. S&P Global UK Manufacturing PMI, est. 51.5, prior 51.9
+•	10:30: (UK) Aug. S&P Global UK Services PMI, est. 51.8, prior 52.1
+•	10:30: (UK) Aug. S&P Global UK Composite PMI, est. 51.6, prior 52.2
+•	11:00: (Euro zone) 2Q Negotiated Wages, est. 2.4%, prior 2.46%
+•	16:00: (Euro zone) Aug. Consumer Confidence, est. -16, prior -15.9
+Central Banks
+•	10:00: ECB Jul. 1 Year CPI Expectations
+•	10:00: ECB Jul. 3 Year CPI Expectations
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+VAR	Vår Energi ASA	1.355	NOK
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/21/2026 01:15:21 [BFW]
+(Bloomberg) 
+•	Government bonds drop in Japan, Australia and New Zealand after US peers resumed declines on Thursday even as Treasury Secretary Bessent flagged the potential for bigger debt buybacks. He also said the Trump administration will unveil a new fiscal initiative.
+•	Stocks in Asia edge up, led by tech shares. South Korea’s Kospi Index climbs, with Samsung Electronics rising on a report the chipmaker plans to return as much as 110t won ($79b) to shareholders. Nasdaq equity futures are in the green.
+•	Anthropic expects to match or beat the size of SpaceX’s record-setting IPO, according to people familiar with the matter. Meantime, Broadcom is in talks with lenders to raise more than $60b in debt for an AI chip financing deal that will benefit Anthropic and other companies, people with knowledge of the matter said.
+•	The US dollar weakens against almost all G-10 peers, with the Aussie and kiwi outperforming. In emerging markets, the Korean won stands out with a surge of almost 1%. Bloomberg’s dollar gauge retreats near the lowest since mid-May.
+•	Bitcoin extends gains to trade around $75,000, up nearly 20% this week and on track for its best weekly advance in more than two years. Ether also climbs.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

@@ -1,0 +1,179 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.39%
+- S&P Equal Weight (SPW): -0.77%
+- 7 Magníficas (BM7T): 0.32%
+- EuroStoxx50: 0.46%
+- Stoxx600: -1.74%
+- Ibex35: -0.49%
+- Nikkei: -2.04%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Industrials (+1.38%)
+- Peor sector S&P500: Energy (-0.40%)
+- Mejor sector Stoxx600: Seguros (+-0.76%)
+- Peor sector Stoxx600: Petróleo (-2.61%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $83.0/barril
+- Petróleo WTI: $80.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.80%
+- Bono Alemania: 3.18%
+- Bono España: 3.65%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,9 puntos básicos, y a marzo 2027 una subida de 31,3 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 42,3 puntos básicos, y a marzo 2027 una subida de 51,8 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27,1 puntos básicos, y a marzo 2027 una subida de 50,2 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Broader Leadership Starts to Emerge
+Before the European Bell: Broader Leadership Starts to Emerge
+By Farah Elbahrawy and Julien Ponthus
+08/07/2026 01:32:46 [BFW]
+(Bloomberg) -- European stock futures were muted as oil climbed, though regional benchmarks are still headed for a weekly gain as investors seek strong earnings growth at enticing valuations.
+Euro Stoxx 50 futures were 0.1% lower at 7:25 a.m. CET, while contracts on the FTSE 100 were down 0.2%. Brent crude climbed after a report that Iran attacked “hostile targets” in the Strait of Hormuz, with Tehran seeking to bar US and Israeli ships from the critical waterway in a deal with Oman.
+Asian stocks were mixed and US stock futures were flat after a weak session on Wall Street. Traders are awaiting US job data for clues on the outlook for interest rates. Bloomberg Economics expects nonfarm payrolls increased at a modest pace and the unemployment rate edged up in July. 
+Markets at a Glance
+ 
+Source: Bloomberg
+ 
+Citigroup strategists led by Beata Manthey said the building blocks for broader market leadership are emerging, including improving cyclical conditions and narrowing technology dominance. Stocks in continental Europe are potential beneficiaries of this trend, with banks and energy offering compelling valuations and improving earnings momentum.
+ 
+Meanwhile, the FT reported that the US blindsided the European Central Bank last week with its historic currency intervention to help Japan, only informing its counterparts in Frankfurt after it sold euros to buy the yen. Some senior ECB officials viewed the US using euros, instead of dollars, as an unprecedented breach of longstanding conventions on co-operation between western monetary authorities, the FT said, citing several people familiar with the matter. 
+The earnings season is drawing to a close, with companies comprising 94% of the MSCI Europe’s market capitalization having already reported. Earnings-per-share has climbed about 17% in the second quarter from the year prior, exceeding expectations for 11.5% growth.
+Earnings since the European close include:
+•	Generali reported 2Q operating profit that beat the average analyst estimate
+•	Genmab boosted its revenue forecast for the full year to $4.33 billion to $4.53 billion, estimate $4.36 billion
+•	Orlen posted 2Q net income 7.68 billion zloty, estimate 6.43 billion zloty
+•	Mediobanca reported revenue for the second quarter of €1.01 billion
+So far this morning: 
+•	Allianz reported 2Q operating profit of €4.87 billion that beat the average analyst estimate of €4.58 billion
+•	Daimler Truck’s 2Q revenue of €11.42 billion missed the average analyst estimate of €12.35 billion
+•	Modivo posted 2Q revenue 3.05 billion zloty, +2.9% y/y, estimate 3.11 billion zloty
+•	Lanxess reported 2Q adjusted Ebitda EU152 million, +1.3% y/y, estimate EU150.9 million
+Equity Insights
+Europe‘s equity market rally to a record high is flashing an encouraging signal: the share of stocks participating in the advance is near the top of the range of the past decade.
+ 
+Readers can now subscribe to Equity Insights by clicking here.
+European Sectors in Focus
+•	Oil majors and energy groups will be in focus as brent rose over $84 a barrel after a report that Iran attacked “hostile targets” in the Strait of Hormuz, with Tehran seeking to bar US ships from the critical waterway in a deal with Oman.
+•	Watch miners and the broad basic materials sector with copper trading at record high levels amid signs of tighter supply and booming demand from AI data centers.
+US Markets
+US stocks traded sideways after European markets closed on Thursday, with the S&P 500 ending the session down 0.2% and the Nasdaq 100 falling 0.4%. 
+•	Eight of the 11 S&P 500 sectors declined, led by industrials, real estate and materials, all down about 0.8% 
+o	Among the outperformers: energy (+1.6%), health care (+0.1%) and tech (+0.1%)
+•	Honeywell Aerospace was the worst performer in the S&P 500 as it slumped 23% after reducing its outlook for the full-year to reflect supply chain issues
+•	Software firms Datadog, Figma Inc. and Hubspot sank on Thursday after results
+•	Among key US companies expected to report before the bell: 
+o	Take-Two
+o	Under Armour
+o	Vistra Corp
+o	PPL
+Asian Markets
+Asian stocks fluctuated in a narrow range, as investors opted for caution ahead of US payrolls data and concrete signs of progress on a deal to open the Strait of Hormuz.
+•	The MSCI Asia Pacific Index swung between a loss of as much as 0.5% and gain of 0.4%
+•	South Korea’s Kospi declined as much as 2.2% before paring the loss, while indexes rose in mainland China
+Macro
+•	Iran will seek to bar US and Israeli ships from the Strait of Hormuz and require compensation from hostile countries before they’re allowed to sail through it, according to local media reports on a proposed Iran-Oman deal to manage the crucial waterway.
+•	President Donald Trump ordered new tariffs as well as price floors on imported polysilicon used in semiconductors and solar panels, warning that US reliance on foreign supplies threatens national security.
+•	The Houthis conducted a “large-scale” attack against forces from Yemen’s Saudi-backed government, and struck the southwestern Saudi region of Najran, raising concerns over a widening of the US-Israeli war on Iran into a broader conflict.
+•	China’s exports and imports kept up a strong growth pace while moderating in July, as a global investment supercycle in artificial intelligence helped offset disruptions to trade from extreme weather.
+M&A and ECM
+•	Avolta has acquired a 51% stake in Penha Duty Free Group, a duty-free operator running 25 points of sale in the Caribbean.
+•	The UK’s sluggish market for initial public offerings is leaving private equity and venture capital firms with fewer exit routes, increasing their reliance on sales to other buyout shops or large corporates for returns, PitchBook data show.
+•	Czech Billionaires Play Outsized Role in European M&A Market
+European Corporate News
+•	Starlink Mobile Threat Exaggerated, T-Mobile CEO Says: FT
+•	HSBC Sells Tokyo Headquarters, Plans Move to New Building
+•	Trump Administration Considers Order on Autism and Vaccines
+•	Jane Street Looks to Rework $11 Billion Debt Into Private Credit
+•	Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump
+•	Universal Music Is Struggling to Impress Investors: Soundbite
+•	Daimler Truck Eyes New US Plant to Bolster Tech, Lessen Tariffs
+•	Generali Had Less Than €100m Hit From July Wildfires, CFO Says 
+o	Generali to Start up to €500m Share Buyback
+Other European Companies Expected to Report Today
+•	Allianz SE (ALV GR)
+•	Banca Monte dei Paschi di Sien (BMPS IM)
+•	Bittium Oyj (BITTI FH)
+•	CSG NV (CSG NA)
+•	Daimler Truck Holding AG (DTG GR)
+•	EnBW Energie Baden-Wuerttember (EBK GR)
+•	Eutelsat Communications Saca (ETL FP)
+•	FBD Holdings Plc (FBD ID)
+•	Kingspan Group Plc (KSP ID)
+•	Lanxess AG (LXS GR)
+•	Lotus Bakeries NV (LOTB BB)
+•	Mobimo Holding AG (MOBN SW)
+•	Muenchener Rueckversicherungs- (MUV2 GR)
+•	Oesterreichische Post AG (POST AV)
+•	Porsche Automobil Holding SE (PAH3 GR)
+•	Rosenbauer International AG (ROS AV)
+•	Tokmanni Group Corp. (TOKMAN FH)
+•	Unipol Assicurazioni SpA (UNI IM)
+Main Rating Changes
+UPGRADES:
+•	1&1 raised to neutral at New Street Research; PT 10 euros
+•	CapMan raised to buy at Inderes; PT 2.10 euros
+•	EasyJet raised to neutral at JPMorgan; PT 715 pence
+•	Harbour Energy raised to neutral at Goldman; PT 250 pence
+•	Hoegh Autoliners raised to buy at Nordea; PT 186 kroner
+•	IONOS Group SE raised to overweight at Morgan Stanley
+•	SRV Group raised to accumulate at Inderes; PT 7 euros
+•	Solteq raised to reduce at Inderes; PT 23 euro cents
+DOWNGRADES:
+•	Alexandria Group cut to reduce at Inderes; PT 14.50 euros
+•	Digia cut to accumulate at Inderes; PT 6.80 euros
+•	MTU Aero cut to underweight at Barclays; PT 420 euros
+•	QT Group cut to accumulate at Inderes; PT 38 euros
+•	QT Group cut to hold at SEB Equities; PT 34 euros
+•	Raute cut to reduce at Inderes; PT 16 euros
+INITIATIONS:
+•	OHB SE rated new overweight at JPMorgan; PT 300 euros
+Economic Agenda (All times CET)
+•	07:30: (Fra) 2Q ILO Unemployment Rate, est. 8.2%, prior 8.1%
+•	07:30: (Fra) 2Q ILO Mainland Unemployment Rate, est. 8.0%, prior 7.9%
+•	08:00: (Ger) June Industrial Production SA MoM, est. 0.2%, prior 0.9%
+•	08:00: (Ger) June Industrial Production WDA YoY, est. 0.1%, prior 0%
+•	08:00: (Ger) June Exports SA MoM, est. 0.5%, prior 0.9%
+•	08:00: (Ger) June Imports SA MoM, est. 2.0%, prior -2.5%
+•	08:00: (Ger) June Trade Balance SA, est. 17.2b, prior 19.1b
+•	08:45: (Fra) June Trade Balance, prior -6.93b
+•	08:45: (Fra) June Current Account Balance, prior -100m
+•	09:00: (Spain) June Home sales YoY, prior -7.3%
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+AD	Koninklijke Ahold Delhaize NV	0.51	EUR
+HEIA	Heineken NV	0.76	EUR
+ 
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/07/2026 01:07:44 [BFW]
+(Bloomberg) 
+•	Oil prices are extending a jump sparked by Iran attacking “hostile targets” in the Strait of Hormuz and with Tehran seeking to bar US and Israeli ships from the waterway in a deal with Oman. President Trump told reporters things are “moving along good” in the Strait. The Houthis also conducted a “large-scale” attack on forces from Yemen’s Saudi-backed government. Brent is back to ~$84/bbl and WTI futures are sitting above $78/bbl.
+•	The European Central Bank was only made aware of the coordinated US-Japan yen intervention, where the US sold euros to buy yen, after it was executed, the Financial Times reports. The yen has now given up half its post-intervention gains, in part after the dollar notched its best day in two weeks. USD/JPY traded near 158.40.
+•	Alphabet sold $25 billion in investment-grade bonds having attracted $115 billion in orders for the sale, one of the largest books so far for AI-related debt. UK-based AI cloud platform Nscale is telling potential investors it has $51 billion in contracted revenue ahead of a planned US IPO.
+•	Market-maker Jane Street is negotiating with a group of investors, including Pimco, on a private credit deal to rework its $11 billion debt pile. Results from publicly-traded private credit firms, meanwhile, have suggested a focus on trimming bad investments or lowering leverage six months on from the industry being engulfed by concerns about its stability.
+•	Apollo has agreed to buy UK budget airline EasyJet for £5.7 billion ($7.7 billion) after rival suitor Castlelake pulled out of the process. EasyJet shares closed below the level of Apollo’s bid on Thursday and have consistently been below the escalating offer prices on doubts about the regulatory hurdles the deal will face.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

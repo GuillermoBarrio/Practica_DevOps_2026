@@ -1,0 +1,172 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.87%
+- S&P Equal Weight (SPW): -0.81%
+- 7 Magníficas (BM7T): -1.08%
+- EuroStoxx50: 0.25%
+- Stoxx600: 0.08%
+- Ibex35: 0.60%
+- Nikkei: -0.30%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Energy (+0.38%)
+- Peor sector S&P500: Consumer Staples (-1.93%)
+- Mejor sector Stoxx600: Recursos básicos (+1.61%)
+- Peor sector Stoxx600: Salud/Farma (-0.90%)
+
+### RATIOS PE Y CRECIMIENTO DE EPS (Datos de cierre de la semana pasada):
+- S&P500: PE 21.3x, crecimiento EPS estimado +34.2% (2026)
+- Stoxx600: PE 15.8x, crecimiento EPS estimado +16.4% (2026)
+
+
+**Importante:** Integra estas observaciones de ratios PE y crecimiento de de EPS en el análisis de renta variable.
+
+
+
+### TENDENCIAS DE MERCADO (análisis de 10 semanas):
+
+**Rendimiento en últimas 10 semanas:**
+- El S&P Financials ha subido en 9 de las últimas 10 semanas
+- El S&P Telecoms ha subido en 8 de las últimas 10 semanas
+- El S&P Financials ha bajado en 9 de las últimas 10 semanas
+- El S&P Telecoms ha bajado en 8 de las últimas 10 semanas
+
+**Rachas alcistas consecutivas:**
+- El S&P Telecoms acumula 6 semanas consecutivas al alza
+- El Dax acumula 4 semanas consecutivas al alza
+- El EuroStoxx-50 acumula 3 semanas consecutivas al alza
+
+**Índices/sectores en niveles extremos:**
+- El Stoxx 600 se encuentra en niveles de máximos
+- El EuroStoxx-50 se encuentra en niveles de máximos
+- El Dax se encuentra en niveles de máximos
+
+**Importante:** Integra estas observaciones de tendencia en el análisis de renta variable, de forma natural y sin forzar la inclusión de todos los datos. Destaca los más relevantes.
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $93.3/barril
+- Petróleo WTI: $86.2/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.69%
+- Bono Alemania: 3.25%
+- Bono España: 3.69%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 22.5 puntos básicos, y a marzo 2027 una subida de 32.7 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41.1 puntos básicos, y a marzo 2027 una subida de 52.6 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27.4 puntos básicos, y a marzo 2027 una subida de 45.5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Earnings Hand the Baton to Macro
+Before the European Bell: Earnings Hand the Baton to Macro
+By Neil Campling
+08/17/2026 01:36:27 [BFW]
+(Bloomberg) --  (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+Stocks look set for modest gains to start the week, supported by a lack of escalation in military action in the Middle East and fairly benign price action in oil and bonds.  
+Euro Stoxx 50 futures were 0.3% higher at 7:25 a.m. CET, while contracts on the FTSE 100 were up 0.2%. 
+Asian stocks are higher, with Hong Kong’s Hang Seng Index among the region’s leaders. Japan’s benchmark Nikkei 225 is up 0.3%, as a former Finance Ministry official called on the BOJ to raise rates at every meeting to ease pressure on the yen. Futures point to gains in the US later. Brent crude has ticked up since Europe went home Friday.  
+Markets at a Glance: 
+ 
+Source: Bloomberg
+Over the weekend, more ships came under attack in the Strait of Hormuz as talks to end the war in the Middle East remain stalled and the US readies new economic measures to force Iran to capitulate. Covert oil flows out of the Persian Gulf are helping keep global prices in check, while copper is heading toward a record high on the LME as supply tensions build. 
+A quieter week on the corporate front shifts focus to macro data. This includes flash Eurozone PMIs Friday — the last before the September ECB meeting — and Germany’s ZEW reading Tuesday. UK consumer price data due Wednesday are expected to show inflation accelerating for the first time in four months. 
+UK house prices fell 2% month-on-month in August, according to Rightmove data out today, marking the largest monthly drop in prices since December 2022. ECB policymakers are starting to reemerge. Chief Economist Lane speaks in Dublin on Monday and Tuesday, before President Lagarde attends a WEF event in Geneva mid-week. 
+ 
+Key questions for the week ahead, as posed in the Week in Review, include: Can Europe’s earnings momentum survive the end of reporting season? Will oil finally break the equity market’s resilience? And can the Stoxx 600 turn consolidation into another breakout?
+JPMorgan strategist Mislav Matejka highlights Europe is attempting to move from a model targeting efficiency and economies of scale toward a greater focus on security, resiliency, and strategic autonomy. The implication for markets is a longer lasting, policy-supported capex cycle that — relative to the US — starts from deeper under-investment in defence readiness, grid build, and industrial capacity, so the catch up could be meaningful.
+ 
+The heatwave in Europe continues to generate headlines. Belgian firefighters battled a large wildfire near the German border on Sunday, and “horrific” conditions grip UK hospitals unprepared for the heat. Staying in Britain, the Ministry of Defense is stepping-up scrutiny of its supply chain after discovering some naval drones transmitted signals to China.
+Germany’s pension system is about to undergo major reform and has money managers racing to have new products ready. The rise in France’s unemployment rate last quarter was a result of the war in the Middle East and the heat waves that have struck the country, according to Labor Minister Jean-Pierre Farandou.
+In AI, Alibaba’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta, Alphabet. and domestic peers to become the world’s No. 1 AI model. And while the technology may be assumed to be less prevalent in Europe than the US, company executives in the region mentioned AI more than four times on average on post-earnings conference calls this season — an all-time peak and above the average of 0.5 mentions since 2016. 
+In other assets, bond traders fear around $70 billion in phantom liabilities don’t appear on major AI companies’ balance sheets, but could materialize at the worst possible time. Jane Street posted roughly $15 billion of losses in July — its first monthly slump in about a decade. 
+In corporate news:
+•	Portugal agreed to buy a 13.7% stake in power-grid operator REN from Spanish billionaire Amancio Ortega’s investment firm.
+•	Ferrari’s first all-electric vehicle defied criticism to sell for $40 million, making it the most expensive new car ever sold at auction.
+•	Russian company KS Logistics has asked President Vladimir Putin to impose temporary management over Nestle’s Russian legal entities, Kommersant reports.
+European Sectors in Focus
+•	Copper-exposed stocks could be a focus on Monday as the metal rallied toward a record high, with spot prices’ gap over contracts for delivery in three-months on the LME hitting the highest since 2021 and signaling a supply crunch. 
+o	Watch stocks including Antofagasta, KGHM Polska, Atalaya Mining Copper, as well as diversified miners include Glencore, Anglo American, Boliden
+US Markets
+US equities traded sideways after Europe closed on Friday, with the S&P 500 down 0.2% at the close while the technology-heavy Nasdaq 100 declined 0.1%.
+•	Five of the 11 S&P 500 sectors fell on Friday, led by health care (-0.6%), information technology (-0.4%) and consumer discretionary (-0.4%) 
+o	Six sectors gained, with led by energy (+1.4%), utilities (+0.6%) and materials (+0.5%)
+•	PayPal shares spiked on a report that the firm is in talks to sell itself to a group that includes Stripe and the private equity firm Advent International
+•	Shares of homebuilder DR Horton and retailer Macy’s rose postmarket after Berkshire Hathaway disclosed stakes in a filing, while Nvidia disclosed a nearly $21 billion stake in SpaceX and a $30 billion holding in Intel in a filing
+Asian Markets
+Asian stocks edged higher at the start of the week, as technology shares gained. The MSCI Asia Pacific Index rose as much as 0.3%, led by TSMC, Kioxia and Alibaba, after dropping 0.2% earlier in the session.
+•	China, Taiwan and Hong Kong indexes were higher, while Korea’s market was shut
+•	A Bloomberg gauge for Asian semiconductors rose 1% to extend its longest streak in almost two months
+Macro
+•	President Donald Trump said he told the Pentagon to “substantially reduce” joint military exercises with South Korea and indicated his shift was driven by frustration that the longtime US ally hadn’t provided more support for his war with Iran.
+•	Japan’s economic growth unexpectedly slowed in the three months through June, a result that may complicate the Bank of Japan’s policy communications as it weighs the timing of its next rate increase.
+Commodities
+•	Gold extended a two-week advance as weaker US retail sales data weighed on the US dollar, making bullion cheaper for most buyers.
+European Corporate News
+•	SIG Group Appoints Ann-Kristin Erkens as New CEO
+•	Argenx’s Efgartigimod Meets Phase 3 Primary Endpoint in Myositis
+•	Banks Cheer as Trump’s Regulatory Rollback Spreads to Europe
+•	Dimon Warns UK’s Healey Against Raising Taxes on Banks, FT Says
+•	‘Too Big to Ban’ WuXi AppTec Gains 100% on GLP-1 Chokehold
+•	Idled Dodge Muscle Car Plant May Be Sold, Canada Union Says
+European Companies Expected to Report Today
+•	Hiag Immobilien Holding AG (HIAG SW)
+•	Royal Unibrew A/S (RBREW DC)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Accelleron raised to buy at Berenberg; PT 92 Swiss francs
+•	Evolution raised to buy at ABG; PT 1,000 kronor
+•	Maersk raised to hold at Arctic Securities; PT 20,000 kroner
+•	Michael Page PLC raised to neutral at BNP Paribas; PT 220 pence
+•	SpareBank 1 SMN raised to buy at SB1 Markets; PT 222 kroner
+•	Sunborn International raised to reduce at Inderes
+DOWNGRADES:
+•	Endur ASA cut to hold at SEB Equities; PT 117 kroner
+•	Inter Cars cut to accumulate at Noble Securities SA
+INITIATIONS:
+•	Sdiptech rated new neutral at SB1 Markets; PT 251 kronor
+•	Vonovia reinstated underperform at BNP Paribas; PT 19 euros
+Economic Agenda (All times CET)
+•	08:00: (Norway) July Trade Balance, prior 61.9b
+•	10:00: (Swiss) Aug. Total Sight Deposits CHF, prior 462.4b
+•	10:00: (Swiss) Aug. Domestic Sight Deposits CHF, prior 432.6b
+Central Banks
+•	11:30: ECB’s Lane Speaks in Dublin
+Conferences
+•	Handelsbanken Tech Days
+•	Enercom: The Energy Investment Conference
+•	15th Annual Needham Virtual Industrial Tech, Robotics, & Power 1x1 Conference
+•	Rosenblatt’s 6th Annual Technology Summit: The Age of AI (Part II)
+European Ex-dividends
+Ticker	Company Name	Currency
+JMAT LN Equity	Johnson Matthey PLC	GBp
+Ex-dividend dates according to Bloomberg data, 
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/17/2026 01:11:39 [BFW]
+(Bloomberg) 
+•	Japanese government bonds decline on fiscal concerns and speculation that the Bank of Japan may raise interest rates in the coming months. The 10-year JGB yield rises to the highest since 1996. Bonds in Australia and New Zealand also drop.
+•	Copper in London climbs toward a record on signs of intense competition for supply. Spot price trades as much as $478 a ton above contracts for delivery in three months on the LME, the biggest gap since a major squeeze in 2021. Other industrial metals gain, while gold and silver are also higher.
+•	The greenback weakens against all its G-10 peers, with the kiwi and krona among the top performers in the space, as soft US data of late weigh on bets for Fed rate hikes. In Asia, the Taiwan dollar and Thai baht lead gains.
+•	Hong Kong stocks rally with the Hang Seng Tech headed for its best session this month. Alibaba shares rise as much as 2.5%. The company’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta, Alphabet and domestic peers to become the world’s No. 1 AI model.
+•	Anthropic’s 2Q revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News. Meanwhile, Stripe finalized a deal to buy AI firm OpenRouter for more than $7 billion, people familiar with the matter said.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

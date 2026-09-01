@@ -1,0 +1,182 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.43%
+- S&P Equal Weight (SPW): 0.65%
+- 7 Magníficas (BM7T): 0.64%
+- EuroStoxx50: 0.63%
+- Stoxx600: 0.59%
+- Ibex35: 0.76%
+- Nikkei: -0.57%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Materials (+2.20%)
+- Peor sector S&P500: Utilities (-2.31%)
+- Mejor sector Stoxx600: Recursos básicos (+2.49%)
+- Peor sector Stoxx600: Petróleo (-0.68%)
+
+### RATIOS PE Y CRECIMIENTO DE EPS (Datos de cierre de la semana pasada):
+- S&P500: PE 21.3x, crecimiento EPS estimado +34.5% (2026)
+- Stoxx600: PE 15.9x, crecimiento EPS estimado +16.3% (2026)
+
+
+**Importante:** Integra estas observaciones de ratios PE y crecimiento de de EPS en el análisis de renta variable.
+
+
+
+### TENDENCIAS DE MERCADO (análisis de 10 semanas):
+
+**Rendimiento en últimas 10 semanas:**
+- El S&P Financials ha subido en 9 de las últimas 10 semanas
+- El S&P Telecoms ha subido en 8 de las últimas 10 semanas
+- El S&P Financials ha bajado en 9 de las últimas 10 semanas
+- El S&P Telecoms ha bajado en 8 de las últimas 10 semanas
+
+**Rachas alcistas consecutivas:**
+- El S&P Telecoms acumula 6 semanas consecutivas al alza
+- El Dax acumula 4 semanas consecutivas al alza
+- El EuroStoxx-50 acumula 3 semanas consecutivas al alza
+
+**Índices/sectores en niveles extremos:**
+- El Stoxx 600 se encuentra en niveles de máximos
+- El EuroStoxx-50 se encuentra en niveles de máximos
+- El Dax se encuentra en niveles de máximos
+
+**Importante:** Integra estas observaciones de tendencia en el análisis de renta variable, de forma natural y sin forzar la inclusión de todos los datos. Destaca los más relevantes.
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $93.1/barril
+- Petróleo WTI: $85.6/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.71%
+- Bono Alemania: 3.26%
+- Bono España: 3.71%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 25.2 puntos básicos, y a marzo 2027 una subida de 36.6 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41.7 puntos básicos, y a marzo 2027 una subida de 58.6 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27.2 puntos básicos, y a marzo 2027 una subida de 43.4 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: A Packed Macro Week Moves Into View
+Before the European Bell: A Packed Macro Week Moves Into View
+By Neil Campling
+08/24/2026 01:32:06 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+European equities are heading for a muted start to the week, but elsewhere there’s plenty keeping traders busy, from carry trades and dollar shorts to bond “tourists” and a flood of AI paper.
+Euro Stoxx 50 futures were 0.1% lower at 7:25 a.m. CET, while contracts on the FTSE 100 were flat. 
+Asian stocks are lower, with Hong Kong weaker as investors digest a large cash call from Alibaba. There’s also profit taking on the Kospi as heavyweight Samsung fell as much as 9.4% as a shareholder return plan underwhelmed. Futures point to losses in the US later. 
+Meanwhile, oil is ticking lower with some barrels managing to move out of the Strait of Hormuz late Friday, while details of US economic measures against Iran expected later today could shape the next directional move. 
+Markets at a Glance:
+ 
+Source: Bloomberg
+There are plenty of catalysts on the horizon for investors this week including Nvidia earnings, the Fed’s preferred PCE inflation gauge, Bessent’s potential new fiscal plan and the Jackson Hole meeting in the US. Closer to home, we get the German key Ifo indicator, French consumer confidence and flash inflation numbers for Spain and France. 
+Speaking of inflation, the costs of the AI buildout are set to get more expensive as prices of servers with Nvidia chips are said to be getting a 15% price hike. Elsewhere, the financing of data center projects are increasingly drawing interest from junk bond “tourists.” 
+Key questions for the week ahead, as posed in the Week in Review, include: Does $90 oil keep the rate-hike trade alive? Is this still a pullback within an uptrend, or the start of a broader de-risking? Is JD Sports an isolated warning, or the start of a softer consumer tape?
+ 
+In deals, Banca Generali is evaluating the unsolicited bid from Monte Paschi, while Partners Group will exit its private credit investment in Gong cha after Bain Capital bought the bubble-tea brand. Shell’s US chemical assets are said to have drawn interest from potential bidders including ExxonMobil and LyondellBasell, the FT reports.    
+In other assets, hedge funds have slashed short-only positions on European diesel to the lowest in over two years. And Russia is considering grain purchases to offset export disruptions.  
+In geopolitics, Ukraine offered Russia a truce on attacks against ships carrying agricultural commodities through the Black Sea, but Moscow rejected the deal. Italy’s government extended a tax cut on diesel fuel until Wednesday. Canada will apply counter-tariffs on $20 billion of US products on Sept. 8, escalating the feud rocking one of the world’s biggest trading relationships.
+Bloomberg Intelligence strategist Laurent Douillet notes European 10-year bond yields have risen 40bp since the end of June, pushing lower equity-duration sectors (energy, financials and materials) toward the top of the return table. The move is driven primarily by a higher term premium (34 bp), which is weighing disproportionately on companies with more back-end-loaded earnings.
+Citi strategist Beata Manthey highlights that the long-term case for holding European equities in global portfolios may be improving. Alongside the potential for a continued cyclical uplift, market support comes from idiosyncratic tailwinds including fiscal stimulus and the region’s emerging role as an AI diversifier, Manthey adds.
+Lastly, Europe’s luxury giants are seeing signs of green shoots in the key Chinese market, leading to a pickup in earnings estimates for the sector. 
+ 
+European Sectors in Focus
+•	Watch European miners such as Fresnillo, Hochschild, Endeavour, Rio Tinto and Anglo American as gold and iron ore advanced while copper eased from a record high. The sector delivered its biggest outperformance versus the Stoxx 600 index in two years last week.
+US Markets
+The S&P 500 traded sideways after Europe closed Friday, finishing up 0.4% for the session. The tech-heavy Nasdaq 100 gained 0.3% to halt a five-day slide.
+•	Seven of the 11 S&P 500 sectors gained on Friday, led by materials (+2.2%), healthcare (+1.3%) and financials (+1%)
+•	Four sectors dropped, led by utilities (-2.3%) and energy (-0.2%)
+•	PDD Holdings is one key earnings release due before the bell
+Asian Markets
+Asian stocks are falling at the start of what’s set to be the busiest week for earnings this reporting season, dragged down by losses in some tech heavyweights.
+•	The MSCI Asia Pacific Index dropped as much as 1%
+•	Samsung’s shares tumbled as much as 9.4% as investors were underwhelmed by its plans to return as much as 110 trillion won ($80 billion) to shareholders this year
+•	Alibaba’s stock plunged by as much as 10% after it raised HK$80 billion ($10.2 billion) in Hong Kong’s biggest secondary offering, selling shares at a discount
+Macro
+•	Germany must consider partnering with private money to rebuild its deteriorating infrastructure, Martin Blessing tells the Financial Times in an interview.
+•	European Union lawmaker Raphael Glucksmann will participate in a primary vote organized by the Socialist party this year to pick its candidate for the 2027 French presidential election.
+•	China said it continues to support a diplomatic end to the US-Iran war, in a delayed statement released shortly before Washington is set to unveil measures to punish Tehran’s economic partners.
+•	Hong Kong’s ambitious plan to create a technology hub near the mainland Chinese border faces an early test after the first residential sales in its Northern Metropolis got off to a middling start, highlighting the hurdles to turning the area into a new economic engine.
+•	A key funding program announced by China nearly half a year ago to shore up investment has yet to get off the ground, according to Caitong Securities Co., a delay that could blunt its impact as economic growth grinds slower.
+Commodities
+•	Gold climbed to the highest in more than three months after the US Treasury’s bold intervention in the bond market revived concerns about a weaker dollar and pushed investors toward alternatives.
+•	Iron ore climbed to the highest in nearly a month as rising steelmaking costs and expectations of stronger seasonal demand fueled a broader rally across China’s ferrous markets.
+•	Copper edged lower from a record close, as traders weighed the impact of higher prices on demand following a major supply squeeze.
+•	A wave of heavy downpours in Brazil, the world’s biggest producer of coffee, not only delayed harvesting but also compromised quality in key producing regions, tightening the availability of sought-after beans suitable for the best blends sold by Starbucks, Luigi Lavazza and Illycaffe.
+M&A and ECM
+•	Investment in UK financial technology firms fell to the lowest level since at least 2016 in the first half of this year, as funders flock to companies tied to artificial intelligence and can show long-term growth.
+European Corporate News
+•	Eni Sees Commercial Fusion Plant in Europe by Early 2040s: FT
+•	RedBird Exploring Deal to Become Premiership Rugby Backer: Sky
+•	Zyn Pouches With Higher Nicotine Content Get FDA Authorization
+•	BP’s Head of Nymex Natural Gas Trading Departs for Gunvor
+•	Denmark Reports TotalEnergies to Police Over Oil Spills 
+•	Magnora Data Center Signs Network Connection Deal in Finland
+European Companies Expected to Report Today
+•	Allreal Holding AG (ALLN SW)
+•	BW Offshore Ltd. (BWO NO)
+•	Goodwin Plc (GDWN LN)
+•	Lechwerke AG (LEC GR)
+•	Plazza AG (PLAN SW)
+•	Reitir fasteignafelag hf (REITIR IR)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Cellnex raised to overweight at Barclays; PT 38 euros
+•	Diploma raised to overweight at JPMorgan; PT 8,250 pence
+•	INWIT raised to overweight at Barclays; PT 8.60 euros
+•	Kesla raised to reduce at Inderes; PT 4.10 euros
+•	Safestore raised to overweight at Barclays; PT 670 pence
+•	Sandvik raised to buy at SEB Equities; PT 445 kronor
+•	Segro raised to equal-weight at Barclays; PT 970 pence
+DOWNGRADES:
+•	Big Yellow Group cut to underweight at Barclays; PT 820 pence
+•	Chemometec cut to hold at SEB Equities; PT 500 kroner
+•	Gigante Salmon cut to neutral at SB1 Markets; PT 6.10 kroner
+•	Kainos cut to neutral at BNP Paribas; PT 1,240 pence
+•	Merlin Properties cut to equal-weight at Barclays
+•	Shurgard cut to underweight at Barclays; PT 22 euros
+•	Solteq cut to sell at Inderes; PT 23 euro cents
+•	Swiss Prime cut to equal-weight at Barclays; PT 125 Swiss francs
+•	Unite Group cut to underweight at Barclays; PT 460 pence
+INITIATIONS:
+•	AstraZeneca rated new outperform at CICC; PT 14,514 pence
+•	Eurofins Scientific reinstated buy at William O’Neil
+Economic Agenda (All times CET)
+•	07:00: (Finland) July PPI MoM, prior -0.7%
+•	07:00: (Finland) July PPI YoY, prior 6.7%
+•	08:00: (Norway) July Credit Indicator Growth YoY, prior 4.4%
+•	08:00: (Swede) Sweden 2Q Residential Construction
+•	10:00: (Swiss) Aug. Total Sight Deposits CHF, prior 458.8b
+•	10:00: (Swiss) Aug. Domestic Sight Deposits CHF, prior 433.5b
+Central Banks
+•	14:15: (Swede) Riksbank’s Bunge Speaks in Stockholm
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/24/2026 01:16:37 [BFW]
+(Bloomberg) 
+•	Asian stocks fell with the Hang Seng Tech measure dropping almost 4%, while the Kospi declined ~3%. Samsung Electronics slid as investors were disappointed by a new shareholder return package that favors dividends. Chinext slumped more than 3.5% and the Taiex lost 0.7%.
+•	Alibaba raised HK$80 billion ($10.2 billion) in Hong Kong’s biggest secondary share sale on record, underscoring its willingness to amass and spend vast sums to take the lead in global AI. Some of Nvidia’s biggest customers have been told the prices of servers containing its AI chips are going up more than 15% in many cases with memory chip costs soaring. Separately, Nvidia is discussing investing in Perplexity in an equity round valuing the AI startup at more than $30 billion, The Information reported, citing unidentified people familiar with the talks.
+•	Oil fell after two weeks of gains, with Brent trading near $93/bbl. Treasury Secretary Bessent is set to unveil details of the US economic isolation plan aimed at Iran. Saudi Arabia held talks with London brokers about a state-backed plan for war and political risk insurance, the Financial Times reported. Meanwhile, Shell’s US chemicals assets have drawn interest from potential bidders including ExxonMobil, LyondellBasell, Apollo and Kuwait Petroleum Corporation’s chemicals arm, the FT reported.
+•	Canadian Prime Minister Carney’s government sees little chance of resuming talks with President Trump before the US midterm elections after trade negotiations collapsed, according to people familiar with the matter. The US implemented a new 50% tax on imports of hundreds of Canadian items including furniture, plastics, plywood and electrical equipment on Saturday. The loonie weakened 0.3% versus the dollar.
+•	Hedge funds are ramping up bearish dollar bets as they await more details on Bessent’s new fiscal plan to address the highest borrowing costs in years. Spot Bitcoin ETFs had their strongest weekly inflow in 10 months last week. Gold climbed to the highest in more than three months before trading near $4,640/ounce.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

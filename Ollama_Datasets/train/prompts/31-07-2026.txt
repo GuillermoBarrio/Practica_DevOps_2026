@@ -1,0 +1,207 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.28%
+- S&P Equal Weight (SPW): -0.81%
+- 7 Magníficas (BM7T): -0.90%
+- EuroStoxx50: -1.57%
+- Stoxx600: -2.05%
+- Ibex35: 0.38%
+- Nikkei: -0.76%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Real Estate (+1.26%)
+- Peor sector S&P500: Consumer Staples (-0.62%)
+- Mejor sector Stoxx600: Media (+-1.14%)
+- Peor sector Stoxx600: Bancos (-3.05%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $92.0/barril
+- Petróleo WTI: $89.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.49%
+- Bono Alemania: 3.30%
+- Bono España: 3.73%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,3 puntos básicos, y a marzo 2027 una subida de 30,9 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,7 puntos básicos, y a marzo 2027 una subida de 53,2 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,4 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Bulls Return After Valuation Pullback
+Before the European Bell: Bulls Return After Valuation Pullback
+By Farah Elbahrawy and Bre Bradham
+07/31/2026 01:37:14 [BFW]
+(Bloomberg) -- European stocks are poised to end the week higher, as sentiment rebounds after a sharp valuation pullback in this year’s standout AI trades.
+Euro Stoxx 50 futures rose 0.8% at 7:25 a.m. CET, with contracts on the FTSE 100 up 0.5%. Nasdaq 100 futures led gains in the US after the underlying benchmark jumped 3.4% and the Philadelphia Semiconductor Index soared 8.2%.
+In Asia, South Korean stocks surged by a record, rebounding on optimism that the unwinding of leveraged trades is nearing its end and the AI buildout will boost profits. SK Hynix surged close to the 30% daily limit, helped by a direct share purchase by SK Group Chairman Chey Tae-won. In Japan, the BOJ kept its policy settings unchanged after authorities were said to have entered the currency market overnight to support the yen.
+Renewed bullishness in markets is being driven in large part by results from US Big Tech firms and signs that, for some, AI spending is paying off — underpinned by strong demand across the sector. Amazon shares rallied in late trading after it reported cloud-computing revenue accelerated for a fifth straight quarter. On the flip side, Apple shares fell after component shortages weighed on the company’s sales forecast.
+ 
+“Tighter financial conditions and capex angst weigh on Tech valuations, but earnings leadership remains largely intact. This may help providing a floor to the space,” said Barclays strategist Emmanuel Cau.
+In Europe, Axa reported first half profit higher than the same period a year ago, while assessing the impact of wildfires currently affecting France and Spain. Credit Agricole reported better-than-expected results for the second quarter, as income rose at its French retail business and its asset management arm saw record profit. Holcim lifted its full-year guidance after reporting better-than-expected first-half profit. Brunello Cucinelli lifted its full-year guidance.
+On the corporate front, Alimentation Couche-Tard said it agreed to buy a controlling stake in Polish retailer Żabka Group SA for about 32.6 billion zloty ($8.7 billion) to expand its retail footprint in central and eastern Europe. Meanwhile, Czech billionaire Michal Strnad has purchased about 14% of Pirelli from Chinese state-owned Sinochem, in a move that could help ease pressure over Beijing’s role in the Italian tiremaker.
+Elsewhere, investors are monitoring developments about Leopold Aschenbrenner’s hedge fund Situational Awareness as its assets slumped to about $10 billion after Ken Griffin’s Citadel stepped in to buy the bulk of its public stock bets. Aschenbrenner’s fund is said to have began liquidating some of its equity positions after suffering losses in the AI stock rout in recent weeks, and this week’s sales have repaid the banks for the leverage Situational Awareness used to juice its bets.
+JPMorgan strategists including Khuram Chaudhry said the quality style “has yet to meaningfully rotate, leaving the trade with ample room to run.” They’re long quality and “short junk” as equity sentiment had slipped close to negative and as money supply growth peaks, among other reasons, they wrote in a note.
+ 
+On the economic front, July inflation figures due at 11 a.m. CET will provide the ECB with fresh insight ahead of its September meeting. Consumer prices likely rose 2.9% from a year ago.
+The MSCI Europe Index is set for 14% EPS growth in the second quarter, beating analysts’ expectations of 11.5% ahead of the season. 
+Markets at a Glance
+ 
+Source: Bloomberg
+ 
+Among other earnings since European markets closed on Thursday: 
+•	OMV reported second quarter earnings that exceeded expectations, driven by significantly higher chemical prices.
+•	Siemens Healthineers boosted its adjusted earnings per share guidance for the full year and cut its revenue forecast.
+•	UMG posted 2Q Ebitda EU610 million, -0.2% y/y, estimate EU643 million.
+•	Leonardo reported Ebita for the second quarter that beat the average analyst estimate.
+•	Saint-Gobain reported operating income for the first half-year that beat the average analyst estimate.
+•	Worldline reported adjusted Ebitda for the first half-year that beat the average analyst estimate.
+•	Enel posted 1H adjusted net income EU3.93 billion, +2.8% y/y, estimate EU3.75 billion.
+•	Puig reported 1H net income EU262.8 million, -4.4% y/y, estimate EU256.2 million.
+•	IG Group reported adjusted pretax profit for the first half-year of GBP291.8 million vs. GBP261.5 million y/y.
+•	Euronext posted adjusted Ebitda for the second quarter that beat the average analyst estimate.
+ 
+Equity Insights and Strategy
+•	The divergence between Europe and the US is extending beyond just stock performance, with a pullback in S&P 500 valuations driving its premium to the Stoxx 600 to the lowest in four years.
+European Sectors in Focus
+•	Watch Apple suppliers such as STMicro and Infineon after its sales forecast missed.
+US Markets
+US stocks ended Thursday on a high note, with the S&P 500 rallying by about 90 bps after European markets closed. The tech-heavy Nasdaq 100 rose 3.4% for its best day since March, as Microsoft Corp. soared 16% for its strongest day since 2008. 
+•	Six of the 11 S&P 500 sectors rose on Thursday, led by information technology (+5.2%), consumer discretionary (+1.6%) and industrials (+1%) 
+o	Underperforming sectors included communication services (-2.5%), consumer staples (-2.2%) and health care (-1.7%)
+•	Amazon shares surged more than 9% in postmarket trading after its second quarter AWS net sales beat estimates, while Apple shares fell more than 6% after its sales forecast disappointed
+•	Among the companies expected to report earnings before the bell in the US on Friday are: 
+o	CBOE
+o	Linde
+o	T. Rowe Price
+o	Franklin Resources
+o	ExxonMobil
+o	Colgate-Palmolive
+o	Eaton
+o	Roku
+o	Chevron
+o	AbbVie
+o	Moderna
+Asian Markets
+Asian stocks rallied the most since April, following the gains in US tech stocks higher. The MSCI Asia Pacific Index rose as much as 4.5%, while South Korea’s Kospi surged by a record 17%. 
+•	Samsung Electronics Co. and SK Hynix Inc. led gains in Korea, as each surged more than 20%
+•	The MSCI gauge is on pace for a second straight week of gains, despite the volatility in recent sessions
+Macro
+•	Japan’s authorities refrained from confirming that they intervened in the foreign-exchange market during overnight trading after the yen’s sharp rally, while also hinting at some support from overseas counterparts including US officials.
+•	Europe’s wildfire threat is shifting as new blazes force evacuations from southeast England to the Greek island of Crete, while cooler weather helps firefighters gain ground in southwest France.
+M&A and ECM
+•	Banco Santander SA said it will launch an offer to buy the outstanding shares of its Brazilian subsidiary it doesn’t already own.
+•	French public investment bank Bpifrance SACA plans to sell a 2.5% stake in network operator Orange SA, a deal worth about €1.1 billion ($1.27 billion) at current trading levels.
+•	An Iveco Group NV shareholder called on owners of the Italian truck maker to withhold support for Tata Motors’ buyout offer, arguing the price doesn’t represent fair value.
+•	London-based retail trading firm IG Group agreed to buy US sports prediction market Underdog for as much as $1.3 billion.
+European Corporate News
+•	Petrus Says Iveco Holders Shouldn’t Back Tata’s €14.10/Shr Offer
+•	Employers Trim Obesity Drug Benefits for Workers, Cigna Says
+•	UK’s FCA to Publish Daily Stock-Trading Data Starting Friday
+•	Deutsche Expects Record IG Supply as Hyperscalers Enter Europe
+•	HSBC to Sell A$36b Australian Home, Personal Loans to Blackstone
+Other European Companies Reporting Today
+•	AXA SA (CS FP)
+•	Alpha Bank SA (ALPHA GA)
+•	Amadeus It Group SA (AMS SM)
+•	Bank of Ireland Group Plc (BIRG ID)
+•	Clariant AG (CLN SW)
+•	Comet Holding AG (COTN SW)
+•	Corbion NV (CRBN NA)
+•	Covestro AG (1COV GR)
+•	Credit Agricole SA (ACA FP)
+•	DiaSorin SpA (DIA IM)
+•	ERG SpA (ERG IM)
+•	Engie SA (ENGI FP)
+•	Ferretti SpA (YACHT IM)
+•	Forvia SE (FRVIA FP)
+•	Fuchs SE (FPE GR)
+•	Fugro NV (FUR NA)
+•	Hensoldt AG (HAG GR)
+•	Holcim AG (HOLN SW)
+•	IMI Plc (IMI LN)
+•	ITV Plc (ITV LN)
+•	International Consolidated Air (IAG LN)
+•	Interroll Holding AG (INRN SW)
+•	Intertek Group Plc (ITRK LN)
+•	Melrose Industries Plc (MRO LN)
+•	NatWest Group Plc (NWG LN)
+•	OMV AG (OMV AV)
+•	Pearson Plc (PSON LN)
+•	Prosegur Cia. de Seguridad (PSG SM)
+•	Proximus Sadp (PROX BB)
+•	Puma SE (PUM GR)
+•	RHI Magnesita NV (RHIM LN)
+•	Raiffeisen Bank International (RBI AV)
+•	Rightmove Plc (RMV LN)
+•	Semapa-Sociedade de Investimen (SEM PL)
+•	Siemens Healthineers AG (SHL GR)
+•	Taylor Wimpey Plc (TW/ LN)
+•	Umicore SA (UMI BB)
+•	Unicaja Banco SA (UNI SM)
+•	Warehouses De Pauw (WDP BB)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	CVS Group raised to overweight at Barclays; PT 1,630 pence
+•	H&R raised to buy at Baader Helvea; PT 7.50 euros
+•	Mondi raised to equal-weight at Morgan Stanley; PT 810 pence
+•	Siltronic raised to buy at Deutsche Bank; PT 100 euros
+•	Subsea 7 raised to neutral at SB1 Markets; PT 290 kroner
+DOWNGRADES:
+•	3i Infra cut to sell at Canaccord
+•	Arcadis cut to hold at KBC Securities; PT 42 euros
+•	Greencoat Renewables cut to hold at Canaccord
+•	Greggs cut to sector perform at RBC; PT 1,960 pence
+•	Intl Public Partnerships cut to sell at Canaccord
+INITIATIONS:
+•	TRESTATE GA rated new corporate at Edison Investment Research
+•	Vienna Insurance rated new buy at William O’Neil
+Economic Agenda (All times CET)
+•	06:30: (Nether) July CPI EU Harmonized YoY, est. 2.6%, prior 2.5%
+•	08:00: (UK) July Nationwide House PX MoM, est. 0.1%, prior 0%
+•	08:45: (Fra) July CPI YoY, est. 1.8%, prior 1.8%
+•	08:45: (Fra) July CPI EU Harmonized YoY, est. 2.0%, prior 2.0%
+•	08:45: (Fra) June PPI YoY, prior 3.0%
+•	09:55: (Ger) July Unemployment Claims Rate SA, est. 6.3%, prior 6.3%
+•	10:00: (Italy) July Consumer Confidence Index, est. 92.8, prior 92.4
+•	10:00: (Italy) July Manufacturing Confidence, est. 88.8, prior 88.4
+•	10:00: (Italy) July Economic Sentiment, prior 95.2
+•	10:00: (Spain) May Current Account Balance, prior 1.9b
+•	10:30: (Portug) July CPI EU Harmonized YoY, prior 3.1%
+•	11:00: (Eurozone) July CPI MoM, est. 0.1%, prior -0.1%
+•	11:00: (Eurozone) July CPI YoY, est. 2.9%, prior 2.8%
+•	11:00: (Italy) July CPI EU Harmonized YoY, est. 2.9%, prior 3.0%
+•	12:00: (Portug) June Industrial Production YoY, prior -2.3%
+Central Banks (All times CET)
+•	07:15: (Swiss) SNB Publishes 1H Results
+•	13:15: (UK) BOE Chief Economist Pill Speaks at MPC Briefing
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+07/31/2026 01:18:03 [BFW]
+(Bloomberg) 
+•	Asian stocks rallied with the Kospi jumping as much as 17%, a record. The Nikkei gained ~4%, while the Taiex advanced over 8%. The Hang Seng index was the laggard, sitting little changed. In the US, the SOX index had its biggest gain since April 2025. Microsoft made market history, adding nearly half a trillion dollars to its value.
+•	Assets at Situational Awareness have slumped to about $10 billion after Citadel stepped in to buy the bulk of its public stock bets. Leopold Aschenbrenner’s hedge fund tried selling some of its stakes in privately held companies as it rushed to raise cash to meet a barrage of margin calls this week, according to people familiar with the matter.
+•	The Bank of Japan kept its policy rate at 1%, while signaling less caution about economic growth. The vote was 8-1 as Hajime Takata called for a back-to-back rate hike. The yen gave up intervention-driven gains to trade near 160.60/dollar following the rate decision, with traders turning their attention to Governor Kazuo Ueda’s press conference later Friday.
+•	Apple’s stock tumbled in late US trading after component shortages weighed on the company’s sales forecast. Amazon shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter. Anthropic said its AI models breached three organizations during cybersecurity tests that went awry.
+•	Credit Agricole reported better-than-expected results for the second quarter, as income rose at its French retail business and its asset management arm reported a record profit. Axa reported first half profit higher than the same period a year ago, as the Paris-based insurer assesses the impact of wildfires currently affecting France and Spain.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

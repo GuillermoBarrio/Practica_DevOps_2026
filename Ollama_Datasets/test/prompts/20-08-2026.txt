@@ -1,0 +1,206 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.21%
+- S&P Equal Weight (SPW): 1.02%
+- 7 Magníficas (BM7T): 1.23%
+- EuroStoxx50: -0.37%
+- Stoxx600: -0.11%
+- Ibex35: -0.44%
+- Nikkei: 1.17%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Health Care (+3.52%)
+- Peor sector S&P500: Industrials (-0.89%)
+- Mejor sector Stoxx600: Recursos básicos (+3.30%)
+- Peor sector Stoxx600: Bancos (-1.50%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $91.9/barril
+- Petróleo WTI: $86.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.64%
+- Bono Alemania: 3.26%
+- Bono España: 3.70%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Stocks Can’t Shake the Losing Streak
+Before the European Bell: Stocks Can’t Shake the Losing Streak
+By Farah Elbahrawy
+08/20/2026 01:33:46 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+European stocks look set to extend their slow summer grind lower as investors await fresh catalysts, with much of the region’s good news already priced in.
+Euro Stoxx 50 futures were 0.1% lower at 7:28 a.m. CET, while FTSE 100 futures were flat. US stock futures were higher after a mixed session as the Treasury unveiled plans to buy back longer-maturity debt, while Fed minutes showed officials favored a rate hike last month amid a “highly uncertain” inflation outlook.
+Markets at a Glance: 
+ 
+Source: Bloomberg
+In Asia, stocks are rallying with investors rewarding memory chipmakers after SK Hynix unveiled plans for a record buyback. A report that Samsung Electronics is planning to announce a shareholder return plan topping 100 trillion won ($72 billion) fueled further optimism. 
+Any good news for the semiconductor space will be welcomed by those with long positions. It’s been a volatile year for the crowded trade, which hit a record high in June before tumbling on concerns about overspending on artificial intelligence. An attempted rebound has since stalled, derailed by rising bond yields. The focus will now turn to Nvidia’s earnings next week for signs of whether AI demand has further room to grow.
+ 
+The rally in European stocks has also faded in August with lower volumes and a lack of any positive news to reignite the gains. The Stoxx 600 has dropped for six days, the longest losing streak since September 2023. 
+ 
+UK bank stocks may be in focus as the Green Party has said it wants to apply a 38% windfall tax on lenders, adding to the pressure from the left on Prime Minister Andy Burnham to target the City of London. Second-quarter profits at HSBC increased 60% to $10.1 billion, and Barclays, Natwest and Lloyds posted cumulative profits in the first-half of almost £30 billion. Their shares have significantly outperformed the FTSE 100 over the past two years.
+ 
+On the geopolitical front, Trump announced plans to inflict what he called “an ECONOMIC D-DAY” against Iran. Trump didn’t specify what measures he would take but his threat to target Iran’s trading partners, none of which he cited by name, put an immediate focus on China, which buys the bulk of Iran’s oil. Brent crude held above $91 a barrel.
+Meanwhile, China’s relationship with the European Union is in focus as it’s using new legal powers to block EU scrutiny of alleged state support for its companies, adding friction ahead of an October deadline to resolve outstanding trade disputes. 
+Earnings since the Wednesday close include:
+•	Novonesis boosted its FY 2026 organic sales growth outlook to 7-8% from 5-7%
+•	GN Store Nord raises full-year 2026 adjusted EBITA margin guidance to 9%-10%, from a prior range of 8%-9% 
+o	2Q Revenue DKK2.17 billion, estimate DKK3.12 billion
+•	Cyfrowy reported 2Q net income of 199.9 million zloty, +77% y/y, estimate 156.6 million zloty
+•	Swiss Prime reported Ebitda for the first half-year of CHF208.7 million
+•	Orkla reported 2Q net income NOK1.67 billion, -73% y/y, estimate NOK1.56 billion
+European Sectors in Focus
+•	Poultry and salmon stocks in Europe, as alternatives to beef, may be active after mad cow disease was found at a farm in Scotland, prompting authorities to limit animal movement while they investigate.
+US Markets
+The S&P 500 pared gains by about 30 basis points after the European market close, closing 0.2% higher. The Nasdaq 100 fell 0.2% on the session, notching its fourth consecutive day of losses.
+•	Seven of the 11 S&P 500 sectors gained, led by healthcare (+3.5%), consumer discretionary (+2.1%) and materials (+1.7%)
+•	Four sectors declined with the main laggards being industrials (-0.9%), information technology (-0.7%) and financials (-0.6%)
+•	Nordson rose in postmarket trading after the manufacturer boosted its adjusted earnings per share guidance for the year
+•	Here are key earnings due before the bell: 
+o	Walmart
+o	Alibaba
+o	Deere
+Asia Markets
+Asian stocks are rising, led by gains in South Korea, as a retreat in global bond yields helped calm worries over elevated borrowing costs.
+•	The MSCI Asia Pacific Index rose as much as 1.8%, with SK Hynix surging as much as 15% on a share buyback plan
+•	South Korea’s benchmark rose as much as 6.7% while Japan and Hong Kong are also gaining
+•	Samsung climbed as much as 10% after MoneyToday reported the company plans to announce a shareholder return program
+Macro
+•	Climate change could cost London as much as £36 billion ($50 billion) a year by the 2050s, the Mayor of London’s office said in a report.
+•	The tentative trade deal between the US and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25% and cut duties on Canadian auto exports to 15%, according to people familiar with the matter.
+•	Australia’s unemployment rate unexpectedly rose in July, supporting the Reserve Bank’s view that the labor market is likely to loosen and prompting traders to pare bets on another interest-rate increase.
+•	China is responding to closer cooperation between the Philippines and Japan by expanding its presence east of Taiwan in an apparent bid to establish jurisdiction over waters in the Philippine Sea, according to the Asia Maritime Transparency Initiative.
+•	South Korea sought China’s support in reviving talks with North Korea as President Donald Trump pushes for a meeting with Kim Jong Un despite Pyongyang’s denial of any top-level contact.
+Commodities
+•	A historic squeeze on the copper market eased somewhat after large inflows of readily available metal into the London Metal Exchange, although signs of underlying physical tightness remain.
+•	Gold was largely holding its biggest gain in six months after the US Treasury Department made a surprise move to rein in long-term borrowing costs.
+M&A and ECM
+•	Freenet AG is nearing a deal to buy out minority investors in its television streaming platform Waipu.TV after abandoning plans to list the business, people with knowledge of the matter said.
+•	Coca-Cola HBC holder’s offering of 5.1 million shares launches, with the public-side ABB starting via JP Morgan.
+European Corporate News
+•	Hong Kong’s Student Housing Crisis Spurs Bank Lending Boom
+•	NEW DEAL: UBS AG Up to CNY2b 5Y Panda Bond Offering
+•	Essity To Buy Kenvue’s Brazil Feminine Care Unit for $284m
+•	Morgan Stanley Said to Hire Barclays Tech Dealmaker Tim Luke
+•	Santander Brasil Issues BRL600.3m Subordinated Financial Notes
+•	Aurinia Gains After Settling Drug Patent Dispute With Teva
+•	Poland to Take Steps Regarding Windfall Tax on Orlen: Minister
+•	GTT Gets Order From HD KSOE for Tank Design of Two LNG Carriers
+European Companies Expected to Report Today
+•	ALK-Abello A/S (ALKB DC)
+•	Aegon Ltd. (AGN NA)
+•	Attendo AB (ATT SS)
+•	B2 Impact ASA (B2I NO)
+•	Banque Cantonale Vaudoise (BCVN SW)
+•	Better Collective A/S (BETCO SS)
+•	Bure Equity AB (BURE SS)
+•	CTS Eventim AG (EVD GR)
+•	Centiel AG (CNTL SW)
+•	Endur ASA (ENDUR NO)
+•	GN Store Nord AS (GN DC)
+•	Gubra A/S (GUBRA DC)
+•	Hays Plc (HAS LN)
+•	Hoegh Autoliners ASA (HAUTO NO)
+•	Holmen AB (HOLMB SS)
+•	Hufvudstaden AB (HUFVA SS)
+•	Irish Continental Group Plc (IR5B ID)
+•	Karnov Group AB (KAR SS)
+•	Kid ASA (KID NO)
+•	Kinepolis Group NV (KIN BB)
+•	Mayr Melnhof Karton AG (MMK AV)
+•	Montea NV (MONT BB)
+•	New Wave Group AB (NEWAB SS)
+•	Norconsult Norge AS (NORCO NO)
+•	Novonesis Novozymes B (NSISB DC)
+•	Odfjell SE (ODF NO)
+•	Orkla ASA (ORK NO)
+•	SP Group A/S (SPG DC)
+•	Sbo AG (SBO AV)
+•	Swiss Prime Site AG (SPSN SW)
+•	Tonies SE (TNIE GR)
+•	Uniqa Insurance Group AG (UQA AV)
+•	VGP NV (VGP BB)
+•	Zug Estates Holding AG (ZUGN SW)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	BW LPG raised to buy at Clarksons; PT 250 kroner
+•	Himalaya Shipping raised to buy at Clarksons; PT 175 kroner
+•	Huber+Suhner raised to buy at Bank Vontobel; PT 255 Swiss francs
+•	Jyske raised to buy at SEB Equities; PT 1,200 kroner
+•	Leroy raised to buy at Arctic Securities; PT 50 kroner
+•	Michelin raised to overweight at JPMorgan; PT 42 euros
+•	Nokian Renkaat raised to neutral at JPMorgan; PT 15 euros
+•	Norden raised to buy at Clarksons; PT 400 kroner
+•	Sartorius Stedim raised to buy at UBS; PT 260 euros
+•	Sartorius raised to buy at UBS; PT 300 euros
+DOWNGRADES:
+•	Aryzta cut to sell at UBS; PT 40 Swiss francs
+•	Castellum cut to hold at ABG; PT 135 kronor
+•	Columbus cut to hold at SEB Equities; PT 11 kroner
+•	Merck KGaA cut to neutral at UBS; PT 150 euros
+INITIATIONS:
+•	Gens Aurea rated new buy at Jefferies; PT 15 euros
+•	Logitech rated new neutral at JPMorgan; PT 83 Swiss francs
+•	Thor Medical ASA rated new buy at ABG; PT 7 kroner
+Economic Agenda (All times CET)
+•	08:00: (Ger) July PPI YoY, est. 2.5%, prior 1.8%
+•	08:00: (Ger) July PPI MoM, est. 0.6%, prior -0.3%
+•	11:00: (Euro zone) June Construction Output MoM, prior 0.4%
+•	11:00: (Euro zone) June Construction Output YoY, prior 1.2%
+•	12:00: (UK) Aug. CBI Trends Total Orders, est. -40, prior -45
+•	12:00: (UK) Aug. CBI Trends Selling Prices, est. 14, prior 11
+Central Banks
+•	09:30: (Sweden) Aug. Riksbank Policy Rate, est. 1.750%, prior 1.750%
+Conferences
+•	Nordea Equities Small & Mid Cap Days 2026
+•	Nordea seminar
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+AAL	Anglo American PLC	0.23	USD
+CNA	Centrica PLC	2	GBp
+CTEC	Convatec Group PLC	0.02166	USD
+CVC	CVC Capital Partners PLC	0.262793	EUR
+ENT	Entain PLC	0.103	GBP
+GLB	Glanbia PLC	0.1892	EUR
+IHG	InterContinental Hotels Group PLC	0.645	USD
+IMB	Imperial Brands PLC	41.68	GBp
+INVP	Investec PLC	21	GBp
+LGEN	Legal & General Group PLC	6.24	GBp
+MNDI	Mondi PLC	0.0942	EUR
+PLUS	Plus500 Ltd	0.5135	USD
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/20/2026 01:18:30 [BFW]
+(Bloomberg) 
+•	Government bonds rise across Asia as Treasuries extend gains, led by the long-end on US plans to boost buybacks of such debt. The Australian 10-year yield drops after unexpectedly soft jobs data. In Japan, a 20-year JGB auction drew solid demand, while 30-year yields tumbled 9.5 basis points.
+•	Stocks in Asia rally, led by a jump of almost 6% in South Korea’s Kospi Index with SK Hynix surging on a share buyback plan. By sector, regional biotech and vaccine producers track US peers higher. Moderna and Merck said their personalized cancer vaccine helped cut the recurrence of melanoma in a large, late-stage trial. Moderna soared 177% in US trading on Wednesday. US equity futures edge higher, while European peers down.
+•	President Trump announced plans to inflict what he called an “economic D-Day” against Iran. He didn’t specify what those measures would be. Trump also warned any country that provides a “lifeline” to Iran will face consequences. Brent crude futures trade above $91 a barrel.
+•	A tentative US-Canada trade deal would lower tariffs on certain Canadian exports of steel and aluminum to 25% and cut duties on Canadian auto exports to 15%, people familiar with the matter said. The loonie edges up against the greenback.
+•	Total US public debt surpassed $40 trillion for the first time, and has now surged by a third in less than five years. Meantime, Fed minutes showed that several officials favored a rate hike last month, while many indicated that policy tightening would be necessary if inflation persisted.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

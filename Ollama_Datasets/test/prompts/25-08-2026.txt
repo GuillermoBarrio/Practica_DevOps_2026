@@ -1,0 +1,178 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.28%
+- S&P Equal Weight (SPW): 0.10%
+- 7 Magníficas (BM7T): -0.18%
+- EuroStoxx50: -0.22%
+- Stoxx600: 0.00%
+- Ibex35: 0.69%
+- Nikkei: 0.45%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Consumer Staples (+1.76%)
+- Peor sector S&P500: Info Tech (-1.59%)
+- Mejor sector Stoxx600: Ocio/viajes (+1.73%)
+- Peor sector Stoxx600: Petróleo (-1.57%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $92.2/barril
+- Petróleo WTI: $85.2/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.71%
+- Bono Alemania: 3.25%
+- Bono España: 3.71%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 27.8 puntos básicos, y a marzo 2027 una subida de 39.7 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 42.9 puntos básicos, y a marzo 2027 una subida de 55.5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 32.7 puntos básicos, y a marzo 2027 una subida de 49.3 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Global Stocks Find a Firmer Footing
+Before the European Bell: Global Stocks Find a Firmer Footing
+By Neil Campling
+08/25/2026 01:36:02 [BFW]
+(Bloomberg) -- (Click here or type SQUA <GO> to listen to Bloomberg’s new EMEA Equities Squawk) 
+European stocks look set for modest gains at the open, tracking some late-session strength in the US, albeit on the second-lowest trading volumes of the year.
+Euro Stoxx 50 futures were 0.3% higher at 7:25 a.m. CET, while contracts on the FTSE 100 were up 0.1%. 
+Asian stocks are steady, as the AI trade continues to disperse. South Korea initially reflected the sharp drop in the US memory names Monday, while Japan is a notable out-performer with banks among the gainers. Futures point to gains in the US later. 
+Markets at a Glance: 
+ 
+Source: Bloomberg
+Treasury Secretary Scott Bessent on Monday promised an “economic onslaught against Iran’s financial connections around the globe,” risking a collision course with its main trading partner, China. The speech gave few details and Bessent conceded it was more of a warning shot. 
+Dollar debasement trades remain in focus across the globe. US Treasury buybacks are still a hot topic despite Bessent stopping short of announcing any new bond measures. Gold climbed to the highest in more than three months, Bitcoin touched intraday levels not reached since mid-May and carry trades for both G10 and emerging markets strengthened.
+ 
+A number of Wall Street strategists say Treasury buybacks will do little to cut long rates and High Frequency Economics caution the action may be a test to “seize control of monetary conditions” away from the Fed. Stan Druckenmiller, Bessent’s early mentor, wrote “governments defending prices against fundamentals always lose” in an opinion column in the Wall Street Journal.
+Closer to home, macro data is in focus today, with the Ifo survey of German firms set to shed light on whether the country’s struggling industry can stage a rebound this year. Stronger-than-expected GDP growth in the first half of 2026 showed Germany was relatively resilient to higher energy prices, prompting Bloomberg Economics to raise 2026 growth forecast to 0.9% from 0.5%. French consumer confidence data for August will show if repeated heat waves and higher pump prices are taking a more persistent toll on consumers.
+Positioning in Europe remains the strongest on aggregate among developed markets despite a modest deterioration in sentiment, according to Citigroup strategists including David Chew. Recent flows were driven mainly by new short bets in the Euro Stoxx 50 and the DAX, while European banks and the FTSE 100 witnessed increased long unwinds. Overall, positioning is still moderately bullish. The chief market strategist at Man Group, Kristina Hooper, notes Europe is in a bright spot underscored by the positive impact of defense spending. 
+Analyst rating changes include a DKSH downgrade to hold at Berenberg, who cited risk-reward as no longer being compelling, and guidance that is increasingly reliant on flawless 2H execution. Citi raised its recommendation on Next to buy from neutral, while Drax was raised to neutral from sell at UBS. Jupiter was initiated with a buy rating at Berenberg, which said the British wealth manager is primed to outperform when a sustained improvement in investor sentiment occurs.
+Meanwhile, Ireland’s government received yet another warning from its fiscal watchdog about not overspending when the economy is already strong as it risks stoking inflation. Elsewhere, Hungary’s central bank is poised to deliver its third consecutive interest rate cut on Tuesday after the inflation rate fell to the lowest level in a decade. 
+UK power equipment firm Aggreko filed for a US IPO which could value the company at about $15 billion. Volkswagen may be active later with the CEO due to address staff at the company’s Wolfsburg plant in the first of a series of townhall gatherings seeking to explain sweeping cost-cutting plans.  
+ 
+In other corporate news: 
+•	Siemens Energy is said to be tapping Goldman Sachs as it prepares to start fielding offers for a majority stake in its steam turbine business
+•	Gerresheimer said that Uwe Röhrhoff has stepped down as interim CEO at his own request, effective immediately
+•	A federal judge turned down AstraZeneca’s bid to overturn a Mississippi law prohibiting pharmaceutical companies from placing drug discount restrictions on certain pharmacies
+•	CD Projekt is targeting the 2028 release window for The Witcher 4
+Equity Insights
+•	A rebound in Chinese imports of semiconductor equipment used in chip manufacturing signals that the worst of the drag tied to the Asian buyer is over for ASML and other leading suppliers.
+ 
+Readers can now subscribe to Equity Insights by clicking here.
+US Markets
+The S&P 500 ended the session down 0.3% while the tech-heavy Nasdaq 100 closed 1% lower, led by chipmakers.
+•	Three of the 11 S&P 500 sectors fell on Monday, led by information technology (-1.6%), energy (-0.8%) and industrials (-0.7%)
+•	Eights sectors gained, led by consumer staples (+1.8%), financials (+1.2%) and utilities (+1%)
+•	Here are the key earnings due to be released before the bell 
+o	Dick’s Sporting Goods
+o	Bank of Montreal
+o	The Marzetti Company
+Asia Markets
+Asia stocks are steady as investors opt for caution ahead of Nvidia earnings later this week. 
+•	The MSCI Asia Pacific equities gauge slipped as much as 0.7% earlier in the session, with chipmakers SK Hynix and Samsung Electronics contributing the most to the decline
+•	South Korea’s Kospi trimmed losses after declining as much as 4.3%
+•	China and Hong Kong indexes also declined while Japan fluctuated
+Macro
+•	The US is set to impose a 7.5% tariff on Chinese goods over allegations of excess manufacturing capacity before a planned summit between Xi Jinping and Donald Trump next month, according to people familiar with the matter.
+•	US-Canada trade talks collapsed after last-minute pressure from Commerce Secretary Howard Lutnick, according to people familiar with the matter, leaving President Donald Trump to impose new tariffs and Canadian Prime Minister Mark Carney vowing retaliation.
+•	UK Prime Minister Andy Burnham said he and other European leaders plan to travel to the US next month to lobby President Donald Trump to let Ukraine access some of its Patriot air defense missile stocks ahead of the winter.
+•	A federal court struck down the Trump administration’s attempt to put a $100,000 fee on visas for some highly-skilled foreign workers in June. Now the administration is trying again — this time through a regulatory process that proposes a broader levy to help finance its wide-ranging immigration crackdown.
+•	The Bank of Japan will probably raise its benchmark interest rate next month, validating widespread market speculation, and follow up with another increase as early as January, according to a former BOJ board member.
+•	Russian President Vladimir Putin said he aims to meet with Indian Prime Minister Narendra Modi at a regional forum next week, while calling for stepped-up trade cooperation between the two nations.
+Commodities
+•	Gold consolidated after a four-day rally sparked by a surprise bond-market intervention that’s revived concerns over US fiscal policy and dollar weakness. Citigroup raised its three-month gold target to $4,800.
+M&A and ECM
+•	Ares Management Corp. led a $400 million private credit deal to support CVC Capital Partners Plc’s purchase of a stake in Chess.com, according to people familiar with the matter.
+European Corporate News
+•	Europe’s Record Heat Is Splitting Stock Winners From Losers
+•	Edmond de Rothschild AM Names Krief CIO, Hires Equities Co-Head
+•	Morgan Stanley, Schroders Join Record Funding for Canva’s Backer
+•	Prudential Flags New Japan Fraud Case During Its Sales Pause
+•	Eiffage Gets Contracts for Waste-to-Energy Plants for €162m
+•	NatWest plots push into US market
+•	DNO to Transfer Non-Core License Interests to Equinor
+European Companies Expected to Report Today
+•	Banque Cantonale de Geneve (BCGE SW)
+•	Cadeler A/S (CADLR NO)
+•	Cham Swiss Properties AG (CHAM SW)
+•	Chesnara Plc (CSN LN)
+•	Constellation Oil Services Hol (COSH NO)
+•	Dermapharm Holding SE (DMP GR)
+•	Epic Suisse AG (EPIC SW)
+•	Espace Real Estate AG (EREHAB SW)
+•	Gulf Keystone Petroleum Ltd. (GKP LN)
+•	Innoscripta SE (1INN GR)
+•	Klaveness Combination Carriers (KCC NO)
+•	Motor Oil Hellas Corinth Refin (MOH GA)
+•	SMG Swiss Marketplace Group AG (SMG SW)
+•	Salmar ASA (SALM NO)
+•	TX Group AG (TXGN SW)
+•	VP Bank AG (VPBN SW)
+•	Zinzino AB (ZZB SS)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Drax raised to neutral at UBS; PT 745 pence
+•	Kitron raised to buy at Pareto Securities; PT 100 kroner
+•	Next raised to buy at Citi; PT 18,400 pence
+DOWNGRADES:
+•	DKSH cut to hold at Berenberg; PT 68 Swiss francs
+INITIATIONS:
+•	Amrize rated new neutral at DA Davidson; PT 40.11 Swiss francs
+•	Cloetta rated new neutral at SB1 Markets; PT 62 kronor
+•	Digi Spain Telecom rated new buy at Citi; PT 8.30 euros
+•	Digi Spain Telecom rated new buy at UBS; PT 7.80 euros
+•	Digi Spain Telecom rated new outperform at BNP Paribas
+•	Digi Spain Telecom rated new overweight at Barclays
+•	HIAG Immobilien reinstated add at Baader Helvea
+Economic Agenda (All times CET)
+•	08:00: (Ger) 2Q GDP NSA YoY, est. 0.9%, prior 0.9%
+•	08:00: (Ger) 2Q GDP WDA YoY, est. 0.9%, prior 0.9%
+•	08:00: (Ger) 2Q GDP SA QoQ, est. 0.2%, prior 0.2%
+•	08:00: (Ger) 2Q Private Consumption QoQ, est. 0.2%, prior 0%
+•	08:00: (Ger) 2Q Capital Investment QoQ, est. 0.2%, prior -1.5%
+•	08:00: (Ger) 2Q Government Spending QoQ, est. 0.9%, prior 1.1%, revised 0.9%
+•	08:45: (Fra) Aug. Consumer Confidence, est. 87, prior 86
+•	09:00: (Spain) July PPI YoY, prior 7.0%
+•	09:00: (Spain) July PPI MoM, prior 0%
+•	10:00: (Ger) Aug. IFO Business Climate, est. 87.2, prior 86.6
+•	10:00: (Ger) Aug. IFO Expectations, est. 87.5, prior 86.7
+•	10:00: (Ger) Aug. IFO Current Assessment, est. 87.0, prior 86.5
+Conferences
+•	Handelsbanken Life Science Innovation Day
+•	Jefferies Semis, IT Hardware & Comm Tech Summit
+•	Jefferies TMT 2026
+•	mwb research German Select Online Conference
+•	Jefferies Chicago Tech Conference
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+NSISB DC	Novonesis (Novozymes) B	0.3668	USD
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/25/2026 01:20:19 [BFW]
+(Bloomberg) 
+•	Bitcoin topped $80,000 for the first time since mid-May. Optimism returned to the long-beaten-down crypto market amid a confluence of bullish signals that forced the liquidation of billions in leveraged bets. Ether also climbed.
+•	Stanley Druckenmiller, the billionaire investor who mentored Scott Bessent in his early career as a hedge fund trader, suggested his former pupil is making a mistake by wading into the bond market. The US Treasury secretary has recently pledged to increase Treasury purchases of long-dated bonds, a move widely seen as an attempt to push down yields. The Treasury 10-year yield added one basis point to 4.71%.
+•	Bessent threatened economic punishment against any country doing business with Iran as part of what he called an “economic D-Day” campaign to isolate the Islamic Republic and end the war. The Trump administration has extended sanctions against the sprawling network of Iranian oil trader Hossein Shamkhani. Brent crude traded near $92 a barrel.
+•	Canada’s government on Tuesday will announce a range of measures to “protect and support” its workers and businesses in response to 50% US tariffs which were applied to about $20 billion of its annual exports on Saturday. The CAD weakened 0.1% against the US dollar.
+•	UK Prime Minister Burnham has halted plans to place Thames Water into administration because of concerns about the cost and legal risk, The Times reported, citing unidentified officials.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

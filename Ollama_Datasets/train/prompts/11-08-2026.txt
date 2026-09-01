@@ -1,0 +1,188 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 1.12%
+- S&P Equal Weight (SPW): 0.20%
+- 7 Magníficas (BM7T): 1.34%
+- EuroStoxx50: 0.74%
+- Stoxx600: 1.64%
+- Ibex35: 1.39%
+- Nikkei: 1.69%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Real Estate (+1.92%)
+- Peor sector S&P500: Materials (0.19%)
+- Mejor sector Stoxx600: Seguros (+2.31%)
+- Peor sector Stoxx600: Bs/Servs personales (0.71%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $86.0/barril
+- Petróleo WTI: $83.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.71%
+- Bono Alemania: 3.33%
+- Bono España: 3.75%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Positioning Shows a Clear Recovery
+Before the European Bell: Positioning Shows a Clear Recovery
+By Neil Campling
+08/11/2026 01:41:55 [BFW]
+(Bloomberg) -- Futures point to a lackluster start to cash trading in Europe, reflecting a subdued finish on Wall Street and a drifting session in Asia. Traders appear to have become used to the protracted uncertainty over progress in the Middle East. 
+Euro Stoxx 50 futures and contracts on the FTSE 100 were steady as of 7:29 a.m. CET. US Treasury yields, gold and European natural gas prices have ticked higher.
+Asian stocks are little-changed, with the Kospi leading the region, while Japan is closed for Mountain Day holiday although the Yen has continued to weaken, erasing half of its rally from recent interventions. Futures point to modest gains in the US later. Brent crude is holding on to Monday’s moves, while gold’s rally briefly pushed on through the $4,400 per ounce level. 
+ 
+Source: Bloomberg
+Citigroup strategists led by David Chew said “Europe remains one of the clearest positioning recovery stories globally.” Activity was dominated by new long accumulation last week, lifting Euro Stoxx 50 and FTSE positioning toward moderately bullish levels.
+ 
+Goldman Sachs strategist Sharon Bell debunks a number of myths about European equities in a note to clients; including that Europe has no growth, has low ROE, always underperforms, that China competition is a huge negative, higher energy prices hit EPS, and the region is cheap because of low growth. Bell also highlights European equities are seeing the best inflows in 10-years excluding 2021.
+On the macro front, Bloomberg Economics’ Global GDP Tracker points to the return of growth momentum, running at an annualized quarterly rate of 4% in July, up from 3.7% previously and above its long-run average of 3.6%. The yuan is possibly 21% undervalued in multilateral and inflation-adjusted terms, based on Bank for International Settlements and IMF data, according to Bloomberg Intelligence.
+ 
+President Trump made sweeping new demands on Iran after Tehran reiterated requests for reparations as part of talks to wind down the conflict, dimming hopes of a quick deal that would reopen the Strait of Hormuz. Seperately, Trump extended a waiver allowing foreign ships to transport oil and other commodities around the US for 90 more days, albeit with new limits. A drone attack on an oil refinery in western Libya destroyed a storage tank, putting oil facilities at risk and potentially aggravating fuel shortages in the OPEC nation.
+In other assets, gold advanced to a two-month high above $4,400 an ounce, with technical buying spurred by the metal’s ascent through the 100-day moving average on Monday. Global gas turbine orders hit a record in the April-to-June quarter on surging growth in power demand, according to JPMorgan. The recent decline in the US dollar hedge ratio is reminiscent of the drop before Trump’s sweeping tariffs in April 2025, which left the US currency vulnerable to a selloff, according to ING. 
+In finance, European private equity firm Exponent has closed a €750 million ($866 million) continuation fund that extends its investment in H&MV Engineering, which works on high-voltage projects and is expanding in the US. UBS is seeking to overturn an arbitration award of deferred compensation to Credit Suisse Group’s former global co-head of foreign exchange and precious metals trading. 
+Data due out later today includes Bank of France’s monthly survey of business leaders from manufacturing, services, construction. 
+Earnings since the European close include: 
+•	Alcon AG reported core EPS for the second quarter 84c vs. 76c y/y, estimate 76c
+•	Patrizia reported operating income for the first half-year of €26.5 million vs. €15.2 million y/y
+So far this morning: 
+•	Bell reported Ebitda for the first half-year of CHF173.2 million vs. CHF159.7 million y/y.
+•	TAG Immobilien now expects 2026 FFO I at the upper end of the guidance range
+•	Storskogen reported sales for the second quarter SEK8.86 billion, estimate SEK8.76 billion
+•	Tecan reported adjusted Ebitda margin for the first half-year of 15.1% vs. 15% y/y
+•	TKH reported adjusted Ebita for the first half-year of €113.7 million vs. €80.2 million y/y
+•	CEZ reported adjusted net income for the first half-year of 17.8 billion koruna vs. 16.7 billion koruna y/y.
+•	Norma reported adjusted Ebit for the second quarter of €7.6 million
+•	Wallenius Wilhelmsen reported Ebit for the second quarter $175.0 million, estimate $179 million
+In corporate news: 
+•	Santander to buy back up to €1.825 billion of shares in a program, representing an amount equivalent to about 25% of the Group’s underlying profit in the first half of 2026.
+•	BP has agreed to sell a 20% stake in the Venezuelan portion of the cross-border Cocuina-Manakin natural gas field to Trinidad and Tobago’s state-owned National Gas Company (NGC), Reuters reports.
+•	PNE says the market interest it received from potential acquirers of up to 100% of its shares are below the current price level of the PNE share.
+Analyst rating changes include Legal & General cut to sell at Goldman and cut to sell at UBS. Saab is raised to overweight at Barclays and Aperam raised to overweight at JPMorgan. 
+European Sectors in Focus
+•	Consumer recovery in the UK took a step-back in July, with retail sales increasing an annual 1.3%, half the pace recorded a year earlier and slower than the 12-month average, the British Retail Consortium said in a report published Tuesday.
+•	Watch gold miners as bullion advanced to a two-month high, rising above $4,400 an ounce.
+US Markets
+US stocks traded sideways after European markets closed on Monday, with the S&P 500 closing about flat. Focus is shifting to inflation data due Wednesday.
+•	Six of the 11 S&P 500 sectors gained, led by energy (+4.6%), health care (+1.7%) and materials (+0.7%) 
+o	Among the decliners: real estate (-1.2%), utilities (-1.1%) and tech (-1.1%)
+•	Nvidia closed down 2.9% after the company announced a partnership with Wall Street investment giants for a $500 billion funding package
+•	Among key US companies expected to report before the bell: 
+o	Sea Ltd
+o	Cardinal Health
+o	Tencent Music
+Asian Markets
+Asian stocks edged higher, led by the tech sector after news that Nvidia and Intel Corp. companies are raising funds that will target the AI boom. 
+•	MSCI Asia Pacific index excluding Japan rose as much as 0.5%, led by technology names Samsung Electronics, TSMC and SK Hynix
+•	Korea’s Kospi rose as much as 1.6%, while Taiwan’s Taiex also gained
+Macro
+•	Federal Reserve Bank of Cleveland President Beth Hammack said it’s possible a number of interest rate hikes may be needed to bring inflation down to the central bank’s 2% target, but she does not want to prejudge what the end point will be.
+•	Australia’s central bank kept its key interest rate unchanged on Tuesday, wagering that higher unemployment and a weakening property market will weigh on economic activity sufficiently to cool inflation.
+•	Gautam Adani won dismissal of US securities fraud charges, ending a blockbuster case that threatened the expansion of the Indian billionaire’s giant conglomerate.
+European Corporate News
+•	Galderma Gets EU Approval for Chin Augmentation Injectible
+•	Louis Vuitton Seeks Liquor License for New HK Store: Report
+•	Idorsia’s QUVIVIQ Class Gets DEA Reclassification Proposal
+•	Pilots Union Enters Further Lufthansa Talks to Solve Pay Dispute
+•	Global Gas Turbine Orders Soar to Record Quarter, JPMorgan Says
+•	Mercedes’ Failing China EV Shows Why German Carmakers Miss Out
+•	Chinese Obesity Drug Stocks Rally on Gan & Lee Europe Deal
+Among European Companies Expected to Report Today
+•	Atalaya Mining Copper SA (ATYM LN)
+•	Bell Food Group AG (BELL SW)
+•	Cancom SE (COK GR)
+•	Demant A/S (DEMANT DC)
+•	Frequentis AG (FQT AV)
+•	Genuit Group Plc (GEN LN)
+•	Himalaya Shipping Ltd. (HSHP NO)
+•	ISS A/S (ISS DC)
+•	InterContinental Hotels Group (IHG LN)
+•	International Workplace Group (IWG LN)
+•	Jungheinrich AG (JUN3 GR)
+•	Lion Finance Group Plc (BGEO LN)
+•	Norma Group SE (NOEJ GR)
+•	Ponsse Oyj (PON1V FH)
+•	RTL Group SA (RTL LX)
+•	Salzgitter AG (SZG GR)
+•	Sparebanken Norge (SBNOR NO)
+•	Spirax Group Plc (SPX LN)
+•	Storskogen Group AB (STORB SS)
+•	Tag Immobilien AG (TEG GR)
+•	Tecan Group AG (TECN SW)
+•	Uniper SE (UN0 GR)
+•	Wallenius Wilhelmsen ASA (WAWI NO)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Acerinox raised to neutral at JPMorgan; PT 16.10 euros
+•	Aperam raised to overweight at JPMorgan; PT 57 euros
+•	Coloplast raised to hold at ABG; PT 460 kroner
+•	Interroll raised to buy at Octavian; PT 1,832 Swiss francs
+•	Outokumpu raised to overweight at JPMorgan; PT 6.50 euros
+•	Saab raised to overweight at Barclays; PT 740 kronor
+DOWNGRADES:
+•	Carl Zeiss Meditec cut to sell at UBS; PT 22.60 euros
+•	Legal & General cut to sell at Goldman; PT 257 pence
+•	Legal & General cut to sell at UBS; PT 280 pence
+•	M&G cut to sell at UBS; PT 330 pence
+•	Maasoeval cut to neutral at SB1 Markets; PT 39.50 kroner
+•	Relais Group cut to accumulate at Inderes; PT 17 euros
+•	Royal Unibrew cut to hold at ABG; PT 490 kroner
+INITIATIONS:
+•	Axactor reinstated buy at Arctic Securities; PT 6.50 kroner
+•	BAE rated new sector perform at RBC; PT 2,200 pence
+•	Babcock reinstated overweight at Barclays; PT 1,380 pence
+•	CSG NV rated new sector perform at RBC; PT 18 euros
+•	CSG NV rated new underweight at Barclays; PT 19 euros
+•	Hugo Boss rated new buy at Berenberg; PT 50 euros
+•	Kongsberg rated new overweight at Barclays; PT 440 kroner
+•	Leonardo rated new outperform at RBC; PT 70 euros
+•	Pelican Aqua Holding rated new buy at SEB Equities; PT 20 kroner
+•	RENK Group rated new overweight at Barclays; PT 60 euros
+•	Rheinmetall rated new outperform at RBC; PT 1,600 euros
+•	Saab rated new sector perform at RBC; PT 600 kronor
+•	Schneider Electric reinstated buy at William O’Neil
+•	Thales rated new outperform at RBC; PT 330 euros
+Economic Agenda (All times CET)
+•	06:30: (Nether) July CPI EU Harmonized YoY +3.0%, est. 2.9%
+•	10:00: (Italy) June Trade Balance Total, prior 4.79b
+Conferences
+•	TD Cowen Hot Wheels Bus Tour with pharmaceutical companies
+European Ex-dividends
+Ticker	Company Name	Dividend Amount	Currency
+EMSN SW 	EMS-Chemie Holding AG	14.65 regular
+3.75 special	CHF
+Ex-dividend dates according to Bloomberg data, see here for more
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/11/2026 01:06:21 [BFW]
+(Bloomberg) 
+•	Oil prices are holding most of their surge from the prior session, with WTI above $82/bbl and Brent close to $88/bbl. President Trump made a sweeping set of new demands for Iran after Tehran reiterated its request for reparations, dimming hopes of a quick deal to reopen the Strait of Hormuz. Gold hit a two-month high and moved past $4,400/oz.
+•	Intel is set to raise $20 billion in its first share sale since it listed in 1971, increasing the amount it was planning to sell after getting more than $100 billion in orders.
+•	Nvidia has struck a deal with a series of private markets giants to invest $500 billion in AI infrastructure. Nasdaq 100 futures are up 0.3%, outperforming S&P 500 and European contracts.
+•	Anthropic has signed a $9.1 billion deal for AI data center capacity with Riot Platforms, a Bitcoin miner which has pivoted to frontier AI. And OpenAI has bought back $7 billion in employee shares ahead of its possible IPO.
+•	Chinese weight-loss drug stocks are rallying after Gan & Lee Pharmaceuticals signed a licensing deal with A. Menarini International Licensing to commercialize its injectable obesity drug in 39 European markets.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

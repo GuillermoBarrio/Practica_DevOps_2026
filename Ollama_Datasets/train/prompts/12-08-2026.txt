@@ -1,0 +1,190 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.36%
+- S&P Equal Weight (SPW): 0.48%
+- 7 Magníficas (BM7T): -0.47%
+- EuroStoxx50: -0.62%
+- Stoxx600: 0.53%
+- Ibex35: 0.75%
+- Nikkei: -0.91%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Industrials (+1.35%)
+- Peor sector S&P500: Health Care (-0.59%)
+- Mejor sector Stoxx600: Bancos (+1.26%)
+- Peor sector Stoxx600: Media (-0.40%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $89.0/barril
+- Petróleo WTI: $83.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.81%
+- Bono Alemania: 3.29%
+- Bono España: 3.65%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 21,5 puntos básicos, y a marzo 2027 una subida de 31 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 41,9 puntos básicos, y a marzo 2027 una subida de 53,5 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 26,6 puntos básicos, y a marzo 2027 una subida de 49,5 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Stocks Need a New Reason to Rally
+Before the European Bell: Stocks Need a New Reason to Rally
+By Levin Stamm
+08/12/2026 01:40:37 [BFW]
+(Bloomberg) -- European stocks are headed for a muted open, continuing a subdued week as investors await fresh catalysts after a strong earnings season. Focus will later turn to US inflation data.
+Euro Stoxx 50 futures were steady at 7:29 a.m. CET, while FTSE 100 futures fell 0.2%. The Stoxx 600 has gained for seven days in a row, its longest up streak since May 2025, coming out of the “Liberation Day” selloff.
+Asian equities gained, buoyed by strong earnings reports from US tech names such as CoreWeave Inc. or Super Micro Computer Inc. Contracts for the Nasdaq 100 also tick higher.
+Markets at a Glance:
+ 
+Source: Bloomberg
+Among the European season’s few remaining earnings, E.On reported adjusted Ebitda for the first half-year that met the average analyst estimate. Vestas Wind Systems lifted its profit guidance for the year after a jump in orders for its wind turbines. The Danish company said it expects a profit margin of between 7% to 9% for the full year, up from 6% and 8% previously.
+ 
+In economic data, July’s US consumer price index reading — expected at 2:30 p.m. CET — should offer clues on the Federal Reserve’s future rate path, after Friday’s weak July jobs report tempered expectations for tighter policy, which had grown after some ratesetters dissented from the Fed’s recent decision to hold steady. Economists surveyed by Bloomberg expect prices paid by US consumers to rise 0.1%, following the prior month’s first decline in six years.
+ 
+Separately, the Bank of France expects the country’s economy to maintain its momentum this quarter and gross domestic product to rise 0.2%, thanks to growth in key sectors and cooler inflation.
+Such data points are likely to determine much of the price action in European stock markets in the next few weeks. Barclays strategists including Emmanuel Makonga note Europe’s momentum trade unwind is by now the second-worst since 2001 as investors have rushed out of crowded positions. 
+ 
+Source: Barclays
+Meanwhile, Bloomberg Opinion’s John Authers notes in his latest column that Europe, and Germany in particular, may currently be underappreciated by investors as evidenced by a supportive macroeconomic backdrop and strong earnings as well as a gap in valuations.
+In geopolitics, Pakistan said the US and Iran are “close to some sort of arrangement” over the Strait of Hormuz, even after both sides appeared to toughen their positions in the long-deadlocked negotiations. Brent crude is up 0.4%, trading at just under $90 per barrel.
+ 
+Some notable rating changes include Akzo Nobel and SBM Offshore being raised to overweight at Barclays. Elsewhere, Melrose Industries was lifted to buy at Kepler Cheuvreux.
+Earnings so far this morning include: 
+•	E.On reported adjusted Ebitda for the first half-year of €5.4 billion, estimate €5.41 billion
+•	ABN Amro raises full-year Commercial Net Interest Income Guidance to €6.8 billion including NIBC
+•	TUI reported net income for the third quarter of €82 million vs. €183.1 million y/y
+•	Bilfinger forecast Ebita margin for the full year of low end of 5.8% to 6.2%, saw 5.8% to 6.2%
+•	K+S raised its Ebitda forecast for the full year. Sees Ebitda €680 million to €760 million, saw €630 million to €730 million, estimate €727.5 million
+•	TKMS boosted its sales forecast for the full year. Sees sales +10% to +12%, saw +2% to +5%
+•	Brenntag reported operating gross profit of €1.15 billion, estimate €1.05 billion
+•	Alma Media reported second-quarter adjusted operating profit at €24.4 million, beating the average analyst estimate of €23.2 million
+•	BNP Paribas Bank Polska reported second quarter net income of 599.8 million zloty, -18% y/y, estimate 599.8 million zloty
+US Markets
+The S&P 500 dropped 25 basis points after European markets closed on Tuesday as oil advanced ahead of the crucial CPI print due later on Wednesday.
+•	Eight of the 11 S&P 500 sectors declined, led by communication services (-2.1%), real estate (-0.9%) and consumer discretionary (-0.8%) 
+o	The three gainers were utilities (+1.1%), energy (+1.1%) and industrials (-0.6%)
+•	Super Micro Computer gave a revenue forecast for the current quarter that topped analysts’ estimates, a sign the booming AI market continues to bolster sales of the company’s servers, sending its shares rallying 7.6% in extended trading.
+•	Coreweave, a provider of computing that powers artificial intelligence systems, soared nearly 16% in late trading after the AI spending frenzy spurred faster sales growth than anticipated
+•	Few notable companies report in the US and Canada before the bell, but Cisco will be among the ones to watch after the close.
+Asia Markets
+Positive signals about AI demand from overnight US earnings lifted Asian stocks, led by gains in technology shares. Investors were also optimistic about shareholder return policies from Korean chipmakers.
+•	MSCI Asia Pacific Index rose as much as 0.8%, led by Samsung, SK Hynix and TSMC
+•	Korea’s Kospi advances as much as 5.1%, heading for a third day of gains
+•	Japan’s benchmark rose, buoyed by banks as robust earnings and expectations for more central bank rate hikes drove buying
+Macro
+•	Around 90,000 of London’s white-collar jobs are poised to transfer to other parts of the UK over the next five years, as Prime Minister Andy Burnham’s devolution drive and the capital’s cost pressures encourage businesses to shift work elsewhere.
+•	President Donald Trump is looking for new policy pledges he can present to voters ahead of the midterm election, including potentially calling on Congress to cut capital gains taxes and create an exemption for certain home sales.
+•	North Korea fired a ballistic missile off its east coast, its second launch in less than a week, as the US and South Korea prepare for annual military exercises that Pyongyang has long denounced as a rehearsal for war.
+•	A container ship paid $4 million to cut the line at the Panama Canal, where wait times are stretching more than a week, as vessels seek alternative routes because of the Iran war.
+Commodities
+•	Chile lowered its copper production forecast for a second straight quarter as weaker output from some of the country’s biggest mines adds to supply constraints that have helped push up prices.
+M&A and ECM
+•	Kingspan announced the acquisition of BMC Manufacturing Group for an initial consideration of €850m, plus potential deferred consideration of up to €50m contingent on achievement of significant profit targets. Analysts see this deal as a good fit for the insulation specialist, with an attractive implied multiple
+•	Swedish firm Acast acquires Backyard Ventures for $20 million.
+European Corporate News
+•	Schindler To Modernize 31 Elevators at GM Building in New York
+•	StanChart Expects to Grow Headcount in India’s GCC Market: COO
+•	China Taps Deutsche Bank as First Foreign Yuan Clearer in Europe
+•	US Opens In-Depth Antitrust Review of Kone-TK Elevator Deal
+•	Bilfinger Extends Contract of CEO Thomas Schulz Until 2032
+•	Rio Tinto Aluminum Smelter to Get Australian Government Bailout
+European Companies Expected to Report Today
+•	ABN Amro Bank NV (ABN NA)
+•	Alma Media Oyj (ALMA FH)
+•	Balfour Beatty Plc (BBY LN)
+•	Bechtle AG (BC8 GR)
+•	Bilfinger SE (GBF GR)
+•	Brenntag SE (BNR GR)
+•	Citycon Oyj (CTY1S FH)
+•	Do & Co. (DOC AV)
+•	Douglas AG (DOU GR)
+•	E.ON SE (EOAN GR)
+•	Freenet AG (FNTN GR)
+•	Grand City Properties SA (GYC GR)
+•	Hannover Rueck SE (HNR1 GR)
+•	Hill & Smith Plc (HILS LN)
+•	Jenoptik AG (JEN GR)
+•	K+S AG (SDF GR)
+•	Matas A/S (MATAS DC)
+•	Nextensa SA (NEXTA BB)
+•	Sampo Oyj (SAMPO FH)
+•	Schott Pharma AG (1SXP GR)
+•	Shurgard Self Storage Ltd. (SHUR BB)
+•	St Galler Kantonalbank AG (SGKN SW)
+•	TUI AG (TUI1 GR)
+•	Thyssenkrupp Nucera AG & KG (NCH2 GR)
+•	Tkms AG& Co. (TKMS GR)
+•	Vestas Wind Systems A/S (VWS DC)
+•	Wienerberger AG (WIE AV)
+•	Wilh Wilhelmsen Holding ASA (WWI NO)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	Akzo Nobel raised to overweight at Barclays; PT 71 euros
+•	Arkema raised to equal-weight at Barclays; PT 56 euros
+•	Austevoll Seafood raised to buy at Arctic Securities
+•	Clariant raised to buy at Berenberg
+•	Grieg Seafood raised to buy at Arctic Securities; PT 35 kroner
+•	MOL raised to buy at Citi; PT 5,300 forint
+•	Melrose Industries raised to buy at Kepler Cheuvreux
+•	Nordic Aqua Partners raised to buy at Arctic Securities
+•	Quilter raised to outperform at Avior Capital Markets
+•	SBM Offshore raised to overweight at Barclays; PT 49 euros
+DOWNGRADES:
+•	Aryzta cut to reduce at Kepler Cheuvreux; PT 40 Swiss francs
+•	DiaSorin cut to sell at UBS; PT 55 euros
+•	Elmera Group ASA cut to sell at Norne Securities; PT 47 kroner
+INITIATIONS:
+•	Allwyn AG rated new equal-weight at Morgan Stanley
+•	ICG rated new buy at Kepler Cheuvreux; PT 2,870 pence
+•	Nederman rated new buy at SB1 Markets; PT 180 kronor
+•	Raspberry PI rated new hold at Berenberg; PT 670 pence
+•	Svedbergs Group rated new buy at SB1 Markets; PT 75 kronor
+Economic Agenda (All times CET)
+•	08:00: (Ger) July CPI EU Harmonized YoY, est. 2.8%, prior 2.8% 
+o	08:00: (Ger) July CPI MoM, est. 0.8%, prior 0.8%
+o	08:00: (Ger) July CPI YoY, est. 2.8%, prior 2.8%
+o	08:00: (Ger) July CPI EU Harmonized MoM, est. 0.9%, prior 0.9%
+•	10:00: (Italy) July CPI EU Harmonized YoY, est. 2.9%, prior 2.9% 
+o	10:00: (Italy) July CPI EU Harmonized MoM, est. -1.0%, prior -1.0%
+o	10:00: (Italy) July CPI NIC incl. tobacco YoY, est. 2.8%, prior 2.8%
+o	10:00: (Italy) July CPI NIC incl. tobacco MoM, est. 0.2%, prior 0.2%
+o	10:00: (Italy) July CPI FOI Index Ex Tobacco, prior 102.8
+•	12:00: (Portug) July CPI EU Harmonized YoY, prior 3.1% 
+o	12:00: (Portug) July CPI EU Harmonized MoM, prior -0.3%
+o	12:00: (Portug) July CPI YoY, prior 3.0%
+o	12:00: (Portug) July CPI MoM, prior -0.5%
+Conferences
+•	J.P. Morgan 2026 Auto Conference
+•	Canaccord Genuity’s 46th Annual Growth Conference
+--With assistance from Christian Dass, Faseeh Mangi, Paul Jarvis, Farah Elbahrawy and Neil Campling.
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/12/2026 01:22:38 [BFW]
+(Bloomberg) 
+•	Nasdaq 100 futures are higher and the Kospi rallies in South Korea, helped by positive signals on AI demand from US earnings. Samsung and SK Hynix extend gains on a report that Singapore’s Temasek plans to invest in the two chipmakers. Stocks are up in Japan and Taiwan too, while Hong Kong indexes decline.
+•	CoreWeave’s revenue beat expectations and its sales backlog grew to $104 billion, while Super Micro’s revenue forecast topped even the highest analyst estimate. Shares of both companies rose in US after-hours trading.
+•	Crude oil extended gains on doubts over a deal to reopen the Strait of Hormuz, with Brent climbing over $89/bbl. Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” on the waterway, but both sides appeared to harden their stance.
+•	The yen weakens against the dollar, edging closer to the 160 level and raising concerns that authorities could intervene again. Traders are ramping up yen options activity ahead of US inflation data later in the day.
+•	The US Justice Department has opened an in-depth antitrust review on the planned €29.4 billion ($34.4 billion) acquisition of TK Elevator by Finland’s Kone, a deal that would create the world’s largest elevator maker.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

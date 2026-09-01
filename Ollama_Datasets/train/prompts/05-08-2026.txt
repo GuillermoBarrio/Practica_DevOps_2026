@@ -1,0 +1,209 @@
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: 0.09%
+- S&P Equal Weight (SPW): 0.45%
+- 7 Magníficas (BM7T): 0.00%
+- EuroStoxx50: -0.22%
+- Stoxx600: -0.82%
+- Ibex35: 0.95%
+- Nikkei: 0.87%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Real Estate (+0.82%)
+- Peor sector S&P500: Health Care (-0.87%)
+- Mejor sector Stoxx600: Salud/Farma (+0.11%)
+- Peor sector Stoxx600: Retail (-1.72%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $88.0/barril
+- Petróleo WTI: $81.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.63%
+- Bono Alemania: 3.15%
+- Bono España: 3.62%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 22,1 puntos básicos, y a marzo 2027 una subida de 31,7 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 42,5 puntos básicos, y a marzo 2027 una subida de 52,0 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 27,1 puntos básicos, y a marzo 2027 una subida de 50,1 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Earnings Push Stocks to Records
+Before the European Bell: Earnings Push Stocks to Records
+By Levin Stamm and Neil Campling
+08/05/2026 01:39:26 [BFW]
+(Bloomberg) -- European stocks are set for fresh record highs after a tech-driven rally in the US, with strong earnings momentum reinforcing the case for the region’s equities.
+Euro Stoxx 50 futures are 0.4% higher at 7:26 a.m. CET, while FTSE 100 futures are up 0.2%. Asian equities rallied, led by chip stocks.
+Contracts for the S&P 500 are also up after the underlying benchmark hit a record high Tuesday. Nasdaq 100 futures rose, even as SpaceX shares tumbled following higher-than-expected AI spending in the firm’s inaugural earnings report. US chipmaker AMD also slumped in late trading after giving an underwhelming sales outlook.
+Markets at a Glance
+ 
+Source: Bloomberg
+Among European key earnings that will shape the day, Novo Nordisk shares will likely follow their ADRs lower at the open, after sales of the new Wegovy weight-loss pill failed to top analysts’ expectations, offsetting the pharma company’s second forecast raise this year. 
+AMD is a fresh disappointment for the chip sector which was just coming back to life after a sharp selloff. In Europe, German chipmaker Infineon has the biggest share-price gain on the Euro Stoxx 50 this year, but has already slumped 28% from an all time high.
+Infineon forecast revenue in the current quarter that beat analysts’ estimates as the German chipmaker profits from rising demand for its data-center chips and price increases.
+ 
+Barclays strategists led by Emmanuel Cau say the “momentum washout has reduced AI froth, allowing sound earnings fundamentals to prevail again.” He added diversification appetite, strong nominal growth as well as lower oil prices should act in favor for Europe, value and cyclicals.
+That’s particularly true as economic momentum in Europe is outpacing a comparable gauge in the US for the first time since before the Iran war. A Citigroup index is at a three-year high, with a positive reading indicating data releases are coming in stronger than expected. 
+ 
+Meanwhile, Brent crude edged lower to trade at $79 per barrel, extending its decline for a third day, on improved prospects for a US-Iran pace deal that was nurtured by news of a call between President Donald Trump Qatar’s Emir Sheikh Tamim Bin Hamad Al-Thani to discuss efforts to de-escalate US-Iran tensions.
+ 
+Earnings since the European close on Tuesday include: 
+•	Novo Nordisk boosted its adjusted change in sales at constant exchange rates forecast for the full year. Sees adjusted change in sales at constant exchange rates -6% to 0%, saw -4% to -12%, estimate -5.9%
+•	Credito Emiliano reported net income for the second quarter EU173.4 million, estimate EU137.7 million
+So far this morning: 
+•	Heineken reported organic beer volume for the second quarter +0.5%, estimate -0.7%
+•	Sandoz Group reported net sales for the second quarter $3.01 billion, estimate $3 billion
+•	Deutsche Post reported revenue for the second quarter €22.37 billion, estimate €21.09 billion
+•	Kloeckner forecast adjusted Ebitda for the full year of €170 million to €250 million
+•	Vonovia reported adjusted Ebitda for the first half-year of €1.46 billion vs. €1.42 billion y/y
+•	Siemens Energy forecast profit margin before special items for the full year of high end of 10% to 12%, saw 10% to 12%
+•	Infineon forecast segment result margin for the fourth quarter of about 23%
+European Sectors in Focus
+•	Watch AI infrastructure stocks, as the shares of firms benefitting from the computing infrastructure buildout for AI fell in late US trading after chipmaker AMD’s forecast disappointed.
+•	In luxury, Chanel’s sales rose by double digits in the first half of the year — topping rivals including LVMH.
+US Markets
+The S&P 500 rose about 50 basis points further after European markets closed on Tuesday to end the session up 1.8% and at an all time high, as optimism grew for an interim deal in Iran focused on the Strait of Hormuz.
+•	The Nasdaq 100 Index rallied 3.3%, while the Philadelphia Semiconductor Index rose 6.6% to notch its best four-day streak since 2020
+•	Nvidia advanced over 2% in post-market trading after Elon Musk touted the company’s Vera Rubin chips
+•	A cautious tone lingered as SpaceX shares fell 7.5% in extended trading after the company projected higher-than-expected spending on its AI business
+•	Advanced Micro Devices slid about 9% after an underwhelming outlook
+•	Among key US companies expected to report before the bell: 
+o	Disney (media reads include RTL, ITV, ProSiebenSat, MFE-MediaForEurope, Canal+ and Viaplay. Leisure reads include Compagnie des Alpes)
+o	Global Payments (reads include Adyen, Nexi and Worldline)
+o	Zimmer Biomet (reads include Smith & Nephew, wider health care suppliers Getinge, Convatec and Coloplast)
+o	Phillips 66 (reads include Shell, BP, TotalEnergies, ENI and Orlen)
+o	Kraft Heinz (reads include Nestle, Unilever, Danone, Kerry, ABF and Premier Foods)
+o	Eli Lilly (reads include Novo Nordisk and Zealand Pharma)
+o	Uber Technologies (reads include Delivery Hero and Prosus)
+o	For more earnings, see here
+Asian Markets
+Asian shares climbed to their highest level since mid-July as investors renewed bets on the artificial intelligence trade, boosting chip stocks. 
+•	The MSCI Asia Pacific Index rose as much as 2.3%, on course for its first gain in three sessions
+•	South Korea’s Kospi Index and Japan’s Nikkei 225 Stock Average rallied more than 3%, while Australian shares hit an all-time high 
+o	Chip stocks remained in focus, with Samsung Electronics and SK Hynix both gaining in Seoul
+•	Asian copper stocks climbed after the metal advanced to its highest level since mid-May
+•	Japan optical component stocks rose, while Chinese peers dropped after Reuters reported that the Trump administration is drafting a ban on imports of some data center components from China.
+Macro
+•	Federal Reserve Bank of Kansas City President Jeff Schmid suggested higher interest rates are needed to achieve the Fed’s price stability goals, and reiterated that inflation is his primary concern
+•	China’s services activity expanded at its weakest pace in nearly two years, a private survey showed, with businesses turning more cautious about an economy that’s increasingly showing signs of further weakness
+•	The Trump administration told ⁠leading AI companies that it will not safety-test open-weight ‌AI ⁠models, Reuters reported
+M&A and ECM
+•	A holder in Verisure, the alarm company that went public in Stockholm last year, offered about 20.1m shares via Morgan Stanley.
+European Corporate News
+•	EQT’s First Bet From €5 Billion EU Fund is Space Startup Iceye
+•	AllianzGI to Buy UOB’s Asset Management Arm for S$555m
+•	Boardroom’s Buyout Owners Said to Tap Goldman for Business Sale
+•	Ex-VW Engineers Plead Not Guilty to US Insider Trading Charges
+•	Santander’s Purchase of Webster Approved by Federal Reserve
+•	Thoma Bravo Sells Majority Stake in Command Alkon to Francisco
+Other European Companies Expected to Report Today
+•	BFF Bank SpA (BFF IM)
+•	Banco BPM SpA (BAMI IM)
+•	Basler AG (BSL GR)
+•	Beazley Plc (BEZ LN)
+•	Beiersdorf AG (BEI GR)
+•	Coca-Cola HBC AG (CCH LN)
+•	Deutsche Post AG (DHL GR)
+•	DoValue SpA (DOV IM)
+•	Fresenius SE & Co. (FRE GR)
+•	Glencore Plc (GLEN LN)
+•	HELLENiQ Energy Holdings S.A (ELPE GA)
+•	Heineken Holding NV (HEIO NA)
+•	Heineken NV (HEIA NA)
+•	Hiscox Ltd. (HSX LN)
+•	Ibstock Plc (IBST LN)
+•	Infineon Technologies AG (IFX GR)
+•	Interpump Group SpA (IP IM)
+•	Kloeckner & Co. SE (KCO GR)
+•	Koninklijke Ahold Delhaize NV (AD NA)
+•	Legal & General Group Plc (LGEN LN)
+•	Lenzing AG (LNZ AV)
+•	Public Power Corp. (PPC GA)
+•	Ringkjoebing Landbobank A/S (RILBA DC)
+•	Sandoz Group AG (SDZ SW)
+•	Shawbrook Group Plc (SHAW LN)
+•	Siemens Energy AG (ENR GR)
+•	Springer Nature AG (SPG GR)
+•	Technoprobe SpA (TPRO IM)
+•	Tenaris SA (TEN IM)
+•	Voestalpine AG (VOE AV)
+•	Vonovia SE (VNA GR)
+•	Wolters Kluwer NV (WKL NA)
+For more earnings, see here
+Main Rating Changes
+UPGRADES:
+•	EQT raised to buy at Citi; PT 385 kronor
+•	Elia Group raised to buy at UBS; PT 147 euros
+•	Gerresheimer raised to neutral at UBS; PT 28.50 euros
+•	Nexans raised to overweight at JPMorgan; PT 183 euros
+•	Pandora raised to buy at ABG; PT 1,000 kroner
+•	Supermarket Income REIT raised to buy at Peel Hunt; PT 100 pence
+•	Technogym raised to buy at UBS; PT 21.30 euros
+DOWNGRADES:
+•	BBVA cut to hold at Deutsche Bank; PT 23.65 euros
+•	Danske Bank cut to neutral at SB1 Markets; PT 400 kroner
+•	Erste Bank Polska cut to neutral at Citi; PT 755 zloty
+•	Ferretti cut to neutral at UBS; PT 3.15 euros
+•	HSBC cut to neutral at Citi; PT 1,570 pence
+•	HSBC cut to underperform at BNP Paribas
+•	QPR Software cut to sell at Inderes; PT 45 euro cents
+•	Rotork cut to sector perform at RBC; PT 503 pence
+•	SEB cut to neutral at SB1 Markets; PT 235 kronor
+•	Zabka cut to neutral at UBS; PT 32 zloty
+INITIATIONS:
+•	Alpha Bank reinstated buy at William O’Neil
+•	Bohus rated new buy at ABG; PT 47 kroner
+•	OHB SE rated new buy at Berenberg; PT 358 euros
+•	OHB SE rated new buy at Jefferies; PT 280 euros
+•	OHB SE rated new neutral at Goldman; PT 250 euros
+•	Savox Communications rated new buy at Nordea; PT 12 euros
+Economic Agenda (All times CET)
+•	08:45: (Fra) June Industrial Production MoM, est. 0.3%, prior -0.1%
+•	08:45: (Fra) June Industrial Production YoY, est. 0.6%, prior 3.2%
+•	09:15: (Spain) July S&P Global Spain Services PMI, est. 54.8, prior 54.2
+•	09:15: (Spain) July S&P Global Spain Composite PMI, est. 53.5, prior 53.3
+•	09:45: (Italy) July S&P Global Italy Composite PMI, est. 51.5, prior 50.8
+•	09:45: (Italy) July S&P Global Italy Services PMI, est. 51.0, prior 50.2
+•	09:50: (Fra) July S&P Global France Services PMI, est. 49.8, prior 49.8
+•	09:50: (Fra) July S&P Global France Composite PMI, est. 49.6, prior 49.6
+•	09:55: (Ger) July S&P Global Germany Services PMI, est. 49.6, prior 49.6
+•	09:55: (Ger) July S&P Global Germany Composite PMI, est. 51.2, prior 51.2
+•	10:00: (Eurozone) July S&P Global Eurozone Services PMI, est. 51.6, prior 51.6
+•	10:00: (Eurozone) July S&P Global Eurozone Composite PMI, est. 51.9, prior 51.9
+•	10:00: (UK) July New Car Registrations YoY, prior 11.4%
+•	10:30: (UK) July S&P Global UK Services PMI, est. 51.8, prior 51.8
+•	10:30: (UK) July S&P Global UK Composite PMI, est. 52.1, prior 52.1
+•	10:30: (UK) July Official Reserves Changes, prior -$5.98b
+•	11:00: (Eurozone) June PPI YoY, est. 4.6%, prior 5.9%
+•	11:00: (Eurozone) June PPI MoM, est. -0.3%, prior 0.2%
+European Ex-dividends
+•	Nordea Bank Abp (€0.34)
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+08/05/2026 01:15:44 [BFW]
+(Bloomberg) 
+•	S&P 500 futures are up following the record close for the index. A jump in US tech stocks is holding too, with Nasdaq-100 contracts rising after a 3.3% surge in the session before, powered by semiconductor stocks and blowout Palantir earnings. Those Tuesday gains have fed into a bounce for the Kospi and Nikkei 225 in Asia. Euro Stoxx 50 futures are also up 0.4%.
+•	The mood in stocks and in bonds has been bolstered by oil prices continuing to ease off, with Brent slipping below $79/bbl. Qatar said a proposal had been drafted and both American and Iranian officials sounded hopeful about reopening the Strait of Hormuz. Treasury yields are dipping, while yields are down in Japan, Australia and New Zealand, the latter after weak quarterly jobs data.
+•	The Bloomberg Dollar Spot Index is softer, with the Swiss franc and Swedish krona leading gains among major currencies and the kiwi the laggard. Asia FX is green across the board.
+•	Results from chipmaker AMD and Elon Musk’s satellites-to-social media group SpaceX failed to impress, sending shares in both lower in after-hours trading. AMD’s forecast didn’t meet high expectations, while SpaceX investors focused on the hikes being made to its AI spending. Germany’s Infineon, up 69% this year, picks up the baton for European semiconductor sector results Wednesday.
+•	Open-weight AI models being developed by Chinese companies won’t be subject to US government testing under the new Trump administration safety framework. The Federal Communications Commission, meanwhile, is drafting a ban on some imports of Chinese data center components.
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...

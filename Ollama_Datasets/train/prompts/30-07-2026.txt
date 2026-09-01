@@ -1,0 +1,366 @@
+## FORMATO:
+- Estilo profesional, conciso y analítico.
+- Usa abreviaturas: EEUU, UK, ATH, yoy, pbs, BBG.
+- Porcentajes con signo: +2.3%, -1.5%.
+- El comentario debe tener 4-5 párrafos en los que trates, al menos, los siguientes temas, sin que sea este un orden de importancia:
+    - Renta Variable, principalmente norteamericana y en menor medida europea
+    - Materias Primas
+    - Renta Fija, tipos de interés, Reserva Federal
+    - Noticias corporativas de primer orden en EEUU
+    - Agenda de datos a conocerse: Resultados empresariales en EEUU y Europa de empresas especialmente importantes, así como datos macro, especialmente inflación y desempleo en EEUU, UK y la Eurozona
+
+- Los temas tratados en cada párrafo irán de más a menos importancia, y su importancia dependerá de las fuentes Before The European Bell y Five Things, que se te adjuntan en el resto de este prompt.
+
+## DATOS NUMÉRICOS DE MERCADO (USA ESTOS VALORES EXACTOS):
+### RENTA VARIABLE (% día anterior):
+- S&P500: -0.38%
+- S&P Equal Weight (SPW): 0.20%
+- 7 Magníficas (BM7T): -1.00%
+- EuroStoxx50: 1.28%
+- Stoxx600: 0.67%
+- Ibex35: 1.15%
+- Nikkei: -1.03%
+
+Menciona los datos de S&P Equal Weight (SPW) y 7 Magníficas (BM7T) solo en el caso de que haya una diferencia apreciable (más de 0,6%) entre ambos, o tengan signo contrario (uno positivo y otro negativo)
+
+### SECTORES DESTACADOS:
+- Mejor sector S&P500: Comm Services (+1.52%)
+- Peor sector S&P500: Energy (0.32%)
+- Mejor sector Stoxx600: Materiales/Constr. (+1.03%)
+- Peor sector Stoxx600: Bancos (-0.24%)
+
+### MATERIAS PRIMAS:
+- Petróleo Brent: $94.0/barril
+- Petróleo WTI: $87.0/barril
+
+### RENTA FIJA (Yields bonos 10 años):
+- Bono EEUU: 4.81%
+- Bono Alemania: 3.20%
+- Bono España: 3.56%
+
+### EXPECTATIVAS DE TIPOS DE LA FED, BCE Y BANCO DE INGLATERRA (BOE)
+
+- FED: A diciembre se descuenta por parte de la Fed una subida de 20,8 puntos básicos, y a marzo 2027 una subida de 30,3 puntos básicos
+- BCE: A diciembre se descuenta por parte del BCE una subida de 40,2 puntos básicos, y a marzo 2027 una subida de 51,7 puntos básicos
+- BOE: A diciembre se descuenta por parte del BOE una subida de 25,1 puntos básicos, y a marzo 2027 una subida de 48,1 puntos básicos
+
+## NOTICIAS Y ANÁLISIS (FUENTES CUALITATIVAS):
+
+### FUENTE 1: BEFORE THE EUROPEAN BELL:
+--- INICIO ---
+Subject: Before the European Bell: Markets Caught Between Macro and Micro
+Before the European Bell: Markets Caught Between Macro and Micro
+By Farah Elbahrawy and Neil Campling
+07/30/2026 01:36:35 [BFW]
+(Bloomberg) -- European stock futures were steady ahead of the open as investors navigated a packed day of central bank action, key economic data and the busiest earnings slate of the season.
+Euro Stoxx 50 futures were flat at 7:26 a.m. CET, while contracts on the FTSE 100 were down 0.9%. 
+The session was volatile in Asia, with the Kospi swinging between gains of as much as 5.5% and a loss of as much as 2.1%. A 250-fold jump in Samsung Electronics’ chip profits was only briefly rewarded as investors increasingly question the business case for the massive investments pouring into AI development and data center construction.
+Besides earnings, central banks and inflation will also be top of mind on Thursday as Kevin Warsh’s bare-bones communication style left investors doubting his commitment to curb prices. The Bank of England is set to leave interest rates on hold as it sticks to a wait-and-see approach to navigate the wild swings in oil and gas prices.
+The unwind out of US tech picked up steam on Wednesday, with the Nasdaq 100 closing in correction territory as investors wagered that the Fed will face increasing pressure to act. Futures are pointing to a positive start in the US later, with Nasdaq contracts leading the advance.
+Microsoft was a bright spot afterhours, rallying as its earnings showed that the company’s investments in AI are starting to pay off. Azure cloud revenue beat estimates, while its capital expenditures were lower than expected. On the flip side, Meta Platforms fell as it gave a disappointing quarterly revenue forecast and reported the lowest free cash flow in years, a sign of ballooning expenses for AI bets.
+ 
+Europe’s outperformance versus the US is picking up this earnings season, with the Stoxx 600 up slightly since it began, while the S&P 500 has fallen 2.7%. European results since Wednesday’s close have been largely positive.
+Societe Generale raised its profitability target for the year and announced a €1.5 billion share buyback after second-quarter profit beat analysts’ estimates. Airbus reported a 54% increase in second-quarter earnings as aircraft production improved. L’Oreal sales climbed in the second quarter, boosted by growth in all regions.
+BBVA posted second-quarter profit that beat analysts’ estimates and announced a new share buyback program for as much as €2 billion. ArcelorMittal reported stronger than expected second-quarter earnings as the European Union moves to bolster its steel industry. AB InBev posted volume growth that narrowly missed expectations.
+On the geopolitical front, the US launched a new wave of strikes against Iran that targeted its Islamic Revolutionary Guard Corps in response to attacks on American military bases in the Middle East. Still, oil is steady as the US stopped short of hitting bridges and power plants in the Islamic Republic. Meanwhile, Qatar has sent its first shipment of liquefied natural gas through the Strait of Hormuz since one of its tankers was attacked in the waterway more than three weeks ago.
+ 
+Meanwhile, officials in the euro zone will get an initial batch of data to help them gauge if they should deliver another rate hike. GDP figures due on Thursday likely rebounded with a 0.2% increase in the second quarter.
+In other corporate news:
+•	Deutsche Lufthansa and Air France-KLM submitted binding offers for a minority stake in the country’s state-owned airline TAP, setting up a competition between the two aviation groups for a sought-after asset that provides access to markets like Latin America
+•	Mercedes-Benz Group Chief Executive Officer Ola Källenius expects the fierce pricing competition in the Chinese car market to stick around for years to come
+ 
+Earnings since the European close on Wednesday include: 
+•	Pirelli reported revenue for the first half-year €3.49 billion, -0.1% y/y, estimate €3.48 billion
+•	Webuild forecast revenue for the full year of above €13.6 billion, sees Ebitda above €1.2 billion
+•	Eramet reported sales for the first half-year of €1.55 billion, Ebitda €179 million, Adjusted Ebitda €276 million, Net loss €195 million
+•	EDP SA reported net income for the first half-year of €732 million vs. €709 million y/y
+•	Vinci reported revenue for the first half-year €35.60 billion, estimate €35.04 billion
+•	ADP reported Ebitda for the first half-year €1.02 billion, -1% y/y, estimate €964.7 million
+•	Renault reported operating margin for the first half-year 5.2% vs. 6% y/y, estimate 5.02%
+•	J. Martins reported Ebitda for the second quarter €663 million, +6.9% y/y, estimate €639.9 million
+•	Arcelik reported net income for the second quarter 3.44 billion liras vs. loss 3.09 billion liras y/y, estimate 2.4 billion liras
+•	AMG boosted its adjusted Ebitda forecast for the full year. Sees adjusted Ebitda $230 million to $250 million, saw $210 million to $240 million, estimate $246.8 million
+•	Emeis reported Ebitda for the first half-year of €461 million vs. €380 million y/y
+•	Sacyr reported net income for the first half-year of €78.3 million
+•	Telecom Italia reported organic revenue for the second quarter €3.51 billion, estimate €3.49 billion
+•	BCP reported net income for the first half-year of €565.8 million vs. €502.3 million y/y
+•	FDJ United reported recurring Ebitda for the first half-year €404 million, -8.4% y/y, estimate €402.5 million
+•	Viscofan reported Ebitda for the second quarter €71.1 million, estimate €70.9 million
+•	Tikehau Capital reported assets under management of €53.52 billion vs. €51.00 billion y/y
+•	Campari reported sales for the first half-year €1.51 billion, -1% y/y, estimate €1.49 billion
+•	Imerys forecast adjusted Ebitda for the full year. Sees adjusted Ebitda €550 million to €580 million, estimate €531.5 million
+•	BIC forecast adjusted Ebit margin for the full year of above 14%
+•	Knorr-Bremse reported preliminary operating Ebit margin for the second quarter +14.2%, estimate +13.9%
+•	Airbus reported adjusted Ebit for the second quarter €2.43 billion, +54% y/y, estimate €2.18 billion
+•	Elis reported organic revenue for the second quarter +3.2%, estimate +3.33%
+Elsewhere, so far this morning:
+•	BBVA forecast return on tangible equity for the full year +21%, saw above +20%, estimate +20.4%
+•	AB InBev reported organic volume growth for the second quarter +0.9%, estimate +0.96%
+•	Pharming cut its revenue forecast for the full year. Sees revenue $375.0 million to $395.0 million, saw $405 million to $425 million
+•	UCB reported core earnings per share for the first half-year €6.84, estimate €5.07
+•	Iveco reported consolidated revenue for the second quarter of €3.76 billion vs. €3.51 billion y/y
+•	Azelis reported adjusted Ebita for the first half-year €233.0 million, -0.6% y/y, estimate €219.2 million
+•	Vopak boosted its proportional Ebitda forecast for the full year. Sees proportional Ebitda €1.18 billion to €1.22 billion, saw €1.15 billion to €1.20 billion, estimate €1.18 billion
+•	BAM reported adjusted Ebitda for the first half-year of €240 million vs. €176.4 million y/y
+•	FinecoBank reported revenue for the second quarter €370.9 million, +18% y/y, estimate €358.4 million
+•	Scor reported net income for the second quarter €171 million, estimate €150.8 million
+•	Ontex forecast adjusted Ebitda €165 million to €180 million
+•	JCDecaux forecast organic adjusted revenue for the third quarter of about +5%
+•	Arcadis reported operating Ebitda for the second quarter of €135 million
+•	Fagron reported adjusted Ebitda for the first half-year of €107.1 million vs. €95.0 million y/y
+•	Avolta reported organic revenue for the first half-year +3.7%, estimate +4.04%
+•	Prysmian reported adjusted Ebitda for the second quarter €730 million, estimate €724.6 million. Revenue €6.02 billion, estimate €5.59 billion
+•	CTP reported net rental income for the first half-year of €404.8 million vs. €360.3 million y/y
+•	Kardex forecast Ebit margin for the full year of 8% to 10%
+•	SocGen reported net income for the second quarter €1.79 billion, +23% y/y, estimate €1.59 billion
+•	Bucher reported Ebit for the first half-year CHF105.0 million, -41% y/y, estimate CHF122.8 million
+•	Adnoc Drilling reported profit for the second quarter $357.1 million, +1.7% y/y, estimate $342.1 million
+Markets at a Glance
+ 
+Source: Bloomberg
+Equity Insights and Strategy
+•	JPMorgan derivatives strategists have taken a step toward answering one of the longest-running questions in listed derivatives markets: which side of the market were end-clients on, and what does that reveal about trade themes and positioning? The strategists have built a statistical model to infer the direction of block option trades on the Eurex exchange by combining block-trade data with Eurex’s signed flow dataset.
+European Sectors in Focus
+•	European companies with exposure to the mobile supply chain may be active after Qualcomm and Arm Holdings caution on the smartphone market 
+o	Qualcomm, the largest maker of smartphone processors, gave a weak profit forecast for the current quarter, signaling that component shortages and rising costs are taking a toll on its main market
+o	Arm shares slid in late trading after the company pointed to sluggishness in the smartphone industry 
+	Watch STMicroelectronics, Nordic Semiconductor, Infineon, Aixtron, Acconeer, Elmos Semiconductor, EnSilica and CML Microsystems
+US Markets
+US stocks sold off through the afternoon on Wednesday after a trio of Fed officials voted for a rate hike, dissenting with the central bank’s hold. The S&P 500 fell roughly 70 basis points after Europe went home to end the session down 1.5%, and the Nasdaq 100 entered a technical correction from its June peak after a 2.1% slide on Wednesday. 
+•	Eight of 11 S&P 500 sectors fell, led by declines in industrials (-3.2%), information technology (-2.5%) and financials (-1.6%) 
+o	Outperforming sectors include energy (+2%), consumer staples (+0.3%) and communication services (+0.2%)
+•	US stock futures are inching higher on Thursday morning, led by Nasdaq 100 contracts after Microsoft’s earnings
+•	Earnings season continues in the US, with the following companies among those due to report before the open on Thursday: 
+o	Air Products and Chemicals (watch Air Liquide)
+o	Altria (watch British American Tobacco, Imperial Brands and Scandinavian Tobacco)
+o	Avery Dennison (watch UPM-Kymmene and Mondi)
+o	Baxter International (Fresenius Medical Care, Getinge, ConvaTec, Arjo and Coloplast)
+o	Bristol-Myers Squibb (watch AstraZeneca, Roche, Novartis and Sanofi)
+o	CRH (watch Heidelberg Materials, Buzzi, Holcim, Saint-Gobain, Sika and Kingspan)
+o	Emcor (watch Engie and Mitie Group)
+o	Hershey (watch Nestle, Barry Callebaut, Magnum Ice Cream and Lindt)
+o	International Paper (watch UPM-Kymmene and Mondi)
+o	Labcorp (watch Eurofins Scientific and Qiagen)
+o	Martin Marietta Materials (watch Holcim and Heidelberg Materials)
+o	Quanta Services (watch Vinci, SPIE and Eiffage)
+o	Trane Technologies (watch Nibe Industrier and Systemair)
+o	Valero Energy (watch MOL, Orlen and Neste)
+o	Yum! Brands (watch Domino’s Pizza Group, AmRest, Ibersol SGPS and Delivery Hero)
+•	Mag 7 earnings continue after the market close, with Apple and Amazon expected to report later
+Asian Markets
+•	Asian shares are fluctuating in a volatile session, with South Korea’s Kospi Index swinging between gains and losses 
+o	MSCI’s Asian stocks benchmark is flat, while Japan’s Nikkei 225 Stock Average has pared gains after rising as much as 2.4%
+o	Samsung Electronics rose briefly after it posted a 250-fold surge in chip profits
+o	Thirty-year government bonds in Australia, New Zealand and South Korea are under pressure after longer-dated Treasury yields climbed when the Fed left interest rates unchanged
+o	Japan’s two-year government bond auction Thursday saw lower demand than the 12-month average amid growing expectations of central bank tightening
+Macro
+•	Firefighters are making progress in containing the spread of wildfires in France and Spain, with cooler weather toward the weekend offering the prospect of relief, but two died tackling a blaze in Greece.
+•	UK PM Andy Burnham indicated tax rises will likely be needed to pay for a major new social care policy, launching a nine-month “national conversation” about an issue he vowed to resolve after failed government attempts going back three decades.
+•	Burnham will put youth employment at the heart of his approach to defense investment on Thursday as he unveils the next tranche of funding for Britain’s Dreadnought submarine program.
+M&A and ECM
+•	Deutsche Lufthansa AG and Air France-KLM submitted binding offers for a minority stake in Portugal’s TAP.
+•	Arcadis rejected a second bid from WSP Global to acquire the company for a consideration of €51.50 per ordinary share in cash and WSP stock.
+European Corporate News
+•	Partners Group Caps Redemptions at Flagship US Evergreen Fund
+•	Airbus Boosting Capabilities to Help Fight Fires Ravaging Europe
+•	Paschi CEO Challenged on M&A Strategy by Some Board Members
+•	Shell, Phillips 66 Mull Sale of Stakes in Explorer Pipeline:Rtrs
+•	Mercedes CEO Says Cut-Throat China Competition Is Here to Stay
+•	Saipem Secures New €1b Revolving Credit Facility
+•	Snam to Shortlist Bioenerys Bidders by Fall, CEO Says
+•	BBVA Promotes Rodriguez to CFO as Part of Management Reshuffle
+•	ADP Targets €8.2B Investment Program Over Next 8 Years
+•	Bridgepoint Credit to Take Control of Carlyle Portfolio Firm
+Among the European Companies Reporting Today
+•	A2A SpA (A2A IM)
+•	AIB Group Plc (AIBG ID)
+•	Acciona SA (ANA SM)
+•	Accor SA (AC FP)
+•	Adidas AG (ADS GR)
+•	Air France-KLM (AF FP)
+•	Aixtron SE (AIXA GR)
+•	Allfunds Group Plc (ALLFG NA)
+•	Alzchem Group AG (ACT GR)
+•	Amplifon SpA (AMP IM)
+•	Amundi SA (AMUN FP)
+•	Andritz AG (ANDR AV)
+•	Anglo American Plc (AAL LN)
+•	Anheuser-Busch InBev SA (ABI BB)
+•	Aperam SA (APAM NA)
+•	Arcadis NV (ARCAD NA)
+•	ArcelorMittal SA (MT NA)
+•	Arkema SA (AKE FP)
+•	Atos Group (ATO FP)
+•	Avolta AG (AVOL SW)
+•	Ayvens SA (AYV FP)
+•	Azelis Group NV (AZE BB)
+•	Azimut Holding SpA (AZM IM)
+•	BAE Systems Plc (BA/ LN)
+•	BW Energy Ltd. (BWE NO)
+•	Bachem Holding AG (BANB SW)
+•	Banca Mediolanum SpA (BMED IM)
+•	Banco Bilbao Vizcaya Argentari (BBVA SM)
+•	Bayerische Motoren Werke AG (BMW GR)
+•	Bekaert SA (BEKB BB)
+•	Bouygues SA (EN FP)
+•	British American Tobacco Plc (BATS LN)
+•	Brunello Cucinelli SpA (BC IM)
+•	Bucher Industries AG (BUCN SW)
+•	CTP NV (CTPNV NA)
+•	CVC Capital Partners Plc (CVC NA)
+•	Capgemini SE (CAP FP)
+•	Ceconomy AG (CEC GR)
+•	Cellnex Telecom SA (CLNX SM)
+•	Cie de Saint-Gobain SA (SGO FP)
+•	Cirsa Enterprises SA (CIRSA SM)
+•	Coface SA (COFA FP)
+•	Construcciones & Auxiliar de F (CAF SM)
+•	Corp Acciona Energias Renovabl (ANE SM)
+•	D’Amico International Shipping (DIS IM)
+•	DSM-Firmenich AG (DSFIR NA)
+•	De’ Longhi SpA (DLG IM)
+•	Drax Group Plc (DRX LN)
+•	EDP SA (EDP PL)
+•	Elementis Plc (ELM LN)
+•	Enel SpA (ENEL IM)
+•	Erste Group Bank AG (EBS AV)
+•	Eurobank SA (EUROB GA)
+•	Euronext NV (ENX FP)
+•	Faes Farma SA (FAE SM)
+•	Fagron (FAGR BB)
+•	FinecoBank Banca Fineco SpA (FBK IM)
+•	Flow Traders Ltd. (FLOW NA)
+•	Fluidra SA (FDR SM)
+•	Groupe Bruxelles Lambert NV (GBLB BB)
+•	Haleon Plc (HLN LN)
+•	Hammerson Plc (HMSO LN)
+•	Heidelberg Materials AG (HEI GR)
+•	Helios Towers Plc (HTWS LN)
+•	Hella GmbH (HLE GR)
+•	ING Groep NV (INGA NA)
+•	Idorsia Ltd. (IDIA SW)
+•	Industrie De Nora SpA (DNR IM)
+•	Inficon Holding AG (IFCN SW)
+•	Informa Plc (INF LN)
+•	Ipsen SA (IPN FP)
+•	Iren SpA (IRE IM)
+•	Iveco Group NV (IVG IM)
+•	JCDecaux SE (DEC FP)
+•	Kardex Holding AG (KARN SW)
+•	Kion Group AG (KGX GR)
+•	Koninklijke BAM Groep NV (BAMNB NA)
+•	Koninklijke Vopak NV (VPK NA)
+•	Lloyds Banking Group Plc (LLOY LN)
+•	London Stock Exchange Group PL (LSEG LN)
+•	MTU Aero Engines AG (MTX GR)
+•	Magnum Ice Cream Co. (MICC NA)
+•	Maire SpA (MAIRE IM)
+•	Manitou BF SA (MTU FP)
+•	Melia Hotels International SA (MEL SM)
+•	Mersen SA (MRN FP)
+•	Mondi Plc (MNDI LN)
+•	National Bank of Greece SA (ETE GA)
+•	Nemetschek SE (NEM GR)
+•	Optima bank SA (OPTIMA GA)
+•	Outokumpu Oyj (OUT1V FH)
+•	Pharming Group NV (PHARM NA)
+•	Planisware SA (PLNW FP)
+•	Primary Health Properties Plc (PHP LN)
+•	Prysmian SpA (PRY IM)
+•	Puig Brands SA (PUIG SM)
+•	RAI Way SpA (RWAY IM)
+•	Ren - Redes Energeticas Nacion (RENE PL)
+•	Rentokil Initial Plc (RTO LN)
+•	Reply SpA (REY IM)
+•	Rolls-Royce Holdings Plc (RR/ LN)
+•	SES SA (SESG FP)
+•	SNP Schneider-Neureither & Par (SHF GR)
+•	SPIE SA (SPIE FP)
+•	Sanofi SA (SAN FP)
+•	Schneider Electric SE (SU FP)
+•	Schroders Plc (SDR LN)
+•	Scor SE (SCR FP)
+•	Segro Plc (SGRO LN)
+•	Shell Plc (SHEL LN)
+•	Siltronic AG (WAF GR)
+•	Societe Generale SA (GLE FP)
+•	Subsea 7 SA (SUBC NO)
+•	Syensqo SA (SYENS BB)
+•	Symrise AG (SY1 GR)
+•	Technip Energies NV (TE FP)
+•	Technogym SpA (TGYM IM)
+•	Tecnicas Reunidas SA (TRE SM)
+•	Teleperformance SE (TEP FP)
+•	Titan SA (TITC BB)
+•	UCB SA (UCB BB)
+•	Unibail-Rodamco-Westfield (URW FP)
+•	Universal Music Group NV (UMG NA)
+•	Vallourec Saca (VK FP)
+•	Veolia Environnement SA (VIE FP)
+•	Verbund AG (VER AV)
+•	Verisure Plc (VSURE SS)
+•	Vesuvius Plc (VSVS LN)
+•	Viridien (VIRI FP)
+•	Wacker Chemie AG (WCH GR)
+•	Wendel SE (MF FP)
+•	Worldline SA (WLN FP)
+•	X-Fab Silicon Foundries SE (XFAB FP)
+Main Rating Changes
+UPGRADES:
+•	Belimo raised to neutral at UBS; PT 827 Swiss francs
+•	Centrica raised to buy at HSBC; PT 200 pence
+•	Galderma raised to overweight at Morgan Stanley
+•	Lumo Kodit raised to buy at SEB Equities; PT 9.50 euros
+•	Rio Tinto raised to buy at Berenberg; PT 8,600 pence
+•	Rio Tinto raised to buy at Goldman
+•	Viafin Service raised to accumulate at Inderes; PT 21 euros
+DOWNGRADES:
+•	Alten cut to neutral at BNP Paribas; PT 90 euros
+•	Pirelli cut to neutral at JPMorgan; PT 7.20 euros
+INITIATIONS:
+•	None reported.
+Economic Agenda (All times CET)
+•	07:30: (Fra) 2Q GDP QoQ, est. 0.2%, prior -0.1%
+•	07:30: (Fra) June Consumer Spending YoY, est. 0.1%, prior 0.3%
+•	08:00: (Denk) June Unemployment Rate SA, prior 2.7%
+•	08:45: (Fra) 2Q Private Sector Payrolls QoQ, est. -0.1%, prior -0.1%
+•	09:00: (Spain) July CPI YoY, est. 3.2%, prior 3.2%
+•	09:00: (Spain) July CPI EU Harmonised YoY, est. 3.7%, prior 3.6%
+•	09:00: (Spain) July CPI Core YoY, est. 2.8%, prior 2.9%
+•	09:00: (Spain) 2Q GDP QoQ, est. 0.6%, prior 0.6%
+•	09:30: (Nether) 2Q GDP QoQ, est. 0.4%, prior 0.2%
+•	10:00: (Italy) 2Q GDP WDA QoQ, est. 0.1%, prior 0.3%
+•	10:00: (Ger) 2Q GDP SA QoQ, est. 0.1%, prior 0.3%
+•	11:00: (Eurozone) 2Q GDP SA QoQ, est. 0.2%, prior -0.2%, revised 0%
+•	11:00: (Eurozone) July Economic Confidence, est. 96.0, prior 95.0
+•	11:00: (Eurozone) July Industrial Confidence, est. -7.0, prior -7.7
+•	11:00: (Eurozone) July Services Confidence, est. 3.8, prior 3.2
+•	11:00: (Italy) June Unemployment Rate, est. 5.0%, prior 5.0%
+•	12:00: (Italy) June PPI MoM, prior -0.5%
+Central Banks (All times CET)
+•	13:00: (UK) July Bank of England Bank Rate, est. 3.750%, prior 3.750%
+European Ex-divs
+•	TGS ASA (TGS NO)
+Ex-dividend dates according to Bloomberg data
+
+--- FIN ---
+
+### FUENTE 2: FIVE THINGS:
+--- INICIO ---
+07/30/2026 01:19:47 [BFW]
+(Bloomberg) 
+•	Long bonds in Japan and Australia fell after 30-year Treasury yields surged to their highest since 2007. The FOMC voted 9-3 to hold the benchmark federal funds rate. Fed Chairman Warsh insisted the decision wasn’t a sign of inertia at the central bank, which he reiterated is committed to tackling inflation. Bond traders lowered expectations the Fed will raise interest rates at its next meeting.
+•	Asian stocks whipsawed, with the Kospi reversing an earlier gain of more than 5%. The Nikkei and the Taiex outperformed, while Chinese stocks dropped. Samsung Electronics shares gained and fell by more than 5% at different stages after it posted a 250-fold surge in chip profits and forecast memory shortages to worsen next year. Advantest shares jumped after the semiconductor tester maker raised its full-year forecast above market estimates. Chinese tech stocks plunged, led by high-flying chip names, as concerns over stretched valuations and crowded positioning intensified a rotation out of the sector. In the US, the Nasdaq-100 Index dropped to close in a correction.
+•	Microsoft shares gained in extended US trading, after the company’s results beat expectations on key metrics, including cloud revenue. Meta shares fell after it gave a disappointing revenue projection. Arm Holdings delivered a sales outlook that failed to impress investors, while Qualcomm gave a weak profit forecast, signaling component shortages and rising costs are taking a toll. US equity index futures edged higher, with Nasdaq-100 contracts rising 0.5%.
+•	Oil was little changed with Brent October contracts were just under $88/bbl. The US launched a new wave of strikes against Iran in response to attacks on American military bases in the Middle East. Qatar has sent its first shipment of LNG through the Strait of Hormuz since one of its tankers was attacked in the waterway more than three weeks ago.
+•	Societe Generale raised its profitability target for the year and announced a €1.5 billion ($1.7 billion) share buyback after second-quarter profit beat analysts’ estimates. BBVA announced plans for a new share buy back program of as much as €2 billion. ING reported net income that beat the average analyst estimate
+
+--- FIN ---
+
+
+## EJEMPLOS DE COMENTARIOS ANTERIORES:
+--- 27/04/2026 ---
+Subidas de entorno al +2% de los futuros sobre el Brent y el WTI esta mañana, por encima de $96 y $107, respectivamente. El precio spot del Brent está en $112.9, habiéndose cerrado el diferencial contra el precio descontado por los futuros por debajo de los $6, desde más de $35 hace 2 semanas. En US, Axios publica que Irán habría hecho llegar una propuesta de negociación a US, a través de Pakistán, para poner fin a la guerra. Según Axios, la propuesta plantearía un cese de la guerra y del bloqueo de Irán del Estrecho de Ormuz a cambio de que US levantase su propio bloqueo a los barcos procedentes de Irán y de garantías por parte de US del fin de ataques sobre Irán. La propuesta incluiría el ...
+
+--- 23/04/2026 ---
+Otra vez los futuros del Brent por encima de los $100, después de subir ayer un +3.5%, y con un alza adicional del +1% esta mañana, ya en los $103. El precio spot del petróleo Brent subió ayer en $4, hasta los $111. Los futuros del WTI se mantienen más contenidos, ahora a $94. La subida de ayer fue un reflejo de la falta de avances en las negociaciones entre US e Irán, al negarse este último país a participar en ningún tipo de conversaciones por el momento, algo que Trump achacó ayer a las divisiones internas en Irán, en las que se estaría imponiendo la línea dura. En cualquier caso, el crudo sigue sin fluir, se mantiene el bloqueo naval USA a los barcos provenientes de Irán, aunque según BB...
