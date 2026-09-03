@@ -19,31 +19,26 @@ Proyecto de fin de curso de **LLMOps** que implementa una aplicación de generac
 
 Excel con datos Before the Bell Five Things
 de mercado (Bloomberg) (Bloomberg)
-│ │ │
-└────────────────────────┴──────────────────────┘
-│
-┌──────────▼──────────┐
-│ Agente FED │
-│ ┌───────────────┐ │
-│ │ MCP Fetch │ │ ← Discursos oficiales
-│ │ (RSS Fed) │ │ federalreserve.gov
-│ └──────┬────────┘ │
-│ │ Sin │
-│ ▼ discursos │
-│ ┌───────────────┐ │
-│ │ Google Search │ │ ← Fallback: noticias
-│ │ Grounding │ │ últimas 24h
-│ └───────────────┘ │
-└──────────┬──────────┘
-│
-┌──────────▼──────────┐
-│ Gemini Flash │ ← Generación comentario
-│ (Google AI) │ ~650 palabras
-└──────────┬──────────┘
-│
-┌──────────▼──────────┐
-│ LangSmith │ ← Trazabilidad completa
-└─────────────────────┘
+
+```mermaid
+flowchart TD
+    A[📊 Excel Datos Mercado] --> D
+    B[📰 Before the Bell] --> D
+    C[📰 Five Things] --> D
+
+    D[🤖 Agente FED] --> E
+
+    E{¿Discursos oficiales?}
+    E -- Sí --> F[MCP Fetch\nRSS federalreserve.gov]
+    E -- No --> G[Google Search Grounding\nNoticias últimas 24h]
+
+    F --> H
+    G --> H
+
+    H[✨ Gemini 3.5 Flash\nGeneración comentario ~650 palabras]
+    H --> I[📋 Comentario financiero]
+    H --> J[🔍 LangSmith\nTrazabilidad completa]
+```
 
 
 ---
@@ -79,33 +74,19 @@ de mercado (Bloomberg) (Bloomberg)
 
 ## 📁 Estructura del repositorio
 
-Practica_DevOps_2026/
-│
-├── app-comentario.py # App principal (Cloud Run + Gemini)
-├── Dockerfile # Imagen Docker para Cloud Run
-├── requirements.txt # Dependencias Python
-├── Comentario_Mercados_Pedro_csv.csv # Ejemplos de comentarios (few-shot)
-├── Proyecto_LLMOps_IA_Memoria.pdf # Memoria del proyecto
-│
-├── .github/
-│ └── workflows/
-│ └── deploy.yml # Pipeline CI/CD → Cloud Run
-│
-├── Ejemplo_Ficheros_Necesarios/ # Ficheros de ejemplo para ejecutar la app
-│ └── ... # Excel de mercado, Before the Bell, Five Things
-│
-├── Ollama_Main_Files/ # App con modelos locales (Gemma 3 + Gemma 2)
-│ └── app_modelos_locales.py
-│
-├── Ollama_Datasets/ # Dataset de fine-tuning (18 pares prompt/comentario)
-│ └── ...
-│
-├── Ollama_Notebooks/ # Notebooks de fine-tuning Gemma 3 4B con Unsloth
-│ └── ...
-│
-└── Ollama_Ragas_Files/ # Evaluación del modelo con RAGAS + DeepSeek
-└── ...
 
+| Carpeta / Fichero | Contenido |
+|---|---|
+| `app-comentario.py` | App principal desplegada en Cloud Run |
+| `Dockerfile` | Imagen Docker para Cloud Run |
+| `requirements.txt` | Dependencias Python |
+| `Comentario_Mercados_Pedro_csv.csv` | Ejemplos few-shot para el LLM |
+| `.github/workflows/deploy.yml` | Pipeline CI/CD → Cloud Run |
+| `Ejemplo_Ficheros_Necesarios/` | Ficheros de ejemplo para ejecutar la app |
+| `Ollama_Main_Files/` | App con modelos locales (Gemma 3 + Gemma 2) |
+| `Ollama_Datasets/` | Dataset de fine-tuning (18 pares prompt/comentario) |
+| `Ollama_Notebooks/` | Notebooks de fine-tuning Gemma 3 4B con Unsloth |
+| `Ollama_Ragas_Files/` | Evaluación del modelo con RAGAS + DeepSeek |
 
 ---
 
@@ -188,12 +169,17 @@ La `faithfulness` moderada refleja overfitting por dataset reducido (18 ejemplos
 
 Cada ejecución genera una traza completa en LangSmith con la siguiente jerarquía:
 
-Pipeline comentario financiero (chain)
-├── Agente de discursos o noticias Fed (agent)
-│ ├── MCP Fetch → RSS federalreserve.gov
-│ └── Google Search Grounding (fallback)
-└── generate_commentary (llm)
-└── Gemini 3.5 Flash
+```mermaid
+flowchart TD
+    A[Pipeline comentario financiero\n chain] --> B
+    A --> C
+
+    B[Agente discursos o noticias Fed\n agent] --> B1[MCP Fetch → RSS federalreserve.gov]
+    B --> B2[Google Search Grounding fallback]
+
+    C[generate_commentary\n llm] --> C1[Gemini 3.5 Flash]
+```
+
 
 ---
 
