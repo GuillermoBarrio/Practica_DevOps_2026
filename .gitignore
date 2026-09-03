@@ -11,3 +11,8 @@ __pycache__/
 # Archivos de configuración del IDE/Editor
 .vscode/
 .idea/
+
+# Metadatos de Windows
+*:Zone.Identifier
+
+
